@@ -74,11 +74,11 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
   const da = upset.deepAnalysis
   const ins = upset.insights
   const wp = da?.winProbability
-  // Polymarket 隐含概率（优先用 polymarket 盘口，否则用 pinnacle）
+  // 市场隐含概率（优先 polymarket → pinnacle → bet365 → williamhill）
   const pmOdds = upset.realOdds?.polymarket
-  const refOdds = pmOdds || upset.realOdds?.pinnacle
+  const refOdds = pmOdds || upset.realOdds?.pinnacle || upset.realOdds?.bet365 || upset.realOdds?.williamhill
   const pmProb = refOdds ? impliedProb(refOdds, upset.team1, upset.team2) : null
-  const pmLabel = pmOdds ? 'Polymarket' : 'Pinnacle(去水位)'
+  const pmLabel = pmOdds ? 'Polymarket' : upset.realOdds?.pinnacle ? 'Pinnacle(去水位)' : upset.realOdds?.bet365 ? 'Bet365(去水位)' : 'William Hill(去水位)'
 
   return (
     <div className={`rounded-xl p-5 border transition-all duration-300 ${colors.bg} ${colors.glow}`}>
