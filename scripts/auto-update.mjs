@@ -83,6 +83,11 @@ ${newsBlock}
  "consensusView":"综合全网共识(100字内)",
  "latestNewsSummary":"最新新闻要点提炼(80字内)",
  "upsetProbability":数字0-100,"upsetTeam":"弱队","favoriteTeam":"强队","upsetWinOdds":数字,"riskLevel":"high/medium/low",
+ "upsetTriggers":"可能触发爆冷的3-4个关键条件，如伤病/战术克制/心理/气候等(100字内)",
+ "antiUpsetFactors":"阻止爆冷发生的2-3个防护因素(80字内)",
+ "historicalUpsetPattern":"历史上类似配置的爆冷案例参考(80字内)",
+ "valueAssessment":"当前赔率是否低估了弱队？押注价值如何(80字内)",
+ "upsetScenario":"如果爆冷发生，最可能的比赛剧本是什么(100字内)",
  "objectiveConclusion":"最客观结论与比分区间(120字内)"
 }
 平衡呈现支持与反对爆冷的论据。只返回JSON。`

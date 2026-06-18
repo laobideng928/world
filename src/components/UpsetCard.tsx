@@ -15,6 +15,12 @@ interface DeepAnalysis {
   consensusView?: string
   latestNewsSummary?: string
   objectiveConclusion?: string
+  // 爆冷专项维度
+  upsetTriggers?: string
+  antiUpsetFactors?: string
+  historicalUpsetPattern?: string
+  valueAssessment?: string
+  upsetScenario?: string
 }
 
 interface Insights {
@@ -217,6 +223,18 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
               {da?.externalFactors && <Dim icon="🌍" label="地理/气候/主场" text={da.externalFactors} />}
               {da?.psychologyAnalysis && <Dim icon="🧠" label="心理与大赛经验" text={da.psychologyAnalysis} />}
               {da?.consensusView && <Dim icon="🗣️" label="全网专家共识" text={da.consensusView} />}
+
+              {/* 爆冷专项维度 */}
+              {(da?.upsetTriggers || da?.antiUpsetFactors || da?.upsetScenario) && (
+                <div className="pt-2 border-t border-white/10">
+                  <div className="text-[11px] text-yellow-400/80 font-medium mb-2">🔥 爆冷机会深度分析</div>
+                </div>
+              )}
+              {da?.upsetTriggers && <Dim icon="⚡" label="可能触发爆冷的关键条件" text={da.upsetTriggers} />}
+              {da?.antiUpsetFactors && <Dim icon="🛡️" label="阻止爆冷的防护因素" text={da.antiUpsetFactors} />}
+              {da?.historicalUpsetPattern && <Dim icon="📖" label="历史类似爆冷案例" text={da.historicalUpsetPattern} />}
+              {da?.valueAssessment && <Dim icon="💎" label="押注价值评估" text={da.valueAssessment} />}
+              {da?.upsetScenario && <Dim icon="🎬" label="爆冷发生的剧本" text={da.upsetScenario} />}
 
               {da?.latestNewsSummary && <Dim icon="📰" label="最新新闻要点" text={da.latestNewsSummary} />}
 
