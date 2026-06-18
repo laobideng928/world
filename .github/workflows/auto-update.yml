@@ -1,0 +1,44 @@
+name: Auto Update Analysis
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # 每4小时(UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run auto update (latest news + Opus 4.8 re-analysis)
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+        run: node scripts/auto-update.mjs
+
+      - name: Commit updated analysis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet src/data/analysis.json; then
+            echo "数据无变化，跳过提交"
+          else
+            git add src/data/analysis.json
+            git commit -m "auto: 定时更新分析与最新新闻 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

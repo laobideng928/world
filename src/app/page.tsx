@@ -28,6 +28,7 @@ interface UpsetResult {
   realOdds?: Record<string, Record<string, number>> | null
   deepAnalysis?: Record<string, unknown> | null
   insights?: Record<string, unknown> | null
+  latestNews?: string[] | null
 }
 
 type SortMode = 'upset' | 'time'
@@ -39,6 +40,10 @@ export default function HomePage() {
   const [riskFilter, setRiskFilter] = useState<RiskFilter>('all')
 
   const allMatches = analysisData.matches as unknown as UpsetResult[]
+  const lastUpdated = (analysisData as { lastUpdated?: string }).lastUpdated
+  const lastUpdatedText = lastUpdated
+    ? new Date(lastUpdated).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+    : null
 
   // 仅展示当前仍未开赛的比赛（基于固定数据再做一次实时时间过滤）
   const upcoming = useMemo(() => {
@@ -149,7 +154,7 @@ export default function HomePage() {
             <p className="text-sm text-gray-400">
               📊 已逐场全维度分析全部 <span className="text-white font-bold">{upcoming.length}</span> 场剩余比赛 ·
               数据由 Claude Opus 4.8 客观生成 ·
-              所有用户看到相同结果
+              {lastUpdatedText ? <>最近更新 <span className="text-green-300">{lastUpdatedText}</span> (北京时间) · 每4小时自动刷新</> : '所有用户看到相同结果'}
             </p>
           </div>
 

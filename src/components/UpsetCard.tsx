@@ -13,6 +13,7 @@ interface DeepAnalysis {
   externalFactors?: string
   psychologyAnalysis?: string
   consensusView?: string
+  latestNewsSummary?: string
   objectiveConclusion?: string
 }
 
@@ -43,6 +44,16 @@ interface UpsetResult {
   realOdds?: Record<string, Record<string, number>> | null
   deepAnalysis?: DeepAnalysis | null
   insights?: Insights | null
+  latestNews?: string[] | null
+}
+
+// 根据 1X2 赔率计算去水位后的隐含概率
+function impliedProb(o: Record<string, number>, t1: string, t2: string) {
+  const h = o[t1], d = o.draw, a = o[t2]
+  if (!h || !d || !a) return null
+  const inv = [1 / h, 1 / d, 1 / a]
+  const sum = inv[0] + inv[1] + inv[2]
+  return { [t1]: Math.round((inv[0] / sum) * 100), draw: Math.round((inv[1] / sum) * 100), [t2]: Math.round((inv[2] / sum) * 100) }
 }
 
 const BOOK_LABELS: Record<string, string> = {
@@ -63,6 +74,11 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
   const da = upset.deepAnalysis
   const ins = upset.insights
   const wp = da?.winProbability
+  // Polymarket 隐含概率（优先用 polymarket 盘口，否则用 pinnacle）
+  const pmOdds = upset.realOdds?.polymarket
+  const refOdds = pmOdds || upset.realOdds?.pinnacle
+  const pmProb = refOdds ? impliedProb(refOdds, upset.team1, upset.team2) : null
+  const pmLabel = pmOdds ? 'Polymarket' : 'Pinnacle(去水位)'
 
   return (
     <div className={`rounded-xl p-5 border transition-all duration-300 ${colors.bg} ${colors.glow}`}>
@@ -94,6 +110,20 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
           </div>
         )}
       </div>
+
+      {/* Polymarket/市场隐含概率 */}
+      {pmProb && (
+        <div className="mb-3 p-2 rounded-lg bg-indigo-500/10 border border-indigo-500/20">
+          <div className="flex items-center justify-between text-[10px] text-indigo-300/80 mb-1">
+            <span>🔮 {pmLabel} 隐含概率</span>
+          </div>
+          <div className="flex justify-between text-xs">
+            <span className="text-white">{upset.team1} <b className="text-indigo-300">{pmProb[upset.team1]}%</b></span>
+            <span className="text-gray-400">平 <b>{pmProb.draw}%</b></span>
+            <span className="text-white">{upset.team2} <b className="text-indigo-300">{pmProb[upset.team2]}%</b></span>
+          </div>
+        </div>
+      )}
 
       {/* 胜平负概率（Opus研判） */}
       {wp && (
@@ -188,7 +218,21 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
               {da?.psychologyAnalysis && <Dim icon="🧠" label="心理与大赛经验" text={da.psychologyAnalysis} />}
               {da?.consensusView && <Dim icon="🗣️" label="全网专家共识" text={da.consensusView} />}
 
+              {da?.latestNewsSummary && <Dim icon="📰" label="最新新闻要点" text={da.latestNewsSummary} />}
+
               {ins?.keyPlayers && <Dim icon="⭐" label="关键球员" text={ins.keyPlayers} />}
+
+              {/* 最新Google新闻 */}
+              {upset.latestNews && upset.latestNews.length > 0 && (
+                <div className="p-2 rounded-lg bg-black/20 border border-white/10">
+                  <div className="text-gray-400 mb-1.5">🗞️ 最新新闻 (Google News)</div>
+                  <ul className="space-y-1">
+                    {upset.latestNews.slice(0, 5).map((v, i) => (
+                      <li key={i} className="text-gray-300 leading-relaxed">• {v}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
 
               {/* 全网专家原始观点 */}
               {ins?.expertViews && ins.expertViews.length > 0 && (

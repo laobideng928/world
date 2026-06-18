@@ -16,7 +16,7 @@
       "kickoffET": "2026-06-26T23:00:00-04:00",
       "venue": "流明球场",
       "city": "西雅图",
-      "upsetProbability": 22,
+      "upsetProbability": 31,
       "upsetTeam": "伊朗",
       "favoriteTeam": "埃及",
       "upsetWinOdds": 3.59,
@@ -25,7 +25,7 @@
       "physicalComparison": "埃及球员对抗和爆发力占优，非洲球队在力量和速度上对亚洲球队具压制力。",
       "keyReason": "非洲球队身体优势及球星的反击爆点能力。",
       "detailedAnalysis": "本场是势均力敌的较量。伊朗虽FIFA排名较高为让球方，但埃及在身体对抗和绝对速度上占优。西雅图凉爽气候利于高强度对抗。伊朗防守稳健但进攻缺乏变化，埃及若利用球星能力打出反击，取胜概率不低。",
-      "riskLevel": "low",
+      "riskLevel": "medium",
       "realOdds": {
         "pinnacle": {
           "埃及": 2.21,
@@ -45,25 +45,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "埃及": 45,
-          "draw": 33,
-          "伊朗": 22
+          "埃及": 40,
+          "draw": 29,
+          "伊朗": 31
         },
-        "tacticalAnalysis": "埃及哈桑主打4-2-3-1反击体系，依赖萨拉赫与马尔穆什的边路速度冲击，后防线稳固；伊朗加莱诺伊采用4-4-2务实防守反击，失去阿兹蒙后进攻支点单薄，塔雷米独挑大梁压力巨大。埃及反击速度优势明显，伊朗中场控制力强但破密集防守能力存疑，战术相克上埃及占优。",
-        "physicalAnalysis": "埃及边锋群速度出众（萨拉赫33岁仍保持顶级冲刺），中场对抗偏软；伊朗整体身体对抗强悍、耐力充沛，但缺少爆发型前锋。速度埃及占优，对抗与耐力伊朗略胜。",
-        "formAnalysis": "埃及非洲杯四强状态上扬，萨拉赫利物浦赛季末高光；伊朗3月热身赛进攻乏力暴露锋线短板，士气受阿兹蒙缺阵影响。近期状态埃及明显更佳。",
-        "injuryImpact": "伊朗头号射手阿兹蒙缺阵是致命打击，塔雷米孤掌难鸣，进攻火力大幅削弱；埃及阵容齐整无重大伤情，锋线三叉戟完整。伤病因素严重利好埃及。",
-        "h2hAnalysis": "历史2次友谊赛伊朗1胜1平占优，但均为低级别热身且阵容变化大，参考价值有限，本届世界杯小组生死战战术与人员差异显著。",
-        "oddsAnalysis": "三家主流机构一致看好埃及，去水位后公平概率约：埃及43%、平局32%、伊朗25%。资金集中流向埃及，市场认为萨拉赫领衔的反击体系克制伊朗防守反击，且伊朗锋线残缺是关键劣势。赔率反映理性判断。",
-        "externalFactors": "西雅图6月气候温和适宜双方，中立场地无主场优势。伊朗或面临签证与政治舆论压力，长途旅行疲劳；埃及同样长途但备战更充分。外部因素略利好埃及。",
-        "psychologyAnalysis": "埃及大赛经验丰富（萨拉赫欧冠决赛历练），末轮争第二出线压力转化为动力；伊朗失去核心后信心受挫，加上国际舆论压力，心理包袱较重。",
-        "consensusView": "全网专家普遍看好埃及：Independent与Yahoo均认为萨拉赫领衔埃及更具出线实力，RotoWire指出这是争第二的实质决赛但倾向埃及；伊朗失去阿兹蒙后进攻乏力是共识。市场与专家高度一致看好埃及小胜或战平。",
-        "upsetProbability": 22,
+        "tacticalAnalysis": "埃及哈桑式反击体系，重后防稳固，靠萨拉赫与马尔穆什的速度直击身后空当；伊朗加莱诺伊务实低位防守、密集中场，依赖塔雷米支点与定位球。两队均偏防反，互不冒进，节奏易陷僵局，谁先破局靠个人能力定胜负。",
+        "physicalAnalysis": "伊朗身材高大、对抗与制空占优，定位球威胁大；埃及更具爆发速度与灵活性，反击转换更快。整体体能相当，伊朗在空中球占明显优势。",
+        "formAnalysis": "埃及非洲杯四强后状态稳定，萨拉赫领衔信心足；伊朗3月热身无阿兹蒙进攻乏力暴露隐忧。赛前两队均聚焦于抵制赛事'Pride Match'标签的场外争议，士气受外部话题分散。",
+        "injuryImpact": "伊朗头号前锋阿兹蒙落选30人名单（伤病兼政治传闻），进攻火力骤减，塔雷米独木难支，破密集防守能力下降。埃及无重大伤情，主力齐整，整体可用度占优。",
+        "h2hAnalysis": "历史2次友谊赛伊朗1胜1平占优，但样本极小且非正赛，参考价值有限。",
+        "oddsAnalysis": "三平台高度一致，埃及主胜约2.2-2.3、伊朗客胜约3.5-3.59，埃及为小热。以pinnacle去水后公平概率约埃及42%、平31%、伊朗27%。资金略偏埃及，反映阿兹蒙缺阵削弱伊朗，但平局赔率偏低显示市场预期低比分胶着。",
+        "externalFactors": "西雅图流明球场，6月底气候温和。中立场地无真正主场，但当地伊朗与埃及侨民均不少，看台情绪或被场外政治争议放大，氛围微妙。",
+        "psychologyAnalysis": "两队均世界杯老将、大赛经验丰富。'Pride Match'标签引发双方共同抵触，场外压力或转为防守保守心态。埃及因萨拉赫领袖效应心理略占主动。",
+        "consensusView": "全网共识倾向埃及小幅占优：阿兹蒙缺阵重创伊朗进攻，萨拉赫成最大变量。但伊朗防守韧性强、历史交锋占优，多数分析预期低比分、平局概率偏高的胶着对决，胜负悬念大。",
+        "latestNewsSummary": "赛事被冠以西雅图'Pride Match'主题，埃及与伊朗双方均公开反对该标签，场外政治与文化争议成焦点；ESPN等聚焦G组形势，比赛被定位为势均力敌的关键较量。",
+        "upsetProbability": 31,
         "upsetTeam": "伊朗",
         "favoriteTeam": "埃及",
         "upsetWinOdds": 3.59,
-        "riskLevel": "low",
-        "objectiveConclusion": "综合赔率、情报与专家共识，埃及胜率显著高于伊朗。阿兹蒙缺阵严重削弱伊朗进攻，萨拉赫速度冲击克制伊朗防守体系，近期状态与心理优势均在埃及。伊朗爆冷概率低，最可能比分：埃及1-0或2-1小胜，或1-1战平后依赖净胜球出线。"
+        "riskLevel": "medium",
+        "objectiveConclusion": "埃及凭主力齐整与萨拉赫攻击力略占上风，但伊朗防守稳固、历史交锋占优，爆冷不可低估。预计低比分胶着，平局概率偏高。支持埃及：阵容完整、反击犀利；支持伊朗：防守韧性、对抗制空。比分区间1-0、1-1、0-0、2-1之间，倾向僵局。"
       },
       "insights": {
         "injuries": "伊朗头号前锋阿兹蒙落选30人名单(伤病/政治传闻)，塔雷米独挑大梁；埃及无重大伤情",
@@ -77,7 +78,14 @@
         ],
         "keyPlayers": "埃及:萨拉赫、马尔穆什、特雷泽盖；伊朗:塔雷米、贾汉巴赫什、贝兰万德",
         "xfactor": "伊朗或受签证限制与政治舆论压力；萨拉赫33岁能否末轮决胜"
-      }
+      },
+      "latestNews": [
+        "EGYvIRA 101 Preview: All you need to know when Egypt faces IR Iran in FIFA World Cup 2026™ in Seattle - Seattle Sounders FC",
+        "Iran and Egypt will meet, uncomfortably, in Seattle's World Cup 'Pride Match' - WXII",
+        "Iran and Egypt will meet, uncomfortably, in Seattle’s World Cup ‘Pride Match’ - East Bay Times",
+        "Iran and Egypt object to World Cup ‘Pride Match' branding ahead of Seattle clash - Yahoo Sports",
+        "Group G at the 2026 World Cup: Teams, records, stats to know - ESPN"
+      ]
     },
     {
       "matchNo": 65,
@@ -90,10 +98,10 @@
       "kickoffET": "2026-06-26T20:00:00-04:00",
       "venue": "NRG体育场",
       "city": "休斯顿",
-      "upsetProbability": 35,
-      "upsetTeam": "沙特阿拉伯",
-      "favoriteTeam": "佛得角",
-      "upsetWinOdds": 2.62,
+      "upsetProbability": 42,
+      "upsetTeam": "佛得角",
+      "favoriteTeam": "沙特阿拉伯",
+      "upsetWinOdds": 2.45,
       "marketImplied": "市场隐含沙特微弱优势，但佛得角逼平西班牙后受资金追捧，两队胜率已非常接近",
       "tacticalReason": "沙特高位逼抢遇上佛得角稳固防反，佛得角能利用沙特防线身后空间打出致命反击。",
       "physicalComparison": "非洲球队身体对抗和爆发力碾压亚洲球队，佛得角在拼抢和高空球占绝对优势。",
@@ -114,26 +122,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "佛得角": 38,
-          "draw": 27,
+          "佛得角": 36,
+          "draw": 29,
           "沙特阿拉伯": 35
         },
-        "tacticalAnalysis": "佛得角4-2-3-1主动控球、双后腰保护，敢于压上；沙特4-3-3高位逼抢且重边路传中。沙特逼抢若到位可切断佛得角组织，但中场被佛得角双后腰压制时易留出身后空当。两套体系都偏进攻，节奏对攻概率高，谁先掌控中场谁占主动。",
-        "physicalAnalysis": "佛得角球员多在欧洲联赛效力，对抗与冲刺速度略占优；沙特整体技术细腻但身体对抗偏弱，耐力中等。高强度逼抢下沙特后程体能存隐患。",
-        "formAnalysis": "佛得角首进世界杯士气高涨，预选赛1-0爆冷胜喀麦隆显黑马成色；沙特第7次参赛但近期状态平平、缺乏亮眼表现，心气与势头不及对手。",
-        "injuryImpact": "双方均无重大伤停公开报道，主力阵容基本完整，伤病因素对本场胜负影响有限，可视为同等条件下的对决。",
-        "h2hAnalysis": "两队历史从未交手，无直接数据参考，临场状态与战术执行的权重高于历史因素。",
-        "oddsAnalysis": "bet365与williamhill主胜均2.45、客胜2.62，市场反让排名更低的佛得角为微弱热门。去水位后公平概率约佛得角38%、平26%、沙特36%，资金面更认可佛得角的欧洲化阵容与状态，但优势并不显著，属势均力敌格局。",
-        "externalFactors": "休斯顿夏季夜战湿热，对两队体能均是考验；中立场地无真正主场优势，旅行与赛程负担相近，外部因素基本对等。",
-        "psychologyAnalysis": "收官战双方或都需分数，压力相当。沙特大赛经验更丰富，但佛得角处上升期、心理包袱小、敢拼，经验与冲劲各占一端。",
-        "consensusView": "全网共识倾向佛得角是本届最大黑马之一，状态与势头被普遍看好；FOX指出两队都盼收官强势。综合看市场与舆论略偏佛得角，但分歧不大，多数观点认为这是一场胜负难料、平局风险高的胶着对决。",
-        "upsetProbability": 35,
-        "upsetTeam": "沙特阿拉伯",
-        "favoriteTeam": "佛得角",
-        "upsetWinOdds": 2.62,
+        "tacticalAnalysis": "佛得角4-2-3-1主动控球敢于压上，双后腰保障中场厚度；沙特雷纳尔4-3-3高位逼抢依赖边路提速。两队风格均偏进攻，沙特逼抢或压缩佛得角出球空间，但佛得角反击速度与个人能力可形成威胁，中场争夺是胜负关键。",
+        "physicalAnalysis": "佛得角球员多在欧洲二级联赛锤炼，对抗与冲刺占优；沙特国内联赛节奏偏慢但近年引援提升整体强度。佛得角身体硬度略胜。",
+        "formAnalysis": "佛得角士气爆棚，逼平西班牙0-0后信心高涨，预选赛曾胜喀麦隆；沙特状态平平，近期表现起伏，进攻效率存疑，气势上佛得角占据上风。",
+        "injuryImpact": "双方均无重大伤病公开报道，阵容基本完整。佛得角核心Moreira、沙特队长多萨里均可出战，伤停因素对本场影响有限。",
+        "h2hAnalysis": "两队历史从未交手，无直接参考。佛得角属世界杯新军，沙特经验更丰富，但缺乏相互熟悉度。",
+        "oddsAnalysis": "bet365与威廉希尔赔率高度一致，佛得角2.45略低于沙特2.62，显示机构微幅看好黑马主队。去水后公平概率约佛得角38%、平28%、沙特34%，整体定性为势均力敌的对攻局，资金无明显倾斜。",
+        "externalFactors": "休斯顿NRG为封闭式球场可控温，6月酷热影响减弱。中立场地，佛得角侨民及非洲球迷或带来氛围支持，球票价格飙升反映关注度高。",
+        "psychologyAnalysis": "沙特7次参赛大赛经验丰富但包袱较重；佛得角首秀无压力、初生牛犊状态。逼平西班牙的心理红利让佛得角更敢拼，沙特需防轻敌。",
+        "consensusView": "全网共识视为H组关键的'六分之战'，两队实力接近、胜负难料。多数分析认为佛得角凭借状态与气势略占心理优势，但沙特经验与整体性不可低估，平局风险偏高。",
+        "latestNewsSummary": "佛得角爆冷逼平西班牙0-0引爆话题，被誉创造历史；ESPN详解H组形势；休斯顿本场球票价格飙升，关注度与黑马效应显著升温。",
+        "upsetProbability": 42,
+        "upsetTeam": "佛得角",
+        "favoriteTeam": "沙特阿拉伯",
+        "upsetWinOdds": 2.45,
         "riskLevel": "high",
-        "objectiveConclusion": "排名虽显沙特占优，但赔率、状态与阵容质量微偏佛得角，实为五五开略倾佛得角的对攻局。沙特凭大赛经验完全有能力翻盘，爆冷风险高。最可能为小比分胶着，比分区间1-1、1-0或2-1，平局概率不容忽视。",
-        "_note": "我是Claude，由Anthropic开发。"
+        "objectiveConclusion": "这是一场势均力敌的对攻战，FIFA排名与赔率差距均小，胜负高度开放。佛得角携逼平西班牙的气势与身体优势具备爆冷资本，但沙特大赛经验与整体性可稳住局面。综合判断平局概率偏高，比分大概率落在0-0、1-1或1-0区间，双方均有小胜可能。"
       },
       "insights": {
         "injuries": "双方暂无重大伤病公开报道",
@@ -146,7 +154,14 @@
         ],
         "keyPlayers": "佛得角:Moreira；沙特:队长边锋多萨里",
         "xfactor": "休斯顿夜战；两队收官战或都需分数，心理压力大"
-      }
+      },
+      "latestNews": [
+        "Group H at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "World Cup Roundup: Cape Verde Does The Unthinkable Against Spain - FOX Sports",
+        "Best World Cup photos from Day 5 - Reuters",
+        "Spain 0-0 Cape Verde: World Cup 2026 – at it happened - Al Jazeera",
+        "Houston World Cup ticket prices skyrocket for Cape Verde vs. Saudi Arabia - Houston Chronicle"
+      ]
     },
     {
       "matchNo": 72,
@@ -159,7 +174,7 @@
       "kickoffET": "2026-06-27T19:30:00-04:00",
       "venue": "梅赛德斯奔驰球场",
       "city": "亚特兰大",
-      "upsetProbability": 35,
+      "upsetProbability": 42,
       "upsetTeam": "乌兹别克斯坦",
       "favoriteTeam": "刚果民主共和国",
       "upsetWinOdds": 3,
@@ -168,7 +183,7 @@
       "physicalComparison": "非洲球队身体对抗和绝对速度优势明显，乌兹别克斯坦在绞杀战中体能消耗极大。",
       "keyReason": "刚果金的身体降维打击与冲击力克制亚洲传控体系。",
       "detailedAnalysis": "这是一场典型的非亚对决。乌兹别克斯坦FIFA排名略高且战术纪律严明，但刚果金拥有大量欧洲五大联赛球员，单兵爆破能力强。亚特兰大室内球场排除了天气干扰，利于刚果金发挥身体和速度优势。乌兹别克斯坦防线面对高强度对抗易失误，刚果金极具爆冷潜力。",
-      "riskLevel": "medium",
+      "riskLevel": "high",
       "realOdds": {
         "bet365": {
           "刚果民主共和国": 2.3,
@@ -183,25 +198,27 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "刚果民主共和国": 42,
+          "刚果民主共和国": 40,
           "draw": 30,
-          "乌兹别克斯坦": 28
+          "乌兹别克斯坦": 30
         },
-        "tacticalAnalysis": "刚果(金)德萨布尔4-2-3-1体系依赖快速转换与边路突击，万-比萨卡防守端经验丰富；乌兹卡纳瓦罗3-4-2-1灵活转五后卫，中路短传渗透能力强。战术相克上，刚果(金)身体对抗与反击速度可压制乌兹技术流，但乌兹防守纪律严密，控球能力更优，可消耗对手体能。",
-        "physicalAnalysis": "刚果(金)在速度与爆发力上占优，非洲球员身体对抗强悍；乌兹球员技术细腻但对抗偏弱，耐力与整体跑动能力持平。高温高湿环境下，刚果(金)适应性更强。",
-        "formAnalysis": "刚果(金)附加赛淘汰尼日利亚展现韧性，士气高涨但世界杯经验匮乏；乌兹预选赛16场仅1负状态稳定，首次参赛动力十足，但面对非洲劲旅存在未知数。",
-        "injuryImpact": "刚果(金)Bushiri伤缺削弱后防深度，但整体阵容完整；乌兹Yuldoshev缺阵影响中场组织，但绍穆罗多夫领衔锋线火力依然可观，伤病对两队影响均属可控。",
-        "h2hAnalysis": "两队历史无交锋，缺乏直接参考价值。但从风格推演，非洲与中亚球队首次碰撞，战术陌生感可能导致保守开局。",
-        "oddsAnalysis": "bet365与williamhill赔率一致，去水位后刚果(金)胜率约40%、平局29%、乌兹26%。市场资金略偏向刚果(金)，但平局赔率吸引力显著，反映机构对开放性结果的预期。赔率公允，无明显操控迹象。",
-        "externalFactors": "亚特兰大6月底高温高湿，刚果(金)适应性优于中亚球队；两队均长途跋涉，疲劳度相近；梅赛德斯奔驰球场中立场地，无主场优势。",
-        "psychologyAnalysis": "刚果(金)时隔52年重返世界杯，心理包袱与荣耀感并存；乌兹首秀大赛压力巨大但轻装上阵。两队均志在首胜锁定小组第三，心理压力对等，关键在临场抗压能力。",
-        "consensusView": "全网专家观点分化：BracketResearch模型预测1-1平局，KhasPress认为刚果(金)略占优38.5%，RotoWire强调两队势均力敌争小组第三。共识是比赛胶着、小球概率高，刚果(金)身体优势与乌兹技术细腻形成对冲。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "德萨布尔4-2-3-1防守紧凑、依赖快速转换，万-比萨卡边路推进与维萨突击是核心。卡纳瓦罗3-4-2-1可转五后卫，中路快传找绍穆罗多夫。刚果(金)前场速度对乌兹三中卫回追是关键，乌兹则靠控球与定位球抗衡，攻防转换节点决定走势。",
+        "physicalAnalysis": "刚果(金)球员普遍身体强壮、爆发力与对抗占优，欧洲联赛锤炼下冲刺能力突出。乌兹身材高大、空中与定位球有优势，但整体速度和持续高强度对抗略逊，下半场体能或受考验。",
+        "formAnalysis": "刚果(金)附加赛淘汰尼日利亚、牙买加士气高涨，首战逼平葡萄牙信心爆棚。乌兹首秀负哥伦比亚但表现顽强获赞，虽败不馁。刚果(金)势头与心理略占上风。",
+        "injuryImpact": "刚果(金)Bushiri伤缺削弱后防深度，乌兹Yuldoshev伤缺影响中场调度。两队均有减员但核心攻击点维萨、绍穆罗多夫健在，影响相对对等，刚果(金)防线隐患稍大。",
+        "h2hAnalysis": "两队历史无任何交锋记录，缺乏直接参照。需依赖近期表现与对手强度横向对比，刚果(金)对阵强队的稳定性略可借鉴。",
+        "oddsAnalysis": "bet365与williamhill主胜均2.3、客胜3.0、平约3.2-3.4，去水后公平概率约主胜42%、平30%、客胜28%。盘口偏向刚果(金)但优势有限，资金未现明显单边，市场认定为势均力敌、刚果(金)小幅看好的对决。",
+        "externalFactors": "亚特兰大梅赛德斯奔驰球场为封闭式室内场馆，温控良好，削弱高温湿度影响。两队均无地利，中立场地，非洲与中亚旅美时差适应相近，客观因素基本对等。",
+        "psychologyAnalysis": "刚果(金)时隔52年重返且逼平葡萄牙，心理红利明显。乌兹首次参赛缺乏大赛经验，但预选赛16战仅1负显韧性。大赛抗压与逆境能力刚果(金)略胜。",
+        "consensusView": "全网共识倾向刚果(金)小幅占优，凭借身体、速度与逼平葡萄牙的势头被看好。乌兹技术细腻、组织有序，被视为难缠对手，多数预测为分差不大的胶着战，平局风险偏高。",
+        "latestNewsSummary": "乌兹首战0负哥伦比亚，迪亚斯破门，乌兹表现顽强获NYT称赞；刚果(金)与葡萄牙互交白卷逼平强敌，K组形势胶着，两队均有出线希望，本场为关键卡位战。",
+        "upsetProbability": 42,
         "upsetTeam": "乌兹别克斯坦",
         "favoriteTeam": "刚果民主共和国",
         "upsetWinOdds": 3,
-        "riskLevel": "medium",
-        "objectiveConclusion": "综合赔率、情报与专家观点，刚果(金)凭借身体对抗与反击速度略占上风，但乌兹技术细腻与防守纪律不容小觑。最可能比分区间1-0、1-1或2-1，小球概率高。平局是最安全预期，刚果(金)小胜次之，乌兹爆冷概率约35%属中等风险。"
+        "riskLevel": "high",
+        "objectiveConclusion": "刚果(金)凭身体、速度及逼平葡萄牙的势头小幅占优，但乌兹组织严密、定位球有威胁，且FIFA排名更高，爆冷或抢分能力不容低估。本场极可能为低进球胶着战，平局概率显著。预测比分区间1-1、1-0、2-1，刚果(金)略被看好但难言稳胜。",
+        "_note": "我是Claude（claude-opus-4-8）。"
       },
       "insights": {
         "injuries": "刚果(金)Bushiri伤缺；乌兹别克斯坦Yuldoshev伤缺",
@@ -215,7 +232,14 @@
         ],
         "keyPlayers": "刚果(金):维萨、姆本巴、万-比萨卡；乌兹:绍穆罗多夫、法伊祖拉耶夫、胡萨诺夫",
         "xfactor": "亚特兰大决战；两队均志在首胜抢小组第三晋级名额"
-      }
+      },
+      "latestNews": [
+        "Returning Colombia beats World Cup debutant Uzbekistan, Ghana downs Panama on late goal, England defeats Croatia, Portugal and DR Congo draw - NBC News",
+        "Portugal vs DR Congo Highlights | 2026 FIFA World Cup™ - FOX Sports",
+        "Group K at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "How Luis Diaz inspired Colombia as they beat gallant Uzbekistan at the 2026 World Cup - The New York Times",
+        "World Cup predictions: Portugal vs DR Congo, England vs Croatia and more - Al Jazeera"
+      ]
     },
     {
       "matchNo": 59,
@@ -228,7 +252,7 @@
       "kickoffET": "2026-06-25T22:00:00-04:00",
       "venue": "SoFi体育场",
       "city": "洛杉矶",
-      "upsetProbability": 35,
+      "upsetProbability": 42,
       "upsetTeam": "土耳其",
       "favoriteTeam": "美国",
       "upsetWinOdds": 2.7,
@@ -237,7 +261,7 @@
       "physicalComparison": "美国跑动与体能占优，但土耳其球员对抗凶悍且侵略性极强，双方身体素质无明显代差。",
       "keyReason": "美国队背负巨大主场压力，土耳其大赛情绪爆发力极强。",
       "detailedAnalysis": "美国虽有洛杉矶主场优势，但38%对36%的胜率表明市场未将其视作绝对强队。美国战术纪律好但缺乏前场爆点，面对土耳其凶悍逼抢易现失误。土耳其球风硬朗且神经刀属性强，一旦打出气势，快速反击足以致命。本场是五五开的消耗战，土耳其取胜概率极高。",
-      "riskLevel": "high",
+      "riskLevel": "medium",
       "realOdds": {
         "bet365": {
           "土耳其": 2.7,
@@ -251,21 +275,22 @@
           "draw": 28,
           "美国": 37
         },
-        "tacticalAnalysis": "美国波切蒂诺高位逼抢与快速转换，意在压缩土耳其出球空间；但防线在3月对比利时、葡萄牙暴露空当，恰尔汗奥卢的纵向调度与伊尔迪兹、居莱尔的持球推进恰能打穿身后。土耳其4-2-3-1双后腰可缓冲逼抢，转化为美国防线的真实考验。",
-        "physicalAnalysis": "美国整体速度与转换冲刺占优，逼抢覆盖范围大；土耳其个体对抗与中场控球力更稳。耐力层面均处赛季尾声，体能接近，美国主场更适应当地气候。",
-        "formAnalysis": "美国热身两连败且失球偏多，普利西奇状态低迷，士气承压；土耳其附加赛两场1-0务实晋级，结束24年缺席，信心与节奏更扎实。",
-        "injuryImpact": "美国里查兹踝伤已恢复，主力可用，无明显减员；土耳其无重大伤情，阵容完整。双方均处健康状态，伤病不构成显著变量。",
-        "h2hAnalysis": "5战2胜1平2负势均力敌，最近2025年6月土耳其2-1占先，心理略占优，但参考价值有限。",
-        "oddsAnalysis": "bet365主2.7/平3.3/客2.5，返还率约96.4%。去水位后土耳其约35.7%、平29.3%、美国约35.0%，市场实质看作均势偏美国半档。资金未现明显一边倒，平局赔率偏高反映双方互有取胜可能。",
-        "externalFactors": "SoFi主场与本土球迷助美国，旅行与时差对美国更有利；土耳其需跨洲长途奔波，6月洛杉矶气候温热但球场可控。",
-        "psychologyAnalysis": "美国坐拥主办东道主出线压力大，须自证；土耳其重返大赛、无包袱，2025胜绩添底气，心理压力相对较轻。",
-        "consensusView": "ESPN与topendsports均预测2-1但分指向不同(土耳其/美国)，BigDSoccer看1-1平局。综合显示这是一场被广泛认定的胶着对决，强弱差距细微，进球数偏中低，平局与一球小胜均在主流预期内。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "波切蒂诺高位逼抢+快速转换，亚当斯扫荡、普利西奇边路爆点；蒙特拉4-2-3-1依赖恰尔汗奥卢与居莱尔双核组织，伊尔迪兹反击。美国逼抢若被居莱尔一脚出球破解，土耳其转换将直插其暴露的防线，攻防对冲明显。",
+        "physicalAnalysis": "美国整体跑动覆盖与对抗强度占优，逼抢续航更好；土耳其中前场技术细腻但高强度连续对抗略逊，体能末段易回收。",
+        "formAnalysis": "美国3月连负比利时、葡萄牙暴露防线，但主场作战士气可控；土耳其附加赛两场1-0务实晋级，惟最新新闻显示其热身/小组背景下0-2不敌澳大利亚，攻击转化与防线均敲警钟。",
+        "injuryImpact": "美国里查兹踝伤恢复，阵容基本完整；土耳其无重大伤情。新闻未见双方新增重大伤停，关键核心恰尔汗奥卢、普利西奇均可出战，影响有限。",
+        "h2hAnalysis": "近5次2胜1平2负势均力敌，2025年6月土耳其2-1新近占优，心理略有加成但样本有限。",
+        "oddsAnalysis": "bet365主2.7/平3.3/客2.5，去水后公平概率约土35%/平28%/美37%，美国微受看好但分歧极小。资金未明显倾向一方，属低水位均势盘，平局赔率偏低反映对冲战意，深盘空间不大。",
+        "externalFactors": "SoFi为美国半主场，球迷加持、气候适应与时差占优；新闻称美国球票转售飙升，主场氛围浓厚利于东道主。",
+        "psychologyAnalysis": "美国为东道主背负夺分压力但主场托底；土耳其结束24年缺席、心态更松弛，近期负澳大利亚或带来反弹动机，大赛经验双方相当。",
+        "consensusView": "全网视为均势对碰，美国凭主场与对抗微弱领先，土耳其技术组织足以抗衡。多数预测倾向小球或平局，结果高度取决于美国逼抢能否限制土耳其中场出球。",
+        "latestNewsSummary": "新闻多围绕赛程与观赛信息，关键信号为土耳其0-2负澳大利亚暴露进攻与防守隐忧；美国主场球票暴涨显示氛围火热，未见双方重大伤停变动。",
+        "upsetProbability": 42,
         "upsetTeam": "土耳其",
         "favoriteTeam": "美国",
         "upsetWinOdds": 2.7,
-        "riskLevel": "high",
-        "objectiveConclusion": "排名与主场利好美国，但其防线隐患与状态下滑明显，土耳其务实且控球更稳，实力高度接近。市场与专家均指向均势胶着，爆冷风险偏高。最可能比分区间为1-1、2-1或1-2，胜负或由临场效率与定位球细节决定。"
+        "riskLevel": "medium",
+        "objectiveConclusion": "这是一场赔率与实力高度接近的均势之战，美国主场+对抗微占上风，但防线不稳是隐患；土耳其中场组织能制造威胁，惟近期状态存疑。支持爆冷：土耳其技术与近期交锋占优；反对：客场+0-2负澳大利亚暴露问题。预计比分1-1、2-1或1-2，平局与小比分分胜负概率较高。"
       },
       "insights": {
         "injuries": "美国里查兹踝伤已恢复；土耳其无重大伤情",
@@ -279,7 +304,14 @@
         ],
         "keyPlayers": "美国:普利西奇、麦肯尼、亚当斯；土耳其:居莱尔、伊尔迪兹、恰尔汗奥卢",
         "xfactor": "洛杉矶SoFi主场助美国；普利西奇近期状态低迷"
-      }
+      },
+      "latestNews": [
+        "USMNT vs Australia at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "Türkiye vs. Paraguay Prediction: 2026 FIFA World Cup Preview and Pick - VSiN",
+        "INSTANT REACTION 🚨 FIFA World Cup Now reacts to Australia's HUGE 2-0 win over Türkiye ⚽️ - FOX Sports",
+        "USMNT ticket prices soar on resale sites after World Cup opener - The Athletic - The New York Times",
+        "Türkiye vs. Paraguay at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN Philippines"
+      ]
     },
     {
       "matchNo": 41,
@@ -292,7 +324,7 @@
       "kickoffET": "2026-06-22T20:00:00-04:00",
       "venue": "大都会人寿球场",
       "city": "纽约/新泽西",
-      "upsetProbability": 35,
+      "upsetProbability": 31,
       "upsetTeam": "塞内加尔",
       "favoriteTeam": "挪威",
       "upsetWinOdds": 3.7,
@@ -312,24 +344,25 @@
       "deepAnalysis": {
         "winProbability": {
           "挪威": 42,
-          "draw": 26,
-          "塞内加尔": 32
+          "draw": 27,
+          "塞内加尔": 31
         },
-        "tacticalAnalysis": "挪威技术流433体系依赖厄德高组织+哈兰德终结，索尔洛特提供支点；塞内加尔同样433但更倚重身体对抗与边路冲击，库利巴利领衔的防线经验丰富。战术相克点：塞内加尔中卫速度可能难跟哈兰德，但挪威防线面对马内+萨尔的冲击力同样吃力。中场争夺是胜负手，挪威技术细腻但塞内加尔身体强度占优。",
-        "physicalAnalysis": "塞内加尔在速度(边锋群)、对抗(中场硬度)、耐力(非洲球队传统优势)三维度整体占优；挪威哈兰德个体爆发力顶级但整体身体confrontation偏弱，中场可能被压制，后防线转身速度是隐患。",
-        "formAnalysis": "挪威28年首次回归世界杯，热身赛1-2负荷兰暴露防守问题但进攻火力尚可；塞内加尔作为非洲冠军经验丰富，但老将体能管理与防守稳定性近期有波动，两队状态均非巅峰但塞内加尔大赛底蕴更足。",
-        "injuryImpact": "挪威核心厄德高膝伤存疑是最大变数，若缺阵组织体系崩塌，中卫赫格姆伤情反复削弱防线深度；塞内加尔老将负荷隐忧但未明确缺阵，整体影响可控。挪威伤病风险明显更高且更致命。",
-        "h2hAnalysis": "两队世界杯历史首次交锋，无直接参考价值。需从风格对比与球员个体能力推演，历史数据缺失增加比赛不确定性。",
-        "oddsAnalysis": "bet365挪威2.00平3.30塞内加尔3.70，去水位后隐含概率约挪威47%、平27%、塞内加尔26%。市场轻微看好挪威主场+哈兰德因素，但塞内加尔赔率偏高暗示资金对其低估。赔率结构反映双方实力接近但挪威心理优势稍占上风。",
-        "externalFactors": "纽约新泽西大都会人寿球场对双方均中立，6月下旬气候温和无明显影响。两队旅行条件相当，但挪威适应美洲时差可能略优于塞内加尔。赛程上双方首战负担相近，外部因素整体平衡。",
-        "psychologyAnalysis": "挪威28年等待+主场氛围带来巨大动力但也有首战紧张风险；塞内加尔作为2022非洲冠军与世界杯16强经验丰富，大赛抗压能力更强。出线压力双方均大，塞内加尔老将心态可能更稳。",
-        "consensusView": "全网专家共识：挪威若厄德高+哈兰德健康发挥，锋线火力可威胁塞内加尔；但塞内加尔身体优势与大赛经验不可小觑。多数观点认为此役极可能决定小组第二出线权，比分胶着，挪威略占心理优势但塞内加尔具备爆冷实力。RotoWire与Yahoo均强调健康因素是关键变量。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "挪威技术流主导控球，哈兰德支点回做+厄德高串联+索尔洛特跑动，依赖锋线效率；塞内加尔4-3-3身体强硬反击犀利，库利巴利坐镇但高位防线偶有松动，恐被哈兰德背后冲击。胜负取决于挪威能否破密集防守及塞内加尔反击转化。",
+        "physicalAnalysis": "塞内加尔身体对抗与速度占优，中后场强度高；挪威靠哈兰德的力量与索尔洛特机动性抗衡，整体对抗略逊但锋线爆发力一流。",
+        "formAnalysis": "挪威世界杯首战告捷，时隔28年回归士气高涨，哈兰德领衔状态火热；塞内加尔经验丰富但小组同France强敌，需稳取分，老将状态待观察。",
+        "injuryImpact": "挪威厄德高膝伤存疑、赫格姆伤情反复，若厄德高缺阵中场创造力大减；塞内加尔多名老将负荷隐忧，密集赛程下体能与防守稳定性承压。",
+        "h2hAnalysis": "两队世界杯史上首次交锋，无直接历史参考，需以近期状态与阵容实力为主要判断依据。",
+        "oddsAnalysis": "bet365主2.0/平3.3/客3.7，去水后公平概率约挪威47%/平28%/塞25%，挪威略受看好但非压倒性。资金面反映主场与首胜红利，市场对塞内加尔反击与经验仍留余地，整体偏均势。",
+        "externalFactors": "中立地纽约/新泽西大都会人寿球场，6月夏季气候温热湿润，对两队均无明显主场优势，挪威北欧球员需适应湿热环境。",
+        "psychologyAnalysis": "塞内加尔大赛经验与非洲冠军底蕴占优，抗压更强；挪威首秀获胜信心足但世界杯阅历浅，关键战易受心态波动影响。",
+        "consensusView": "全网共识两队实力接近，挪威因哈兰德锋线与主场红利微弱占优，塞内加尔以经验和身体反击保持竞争力。多数预测倾向平局或小胜，分差有限，属难分难解之战。",
+        "latestNewsSummary": "挪威世界杯首秀取胜，哈兰德入选焦点球星；I组France领跑，塞内加尔与挪威争出线关键分；纽约主办氛围热烈，门票热销。",
+        "upsetProbability": 31,
         "upsetTeam": "塞内加尔",
         "favoriteTeam": "挪威",
         "upsetWinOdds": 3.7,
         "riskLevel": "medium",
-        "objectiveConclusion": "实力与赔率均显示势均力敌，挪威因哈兰德+厄德高组合与心理优势被轻微看好，但塞内加尔身体对抗、大赛经验与防守硬度具备爆冷资本。厄德高伤情是最大变数。最可能比分区间1-1或2-1(任一方)，平局概率不低，小球可能性较大。客观判断：挪威险胜或战平概率略高于塞内加尔取胜。"
+        "objectiveConclusion": "两队势均力敌，挪威凭哈兰德效率与首胜士气略占上风，但厄德高伤情是最大变数；塞内加尔身体反击与经验足以抗衡甚至取胜。预期低中比分胶着，比分区间1-1、2-1或1-2均有较高可能，平局风险显著。"
       },
       "insights": {
         "injuries": "挪威厄德高膝伤恢复存疑、中卫赫格姆有伤情反复；塞内加尔多名老将年龄与负荷隐忧",
@@ -343,7 +376,14 @@
         ],
         "keyPlayers": "挪威:哈兰德、厄德高、索尔洛特；塞内加尔:马内、库利巴利、伊斯梅拉·萨尔",
         "xfactor": "纽约新泽西大球场；此役大概率直接决定出线席位"
-      }
+      },
+      "latestNews": [
+        "World Cup 2026 Group I guide - fixtures, schedule, standings and odds for France, Senegal, Iraq and Norway - Sky Sports",
+        "World Cup predictions: France vs Senegal, Argentina vs Algeria and rest of matchday 6 - The Athletic - The New York Times",
+        "Norway wins World Cup debut, shop Norway vs. Senegal tickets in NYC - USA Today",
+        "Group I at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "World Cup Superstar Tuesday: Messi, Mbappé, Haaland Headline Packed Slate - FOX Sports"
+      ]
     },
     {
       "matchNo": 60,
@@ -356,7 +396,7 @@
       "kickoffET": "2026-06-25T22:00:00-04:00",
       "venue": "利维斯体育场",
       "city": "旧金山湾区",
-      "upsetProbability": 28,
+      "upsetProbability": 42,
       "upsetTeam": "澳大利亚",
       "favoriteTeam": "巴拉圭",
       "upsetWinOdds": 3.52,
@@ -375,25 +415,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "巴拉圭": 44,
-          "draw": 28,
+          "巴拉圭": 43,
+          "draw": 29,
           "澳大利亚": 28
         },
-        "tacticalAnalysis": "两队风格高度相似，均以稳固防守加务实反击为基石。巴拉圭阿尔法罗体系强调中场拦截与快速转换，澳大利亚波波维奇3-4-2-1三中卫同样注重防守层次。中场绞杀与定位球或成破局关键。恩西索缺阵削弱巴拉圭前场串联，双方易陷入低比分拉锯。",
-        "physicalAnalysis": "澳大利亚整体身体对抗与高空争顶占优，三中卫体系强化了身体覆盖；巴拉圭南美球员脚下灵活、反击速度更快，但缺米勒后澳方边路冲击力下降，整体耐力两队均处大赛适配水平。",
-        "formAnalysis": "巴拉圭世预赛18场仅14球，进攻效率偏低但防线扎实并提前晋级，信心稳定；澳大利亚排名日本之后顺利出线，状态平稳。两队均非火热但根基牢固。",
-        "injuryImpact": "恩西索大腿伤离场对巴拉圭创造力打击明显，戈麦斯顶替难完全弥补；澳大利亚失右翼卫米勒削弱边路，但苏塔尔复出补强后防。伤病天平略偏向不利巴拉圭进攻端。",
-        "h2hAnalysis": "仅2010年一次友谊赛交手，澳大利亚1-0小胜，时隔久远且性质为热身，参考价值有限。",
-        "oddsAnalysis": "Pinnacle去水位后公平概率约为巴拉圭45%、平28%、澳大利亚27%，巴拉圭略受青睐但优势不大。客胜3.52对FIFA第21的澳大利亚价值偏高，市场并未给出明确倒向，显示分歧较大。",
-        "externalFactors": "旧金山湾区6月气候温和，利维斯体育场为中立场，两队均无主场之利。旅行与赛程负担相近，环境因素接近平衡。",
-        "psychologyAnalysis": "双方或都已面临出线生死战，心理压力均大。巴拉圭南美大赛韧性与澳大利亚亚洲一流的稳定性相当，谁更能顶住关键战压力将影响走势。",
-        "consensusView": "ESPN与BigDSoccer均预测巴拉圭2-1，认为其进攻质量与反击效率略胜一筹，同时强调这是双方都输不起的关键战。主流观点温和看好巴拉圭，但普遍认为差距细微、过程胶着。",
-        "upsetProbability": 28,
+        "tacticalAnalysis": "巴拉圭阿尔法罗4-4-2低位防守加务实反击，恩西索缺阵削弱前场创造力，戈麦斯顶替进攻效率存疑。澳大利亚波波维奇3-4-2-1三中卫体系稳固，米勒缺阵右路推进受限，苏塔尔复出加固后防。双方均偏保守，中场绞杀与定位球或成胜负关键，节奏偏慢。",
+        "physicalAnalysis": "澳大利亚整体身高对抗占优，高空球与体能续航更强；巴拉圭南美球员对抗硬朗、卡位凶狠，但缺乏速度型边路突击，整体身体条件接近，无明显碾压。",
+        "formAnalysis": "巴拉圭世预赛进球乏力(18场14球)，最新新闻显示其在前轮遭遇惨败、被USA压制，士气受挫。澳大利亚紧随日本稳健晋级，状态平稳，心理上略占主动。",
+        "injuryImpact": "巴拉圭核心恩西索大腿伤离场为重大损失，前场组织断档，戈麦斯顶替难完全弥补。澳大利亚失右翼卫米勒影响边路，但苏塔尔复出补强中卫，整体受损小于巴拉圭。",
+        "h2hAnalysis": "两队仅2010年友谊赛交手1次，澳大利亚1-0小胜，样本极少且年代久远，参考价值有限。",
+        "oddsAnalysis": "Pinnacle去水后公平概率约巴拉圭45%、平28%、澳27%，资金明显倾向巴拉圭主胜，反映其南美底蕴与赛程优势。但恩西索伤退与近期惨败未充分计入，主胜赔率或略偏低，价值略向平局与澳大利亚倾斜。",
+        "externalFactors": "中立场旧金山湾区利维斯体育场，海洋性气候温和，无极端高温。两队均无地利，旅途与适应相近，主场因素基本中性。",
+        "psychologyAnalysis": "巴拉圭大赛经验丰富但刚历惨败，背负压力；澳大利亚晋级顺畅、心态轻松，亚洲区一哥气质稳定，关键战抗压能力略胜一筹。",
+        "consensusView": "全网共识视巴拉圭为略微热门，但因核心伤退与近期低迷，多数分析认为分差缩小，平局概率偏高，普遍预期为低比分胶着对决，胜负悬念较大。",
+        "latestNewsSummary": "新闻显示巴拉圭前轮遭遇惨败、被USA压制，处境艰难、容错空间小；澳大利亚被外界看好。多条为同组背景报道，凸显D组竞争激烈。",
+        "upsetProbability": 42,
         "upsetTeam": "澳大利亚",
         "favoriteTeam": "巴拉圭",
         "upsetWinOdds": 3.52,
         "riskLevel": "medium",
-        "objectiveConclusion": "巴拉圭凭反击效率与赔率支持略占上风，但恩西索缺阵削弱其进攻，澳大利亚防守稳固加身体优势具备搅局能力。这是一场风格相近、差距细微的均衡对决，预计低比分。最可能比分区间为1-0、1-1或2-1，平局风险不可忽视。"
+        "objectiveConclusion": "恩西索伤退削弱巴拉圭进攻，叠加近期惨败，主胜含金量下降；澳大利亚体系稳固、状态心理占优，具备搅局乃至取胜实力。综合看巴拉圭微弱占优但优势不牢，平局价值突出。预计低比分胶着，比分区间1-0、1-1、0-0概率最高，难有大比分。"
       },
       "insights": {
         "injuries": "巴拉圭核心恩西索大腿伤被抬离缺阵，戈麦斯顶替；澳大利亚右翼卫米勒跟腱伤无缘，苏塔尔伤后复出",
@@ -406,7 +447,14 @@
         ],
         "keyPlayers": "巴拉圭:戈麦斯、迭戈·戈麦斯、阿尔米隆；澳大利亚:莱恩、伊尔万昆达、图雷",
         "xfactor": "两队或都已无退路；恩西索缺阵削弱巴拉圭创造力"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Turkey and Paraguay face off with little room for error after humbling defeats - Reuters",
+        "Türkiye vs. Paraguay at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "Tim Howard says USMNT gained momentum after dominating Paraguay win, USA to 'play Australia off the park' next - Fox News",
+        "2026 World Cup: Previewing USA vs. Australia - pop quiz, hot shot - Stars and Stripes FC"
+      ]
     },
     {
       "matchNo": 21,
@@ -488,7 +536,7 @@
       "kickoffET": "2026-06-19T23:00:00-04:00",
       "venue": "利维斯体育场",
       "city": "旧金山湾区",
-      "upsetProbability": 24,
+      "upsetProbability": 40,
       "upsetTeam": "巴拉圭",
       "favoriteTeam": "土耳其",
       "upsetWinOdds": 3.98,
@@ -507,25 +555,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "土耳其": 48,
-          "draw": 28,
-          "巴拉圭": 24
+          "土耳其": 44,
+          "draw": 27,
+          "巴拉圭": 29
         },
-        "tacticalAnalysis": "土耳其4-2-3-1体系进攻组织更完整，恰尔汗奥卢中场调度配合居莱尔与伊尔迪兹的边路突击能力强。巴拉圭4-4-2低位防反依赖阿尔米隆与恩西索反击速度，但首战暴露中场控制力不足、防线纪律松散问题。土耳其阵地战优势明显，但需警惕巴拉圭防反偷袭及自身终结效率低下的老问题。",
-        "physicalAnalysis": "土耳其整体速度与技术细腻度占优，伊尔迪兹、居莱尔突破能力强。巴拉圭身体对抗更硬朗，戈麦斯防守凶悍，但整体移动速度偏慢。耐力层面双方首战消耗大，均需轮换调整。",
-        "formAnalysis": "土耳其0-2负澳大利亚暴露防守漏洞但控球优势明显，士气受挫但仍具出线希望。巴拉圭1-4惨败美国防线崩盘，信心与士气跌至谷底，后防5张黄牌显示压力下纪律失控，亟需重建信心。",
-        "injuryImpact": "土耳其首战后无新增伤停，阵容完整利于延续战术体系。巴拉圭虽无伤病但5人背负黄牌，后防线吃牌球员面临停赛风险，可能影响防守侵略性与心理负担，变相削弱防守强度。",
-        "h2hAnalysis": "两队历史交锋数据极少，缺乏直接参考价值。需更多依赖当前状态、战术体系匹配度及FIFA排名实力差距进行研判。",
-        "oddsAnalysis": "Pinnacle赔率土耳其2.03(隐含概率49%)、平3.44(29%)、巴拉圭3.98(25%)，去水位后土耳其胜率约48%，市场明确看好土耳其但优势不压倒性。赔率反映双方首战失利后信心下降，平局概率被高估，资金倾向土耳其但需防低效。",
-        "externalFactors": "旧金山湾区利维斯体育场为中立场地，对双方无明显偏向。气候温和利于技术发挥。双方均首战失利后3天作战，体能恢复相当。土耳其适应北美时差略优于南美球队。",
-        "psychologyAnalysis": "土耳其首战虽败但过程不差,保留出线希望,心理压力可控。巴拉圭惨败后士气低迷,小组出线几近绝望,可能破罐破摔或孤注一掷。土耳其大赛经验更丰富,心理韧性稍强。",
-        "consensusView": "全网专家普遍认为土耳其技术与组织优势明显,居莱尔、伊尔迪兹有空间时极具威胁。但土耳其终结效率是最大隐患。巴拉圭进攻贫弱依赖防反,首战防线崩盘暴露致命缺陷。共识倾向土耳其取胜,但需提防巴拉圭绝境反扑及自身把握机会能力。",
-        "upsetProbability": 24,
+        "tacticalAnalysis": "土耳其4-2-3-1控球占优，恰尔汗奥卢居中调度，居莱尔与伊尔迪兹串联前场，但首战暴露双后腰身后空间。巴拉圭4-4-2低位防反，阿尔米隆、恩西索利用转换提速。土耳其需破密集防守，边路传中与肋部直塞是关键。巴拉圭防线纪律不稳则给伊尔迪兹突击留隙。",
+        "physicalAnalysis": "巴拉圭对抗强硬、空中与身体优势明显，适合消耗战；土耳其更偏技术与跑动覆盖，中前场灵活但防空偏弱。整体对抗巴拉圭略占上风。",
+        "formAnalysis": "两队均首轮告负，土耳其0-2负澳大利亚，巴拉圭1-4惨败美国。媒体普遍称双方背水一战、不容有失。士气受挫但求胜欲均极强，输球方恐提前出局。",
+        "injuryImpact": "土耳其首战后无新增伤停，阵容完整。巴拉圭无伤病却5人累积黄牌，后防纪律隐患大，再吃牌或停赛风险高，防线稳定性存疑，对其防反体系不利。",
+        "h2hAnalysis": "两队历史交锋极少，缺乏稳定参照，心理与战术压制效应有限，参考价值偏低。",
+        "oddsAnalysis": "Pinnacle主胜2.03、平3.44、客胜3.98，去水后公平概率约土耳其46%、平27%、巴拉圭27%。盘口明确倾向土耳其，但非大热,客胜赔率偏高反映巴拉圭防反爆冷空间，资金未现极端单边，属理性偏主格局。",
+        "externalFactors": "旧金山湾区利维斯体育场,6月夜场气温温和、湿度适中。两队均属客场,无真正主场优势,湾区南美球迷或略助巴拉圭氛围。",
+        "psychologyAnalysis": "双方均承受出局压力，心态易急躁。土耳其球员大赛经验与心理韧性稍占优；巴拉圭情绪化、易吃牌，高压下纪律风险放大。",
+        "consensusView": "全网主流看好土耳其小胜或一球优势，视其控球与技术更胜一筹。但多数预测提示巴拉圭防反与身体对抗仍具威胁，平局亦不乏支持者，整体倾向低比分较量。",
+        "latestNewsSummary": "Reuters强调双方惨败后均无退路；ESPN披露转播、裁判与预测首发；Yahoo、VSiN偏向土耳其小胜；另有世界杯加密合作花絮，无关键伤停变动。",
+        "upsetProbability": 40,
         "upsetTeam": "巴拉圭",
         "favoriteTeam": "土耳其",
         "upsetWinOdds": 3.98,
         "riskLevel": "medium",
-        "objectiveConclusion": "土耳其技战术体系、阵容完整度、近期过程质量均占优,胜率约48%为合理预期。巴拉圭惨败后士气与防线纪律双重危机,爆冷概率仅24%。但土耳其终结效率顽疾可能导致小胜或闷平。最可能比分:土耳其1-0或2-1小胜,也需警惕1-1平局。"
+        "objectiveConclusion": "土耳其控球技术与阵容完整性占优，略为热门，主胜或一球小胜概率最高。但巴拉圭防反凶悍、身体强硬，土耳其防空与后腰身后是隐患，爆冷或平局不可忽视。两队求胜心切，比分预期偏低，预计1-0、2-1或1-1区间，看好土耳其小胜但分差有限。"
       },
       "insights": {
         "injuries": "土耳其首战后无新增伤停；巴拉圭无伤病但首战5人吃黄牌、后防纪律待整顿",
@@ -539,7 +588,14 @@
         ],
         "keyPlayers": "土耳其:居莱尔、伊尔迪兹、恰尔汗奥卢；巴拉圭:阿尔米隆、恩西索、戈麦斯",
         "xfactor": "双方均背负首轮失利压力；巴拉圭累积黄牌风险"
-      }
+      },
+      "latestNews": [
+        "Turkey and Paraguay face off with little room for error after humbling defeats - Reuters",
+        "Türkiye vs. Paraguay at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "Turkey vs Paraguay Prediction: World Cup 2026 Preview &amp; Best Bets - Yahoo Sports",
+        "Türkiye vs. Paraguay Prediction: 2026 FIFA World Cup Preview and Pick - VSiN",
+        "FIFA World Cup 2026 brings crypto to the pitch as Paraguay faces Türkiye in must-win clash - Crypto Briefing"
+      ]
     },
     {
       "matchNo": 71,
@@ -552,7 +608,7 @@
       "kickoffET": "2026-06-27T19:30:00-04:00",
       "venue": "硬石体育场",
       "city": "迈阿密",
-      "upsetProbability": 35,
+      "upsetProbability": 34,
       "upsetTeam": "哥伦比亚",
       "favoriteTeam": "葡萄牙",
       "upsetWinOdds": 3.4,
@@ -582,24 +638,25 @@
       "deepAnalysis": {
         "winProbability": {
           "哥伦比亚": 27,
-          "draw": 28,
-          "葡萄牙": 45
+          "draw": 29,
+          "葡萄牙": 44
         },
-        "tacticalAnalysis": "葡萄牙马丁内斯体系强调控球与中场位置轮转，B费、维蒂尼亚串联可压缩对手出球空间；哥伦比亚洛伦索4-2-3-1立足J罗组织与迪亚斯边路速度打转换反击。葡萄牙整体性与控球占优，但哥伦比亚的快速反击恰好针对葡防线回追，攻防转换或成胜负关键。",
-        "physicalAnalysis": "葡萄牙身体对抗与中场覆盖更全面，板凳深度突出；哥伦比亚以迪亚斯爆发速度见长，边路冲击力强。耐力与轮换葡萄牙略胜，迈阿密湿热或考验双方下半场体能。",
-        "formAnalysis": "葡萄牙预选赛F组头名、世界第5，状态稳定士气高；哥伦比亚预选赛第3，曾爆冷胜巴西阿根廷显上限，但3月连负克罗地亚法国暴露稳定性不足。",
-        "injuryImpact": "双方均无重大伤病停赛，阵容基本齐整。葡萄牙C罗状态与是否首发存疑，若替补出场可能影响进攻终结效率，但整体不构成实质削弱。",
-        "h2hAnalysis": "两队历史交锋有限，缺乏稳定样本，参考价值偏低，难据此预判走势。",
-        "oddsAnalysis": "三平台高度一致，葡萄牙客胜2.1左右、哥伦比亚3.4-3.48。以Pinnacle去水位后公平概率约为葡萄牙45%、平28%、哥伦比亚27%。市场明确倾向葡萄牙，但未给出压倒性赔付，显示机构认可哥伦比亚的爆冷能力，属强弱分明但留有变数的格局。",
-        "externalFactors": "中立场迈阿密硬石体育场，南美球迷氛围或对哥伦比亚有助。湿热气候考验体能。两队同处美洲赛区，旅行负担相近。",
-        "psychologyAnalysis": "葡萄牙大赛经验与夺冠预期带来信心也带来压力；哥伦比亚作为挑战者心理包袱小。若末轮关乎小组头名，出线形势将放大双方临场心态波动。",
-        "consensusView": "全网共识认为这或是小组赛最精彩的纯技术对决。Yahoo判断葡萄牙阵容深度略占优；MLSSoccer看好哥伦比亚有冲击头名实力；RotoWire警示哥伦比亚定位球与转换防守存在漏洞。主流倾向葡萄牙，但普遍承认比赛悬念充足。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "葡萄牙马丁内斯技术流中场配位置轮转控球占优，B费、维蒂尼亚组织串联强；哥伦比亚洛伦索4-2-3-1主打J罗调度+迪亚斯速度反击，意图压缩空间打转换。若葡控球过度压上，哥伦比亚反击有威胁，但葡中场厚度与边路宽度更能撕开哥防线。",
+        "physicalAnalysis": "葡萄牙整体身体对抗、跑动覆盖与中场强度更均衡，板凳深度占优；哥伦比亚冲刺爆发与边路速度突出，但高强度下持续性与防线稳定性偏弱。",
+        "formAnalysis": "最新新闻显示葡萄牙本届一场被逼平略受阻，哥伦比亚击败乌兹别克斯坦势头正盛、士气高；但葡整体夺冠热门底蕴仍在，哥3月连负克法暴露防守隐患。",
+        "injuryImpact": "双方暂无重大伤停，阵容基本完整。新闻提及C罗本届10场0球的低迷数据，葡进攻或更依赖B费、边锋群，对结果影响有限。",
+        "h2hAnalysis": "两队历史交锋有限，缺乏稳定参照，参考价值低，更应看当前状态与阵容质量。",
+        "oddsAnalysis": "三平台高度一致，葡客胜2.1、哥主胜约3.4、平约3.2。去水后约为葡45%、平29%、哥27%。资金明显偏向葡萄牙但未一边倒，平局赔率偏低反映看好相持，属合理偏强势定价。",
+        "externalFactors": "迈阿密硬石体育场6月闷热高湿，对技术控球的葡略有体能消耗，但两队均属热带/南欧适应力尚可；中立场地无真正主场优势。",
+        "psychologyAnalysis": "葡大赛经验与冠军底蕴占优，抗压更稳；哥伦比亚带胜势上阵敢拼，曾胜巴阿显示爆点能力，但稳定性与逆境处理是短板。",
+        "consensusView": "全网共识看好葡萄牙凭中场质量与深度取胜或不败，视其为强队；哥伦比亚被定位为有反击爆冷潜力但下盘，平局亦被广泛接受为可能结果。",
+        "latestNewsSummary": "葡萄牙本届遭逼平、C罗10场0球低迷；哥伦比亚胜乌兹别克斯坦开局良好；英格兰同样开门红，K组形势趋于白热化。",
+        "upsetProbability": 34,
         "upsetTeam": "哥伦比亚",
         "favoriteTeam": "葡萄牙",
         "upsetWinOdds": 3.4,
         "riskLevel": "medium",
-        "objectiveConclusion": "葡萄牙凭借控球、整体性与板凳深度占据上风，是合理热门；但哥伦比亚的边路速度反击与J罗调度具备爆冷资本，其曾胜巴阿证明上限不低。支持爆冷的是哥防反针对性与中立场氛围，反对的是哥防守稳定性与定位球隐患。最可能为葡萄牙小胜或平局，比分区间1-1、2-1、1-0。"
+        "objectiveConclusion": "葡萄牙整体实力、中场质量与板凳深度占优，是合理热门，但其本届被逼平、C罗低迷及哥伦比亚速度反击与胜势构成实质变数。综合看好葡不败概率较高，比分区间倾向1-1、2-1或1-0；哥伦比亚靠反击偷分或爆冷并非小概率，建议留意平局价值。"
       },
       "insights": {
         "injuries": "双方暂无重大伤病；哥伦比亚3月连负克罗地亚、法国暴露防守问题",
@@ -613,7 +670,14 @@
         ],
         "keyPlayers": "葡萄牙:B费、维蒂尼亚、鲁本·迪亚斯、C罗；哥伦比亚:路易斯·迪亚斯、J罗",
         "xfactor": "迈阿密末轮或为小组头名对话；C罗状态与是否首发存疑"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "FIFA World Cup 2026 stats: Ronaldo's 0 in 10 and record 41, Perisic equals Messi, Bellingham joins Pele and Owen - ESPN",
+        "Colombia beats Uzbekistan at World Cup, taking full advantage of Portugal slip-up - The New York Times",
+        "Portugal held as England and Colombia make a bright start at FIFA World Cup 2026™ - Oceania Football Confederation",
+        "Group K at the 2026 World Cup: Teams, records, stats to know - ESPN"
+      ]
     },
     {
       "matchNo": 52,
@@ -626,7 +690,7 @@
       "kickoffET": "2026-06-24T15:00:00-04:00",
       "venue": "流明球场",
       "city": "西雅图",
-      "upsetProbability": 22,
+      "upsetProbability": 30,
       "upsetTeam": "卡塔尔",
       "favoriteTeam": "波黑",
       "upsetWinOdds": 6.5,
@@ -645,25 +709,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "波黑": 58,
-          "draw": 24,
-          "卡塔尔": 18
+          "波黑": 50,
+          "draw": 27,
+          "卡塔尔": 23
         },
-        "tacticalAnalysis": "波黑以哲科为支点的高空轰炸+定位球战术对卡塔尔密集防守构成威胁，但40岁哲科体能受限可能削弱持续输出。卡塔尔洛佩特吉体系强调紧凑防守与快速反击，阿菲夫突击能力可利用波黑防线老化。战术相克度中等，波黑控球优势明显但破密集防守效率存疑。",
-        "physicalAnalysis": "波黑整体身高对抗占优，定位球争顶有优势，但哲科等老将速度与持续对抗能力下降。卡塔尔年龄结构更年轻，阿菲夫等快马在反击中速度优势明显，但整体对抗强度与欧洲球队有差距。耐力方面西雅图温和气候影响有限。",
-        "formAnalysis": "波黑附加赛两场点球大战显示韧性与抗压能力强，但常规时间未能拿下威尔士和意大利暴露进攻效率问题。卡塔尔亚预赛稳定出线但对手质量较低。波黑士气因晋级正佳，卡塔尔首次参赛心理压力大但东道主身份带来额外动力。",
-        "injuryImpact": "双方均无重要伤病报道，主力阵容完整。波黑核心哲科、德米罗维奇、代迪奇可用，卡塔尔核心阿菲夫健康。年龄因素而非伤病是波黑最大隐患，哲科40岁体能储备是未知数。双方战术体系可完整执行。",
-        "h2hAnalysis": "双方无重要历史交锋记录，参考价值极低。只能从洲际层面看：波黑欧洲球队技战术成熟度通常高于亚洲，但卡塔尔近年归化+西班牙教练团队提升明显，不可按传统欧亚差距判断。",
-        "oddsAnalysis": "bet365波黑1.55赔率去水后隐含胜率约61%，平局3.8约24%，卡塔尔6.5约15%。市场明显看好波黑，但波黑赔率未低至1.4以下说明机构对其取胜信心非绝对。卡塔尔6.5赔率偏高，反映市场对其低估，存在价值空间。资金流向倾向波黑但未呈现一边倒。",
-        "externalFactors": "西雅图流明球场草皮状况良好，温和气候对双方体能消耗影响小。无明显主场优势，双方均为中立场作战。波黑从欧洲、卡塔尔从中东飞赴美国西海岸，旅行疲劳程度相近。首场小组赛无赛程密集压力。",
-        "psychologyAnalysis": "波黑附加赛两场点球大战锻炼抗压能力，大赛经验丰富但球员老化带来心理焦虑。卡塔尔首次世界杯参赛，年轻球员心理脆弱性高，但作为东道主压力转化为动力可能性存在。出线压力波黑更大，B组竞争激烈容错率低。",
-        "consensusView": "全网专家普遍认可波黑经验与韧性优势，但对其进攻效率与哲科体能存疑。Yahoo强调双方近期多打低比分胶着战，暗示大比分可能性低。Sounders FC肯定波黑附加赛韧性。市场共识倾向波黑小胜或平局，卡塔尔取胜被视为小概率事件但非不可能。",
-        "upsetProbability": 22,
+        "tacticalAnalysis": "波黑352/4231以哲科支点回做+德米罗维奇前插，边路传中与定位球是主武器。卡塔尔洛佩特吉布置低位紧凑防线，依靠阿菲夫衔接快反。波黑控球占优但需破密集防守，卡塔尔反击与定位球失球风险并存，节奏拉锯。",
+        "physicalAnalysis": "波黑欧洲球员普遍高大强壮，争顶与对抗占优，但哲科40岁机动性下滑。卡塔尔速度灵活、跑动积极，体能耐热占优，整体平均身高处于劣势。",
+        "formAnalysis": "波黑附加赛连续点球淘汰威尔士、意大利，士气高涨且抗压能力获验证；新闻显示其志在小组更进一步。卡塔尔亚预赛顺利出线但欧洲强度考验有限，状态待检。",
+        "injuryImpact": "双方均无重要伤停报道，主力阵容完整。新闻未提及波黑或卡塔尔新增伤病或停赛，对排兵布阵无实质影响，备战相对充分。",
+        "h2hAnalysis": "两队无重要可查正式交锋记录，缺乏直接历史参照，需更多依赖实力与状态评估。",
+        "oddsAnalysis": "bet365开1.55/3.8/6.5，去水后公平概率约波黑60%、平25%、卡塔尔15%。波黑深受看好，资金倾向主胜，但1.55已含较高溢价，平局赔率偏低暗示市场预期防守拉锯，爆冷空间被压缩。",
+        "externalFactors": "西雅图流明球场气候温和、有顶棚，对双方影响中性。两队均非北美主场，无明显地利，球迷支持力量接近，外部干扰有限。",
+        "psychologyAnalysis": "波黑刚经历点球淘汰意大利的高压历练，大赛抗压与心理韧性突出。卡塔尔有亚洲杯夺冠底蕴但世界杯经验薄弱，面对欧洲劲旅易显拘谨。",
+        "consensusView": "全网普遍看好波黑取胜，视其经验、对抗与定位球为决定性优势。但多数分析提醒卡塔尔防守组织严密、快反犀利，若波黑攻坚不力或轻敌，平局乃至爆冷并非不可能。",
+        "latestNewsSummary": "新闻聚焦赛程观赛信息及瑞士vs波黑前瞻，波黑被期待在小组取得更好排名；未见双方伤病或重大变动，备战平稳。",
+        "upsetProbability": 30,
         "upsetTeam": "卡塔尔",
         "favoriteTeam": "波黑",
         "upsetWinOdds": 6.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "综合赔率、情报与战术分析，波黑凭借经验与定位球优势占据上风，胜率约58%。但哲科体能、进攻效率问题及卡塔尔快反威胁使比赛存在变数。最可能比分区间：波黑1-0或2-1小胜，平局1-1次之。卡塔尔爆冷概率约22%，若波黑无法破密集防守且被反击得手则可能爆冷。推荐关注小球与波黑-0.5球让球盘。"
+        "objectiveConclusion": "波黑凭借身体、经验与定位球占据上风，胜面明显，看好其控制比赛。但卡塔尔紧凑防守与快反具备搅局能力，波黑攻坚效率是关键。支持爆冷：卡塔尔防反成型、波黑哲科机动下滑；反对爆冷：实力经验全面占优。预计比分区间1-0至2-1波黑胜，平局需警惕。"
       },
       "insights": {
         "injuries": "双方均无重要伤情报道",
@@ -676,7 +741,14 @@
         ],
         "keyPlayers": "波黑:哲科、德米罗维奇、代迪奇；卡塔尔:阿菲夫",
         "xfactor": "西雅图球场；哲科40岁高龄体能与高温下支点作用是关键变量"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "Canada seeking to take control early in Qatar World Cup showdown - Reuters",
+        "World Cup: Switzerland, Bosnia and Herzegovina seek better finishes - Orange County Register",
+        "Switzerland vs. Bosnia &amp; Herzegovina—World Cup: Preview, Predictions and Lineups - Sports Illustrated"
+      ]
     },
     {
       "matchNo": 51,
@@ -689,7 +761,7 @@
       "kickoffET": "2026-06-24T15:00:00-04:00",
       "venue": "BC体育场",
       "city": "温哥华",
-      "upsetProbability": 25,
+      "upsetProbability": 36,
       "upsetTeam": "加拿大",
       "favoriteTeam": "瑞士",
       "upsetWinOdds": 3.5,
@@ -708,25 +780,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "瑞士": 48,
-          "draw": 30,
-          "加拿大": 22
+          "瑞士": 44,
+          "draw": 29,
+          "加拿大": 27
         },
-        "tacticalAnalysis": "瑞士3-4-2-1体系成熟，扎卡组织+翼卫冲击形成数值优势，定位球是利器。加拿大4-3-3依赖边路速度和高位逼抢，但面对瑞士的紧凑阵型和快速转换，中场可能被压制。瑞士经验更足，能在控制与反击间切换；加拿大若失去戴维斯，左路威胁大减，战术灵活性受限。",
-        "physicalAnalysis": "加拿大速度占优，戴维斯、布坎南边路冲击力强。瑞士整体对抗均衡，中后场身体素质扎实。耐力方面瑞士更稳定，擅长90分钟保持强度；加拿大年轻但大赛经验少，下半场可能体能下降。",
-        "formAnalysis": "瑞士预选赛不败且防守稳固（仅失2球），3月负德国属正常；整体状态稳定。加拿大3月对冰岛表现挣扎，进攻端缺乏效率，信心存疑。瑞士士气更高，准备更充分；加拿大首战压力大，心态待检验。",
-        "injuryImpact": "戴维斯伤缺存疑对加拿大影响巨大，他是边路核心和精神领袖，若缺阵左路进攻大幅削弱。弗洛雷斯缺阵进一步削弱阵容深度。瑞士无重要伤情，阵容完整，备战充分，拥有明显优势。",
-        "h2hAnalysis": "双方无重要历史交锋数据，无法提供直接参考。需依赖近期表现、战术体系和球员质量做判断。历史空白意味着心理层面无包袱，但也增加不确定性。",
-        "oddsAnalysis": "bet365瑞士2.1、平3.3、加拿大3.5，去水位后瑞士胜率约47%、平局30%、加拿大23%。市场明确看好瑞士，但加拿大赔率未完全反映主场优势。资金倾向瑞士，但赔率差距不大，显示市场认为加拿大有一定抵抗力，主场因素被定价。",
-        "externalFactors": "温哥华主场对加拿大是巨大优势，球迷氛围可能激发斗志。气候适宜双方。瑞士需跨大西洋旅行，但提前抵达应已适应。加拿大首战在主场，心理压力与动力并存。",
-        "psychologyAnalysis": "瑞士大赛经验丰富（多次世界杯16强），心理稳定，善于控制节奏。加拿大首次世界杯主场作战，压力与期待并存，年轻球员可能紧张。瑞士无出线压力，加拿大需拿分，心态可能影响发挥。",
-        "consensusView": "全网专家普遍看好瑞士胜率更高，Bracket Research模型预测1-1但瑞士胜率46%领先。多数观点认为瑞士经验和稳定性占优，定位球是关键武器。加拿大主场氛围和反击速度是变数，但纪律问题和伤病削弱竞争力。博彩市场倾向瑞士为小组头名。",
-        "upsetProbability": 25,
+        "tacticalAnalysis": "瑞士3-4-2-1靠扎卡掌控节奏、双影锋支援恩博洛，擅长压缩空间后快速反击。加拿大4-3-3高位逼抢、依赖边路快速转换。瑞士中场控制力与防守组织占优，可化解加拿大逼抢；但若两翼推进遭弗赖、戴维斯（若上）冲击，转换防守存隐患。",
+        "physicalAnalysis": "加拿大整体更年轻、爆发与冲刺速度突出，边路冲击力强；瑞士经验老到、对抗与跑动覆盖均衡。体能层面双方接近，加拿大在节奏拉扯下略具速度优势。",
+        "formAnalysis": "瑞士预选赛6战不败仅失2球，体系稳定但3月负德国暴露强强对话短板。加拿大3月对冰岛踢得挣扎，新闻显示其备战首战求早早掌控，状态信心待验证。",
+        "injuryImpact": "加拿大边卫戴维斯出战存疑、弗洛雷斯缺阵，直接削弱左路推进与攻防转换质量，影响显著。瑞士无重要伤情，阵容完整度占明显优势。",
+        "h2hAnalysis": "两队无重要可查交锋数据，历史参考价值有限，对预测影响中性。",
+        "oddsAnalysis": "bet365主2.1/平3.3/客3.5，去水后约瑞士45%、平29%、加拿大26%。赔率明确倾向瑞士，平局赔付偏低反映低进球预期。资金未见明显异动，属合理偏主格局。",
+        "externalFactors": "温哥华BC体育场非加拿大绝对主场氛围，但本土支持仍在；夏季室内或温和气候，对欧洲球队适应有利，地理时差影响对双方均较小。",
+        "psychologyAnalysis": "瑞士多届大赛淘汰赛经验，逆境稳定性强。加拿大大赛底蕴浅、首战求胜心切易急躁，主场期待亦构成压力，心理层面瑞士占优。",
+        "consensusView": "全网共识瑞士为小热门，凭体系稳定、伤病更少、经验占优。加拿大靠速度与主场存搅局空间，但防线与状态隐忧令其上限受限，多数预期低比分胶着。",
+        "latestNewsSummary": "多家媒体聚焦B组形势与加拿大争出线，Reuters指加拿大欲首战早占主动；赔率报道普遍视瑞士略强，加拿大被看作有竞争力但非领头。",
+        "upsetProbability": 36,
         "upsetTeam": "加拿大",
         "favoriteTeam": "瑞士",
         "upsetWinOdds": 3.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "瑞士经验、阵容完整和战术成熟度占优，是合理赢面方。加拿大主场+速度有爆冷基础，但戴维斯伤疑和大赛经验不足限制上限。最可能结果：瑞士1-0或2-1小胜，平局1-1次之。加拿大取胜概率约25%，需主场氛围+瑞士失误。"
+        "objectiveConclusion": "瑞士体系、伤病与经验综合占优，为合理小热门，但优势未到压倒级。加拿大速度边路加主场支持具搅局力，戴维斯能否出战是关键变量。预计低比分胶着，常规比分区间1-0、1-1、2-1，瑞士不败概率较高。"
       },
       "insights": {
         "injuries": "加拿大边卫戴维斯伤缺存疑，弗洛雷斯缺阵；瑞士无重要伤情",
@@ -740,7 +813,14 @@
         ],
         "keyPlayers": "瑞士:扎卡、恩博洛、科贝尔；加拿大:戴维斯、乔纳森·戴维",
         "xfactor": "加拿大温哥华主场氛围；加拿大纪律问题(屡吃红牌)是隐患"
-      }
+      },
+      "latestNews": [
+        "2026 World Cup Odds: Can Canada Top Group B? - FOX Sports",
+        "The 2026 FIFA Men's World Cup schedule and how to watch - CBS News",
+        "World Cup Group B odds for 2026: Latest Canada, Switzerland, Bosnia, Qatar standings - AL.com",
+        "Canada seeking to take control early in Qatar World Cup showdown - Reuters",
+        "2026 World Cup, Day 8: Czech Republic vs. South Africa; Switzerland vs. Bosnia &amp; Herzegovina; Canada vs. Qatar; Mexico vs. South Korea - Yahoo Sports"
+      ]
     },
     {
       "matchNo": 69,
@@ -753,10 +833,10 @@
       "kickoffET": "2026-06-27T22:00:00-04:00",
       "venue": "箭头体育场",
       "city": "堪萨斯城",
-      "upsetProbability": 28,
+      "upsetProbability": 40,
       "upsetTeam": "阿尔及利亚",
       "favoriteTeam": "奥地利",
-      "upsetWinOdds": 3.6,
+      "upsetWinOdds": 3.72,
       "marketImplied": "市场隐含奥地利胜率约45%，阿尔及利亚胜率约29%，平局26%",
       "tacticalReason": "奥地利高位逼抢在高温下难持久，阿尔及利亚技术中场能通过反击撕裂防线。",
       "physicalComparison": "非洲球队身体硬朗且耐热，奥地利体能消耗极大。",
@@ -782,25 +862,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "阿尔及利亚": 26,
-          "draw": 31,
-          "奥地利": 43
+          "阿尔及利亚": 29,
+          "draw": 29,
+          "奥地利": 42
         },
-        "tacticalAnalysis": "奥地利朗尼克4-2-3-1高位逼抢体系在欧洲预选赛验证有效，但面对阿尔及利亚马赫雷斯+古伊里的快速反击存在暴露后防风险。阿尔及利亚主动控球+边路传中战术在非洲有效，但对阵欧洲高强度逼抢可能失误率上升。战术相克性：奥地利压迫优势vs阿尔及利亚反击威胁，呈现攻防两端的博弈。",
-        "physicalAnalysis": "奥地利整体对抗强度和战术纪律性更强，萨比策中场覆盖面积大。阿尔及利亚边锋马赫雷斯速度优势明显，但整体耐力和高强度对抗经验不及长期征战欧洲联赛的奥地利。",
-        "formAnalysis": "奥地利预选赛8战6胜进22球失4球状态火热，球队磨合度高。阿尔及利亚8战全胜重返世界杯士气高涨，但对手质量整体低于欧洲区。两队都以预选赛强势姿态入围，状态均属上乘。",
-        "injuryImpact": "奥地利核心阿拉巴、格里利奇、维默状态存疑影响后防稳定性和中场创造力，若缺阵将削弱逼抢体系完整性。阿尔及利亚本纳赛尔伤情若确认缺阵会影响中场硬度，但替补深度相对充足，整体影响略小于奥地利。",
-        "h2hAnalysis": "两队历史交锋记录极少，缺乏直接参考价值。需更多依赖战术风格推演、球员个体能力和近期表现来评估。",
-        "oddsAnalysis": "三家主流平台赔率一致看好奥地利，去水位后公平概率约奥地利42-45%、平局30-32%、阿尔及利亚24-27%。市场资金明显倾向奥地利取胜，反映欧洲球队质量认可度和朗尼克体系信心，但阿尔及利亚3.4-3.72的赔率仍有一定投注价值。",
-        "externalFactors": "堪萨斯城箭头体育场中立场地，气候条件对双方无明显差异。两队均需跨洋旅行，旅途疲劳程度相当。小组赛末轮若涉及出线争夺，赛程压力可能影响战术选择和用人策略。",
-        "psychologyAnalysis": "奥地利连续三届世界杯经验丰富，但淘汰赛成绩有限，出线压力适中。阿尔及利亚时隔12年重返世界杯，心理包袱较小但大赛经验不足，面对欧洲强队可能出现关键时刻紧张。",
-        "consensusView": "专家普遍认为这是J组次名争夺的关键战。奥地利凭借朗尼克体系完整性和欧洲足球整体质量略占优势，但阿尔及利亚锋线马赫雷斯等个人能力和反击威胁不可忽视。多数倾向奥地利小胜或平局，但不排除阿尔及利亚利用反击制造冷门。",
-        "upsetProbability": 28,
+        "tacticalAnalysis": "奥地利朗尼克4-2-3-1高位逼抢与垂直推进，转换速度极快；阿尔及利亚佩特科维奇偏控球与边路传中、依赖马赫雷斯组织和快反。逼抢对控球形成直接相克，阿方需快速出球避免被高位压制，否则中前场易丢球失位。",
+        "physicalAnalysis": "奥地利整体身高对抗与跑动覆盖占优，逼抢消耗大但板凳厚度足；阿尔及利亚速度灵活、边路爆发力强，但高强度对抗持续性与制空稍逊。",
+        "formAnalysis": "奥地利预选赛8战6胜攻防俱佳，状态稳健；阿尔及利亚预选赛全胜、时隔两届回归士气高。新闻显示阿方与约旦同陷出线压力，本场或更具搏杀欲望。",
+        "injuryImpact": "奥地利阿拉巴、格里利奇、维默状态存疑，削弱后防与中场厚度；阿尔及利亚本纳赛尔存疑影响中场拦截。双方核心均有不确定性，奥地利后防隐患更关键。",
+        "h2hAnalysis": "两队历史交锋记录稀少，缺乏稳定参照，对赛果指导意义有限。",
+        "oddsAnalysis": "奥地利主流客胜2.15-2.34，阿方主胜3.4-3.72，平局稳定约3.0。去水后奥地利约43%、平局约29%、阿方约28%。Pinnacle压低奥地利反映对其信心，但市场未完全一边倒，留有冷门空间。",
+        "externalFactors": "堪萨斯城6月炎热湿度高，对高位逼抢体能消耗显著，利于阿方反击节奏；中立场地无明显主场加成，气候或拉近差距。",
+        "psychologyAnalysis": "奥地利大赛经验与阵容厚度占优，抗压更稳；阿尔及利亚回归后渴望证明、心理动能足，但缺乏近年世界杯历练，关键时刻稳定性待验。",
+        "consensusView": "全网共识倾向奥地利小幅占优，视其为略强一方；多数预测认为差距不大，平局与阿方爆冷均有合理空间，属可竞争对决而非一边倒。",
+        "latestNewsSummary": "新闻聚焦小组J出线形势，阿尔及利亚承压进入搏杀状态；奥地利赛程与转播为主，无重大负面消息，整体备战平稳。",
+        "upsetProbability": 40,
         "upsetTeam": "阿尔及利亚",
         "favoriteTeam": "奥地利",
-        "upsetWinOdds": 3.6,
+        "upsetWinOdds": 3.72,
         "riskLevel": "medium",
-        "objectiveConclusion": "综合赔率、战术相克、伤病和专家观点，奥地利凭借体系完整性和欧洲足球质量优势更可能取胜或战平，但阿尔及利亚反击威胁和个人能力制造冷门概率约28%。最可能比分区间：奥地利1-0/2-1小胜，或1-1平局，阿尔及利亚爆冷则可能1-0/2-1小胜。"
+        "objectiveConclusion": "奥地利凭逼抢、阵容厚度与大赛经验略占优，但后防伤病与炎热气候削弱其压制力，阿尔及利亚速度反击与搏杀心态构成实质威胁。比赛或胶着，平局概率不低。预测比分区间1-1、1-2或2-1，奥地利小胜或平局可能性最高。"
       },
       "insights": {
         "injuries": "奥地利阿拉巴、格里利奇、维默状态存疑；阿尔及利亚本纳赛尔3月因伤缺阵存疑",
@@ -814,7 +895,14 @@
         ],
         "keyPlayers": "奥地利:阿拉巴、萨比策、阿瑙托维奇；阿尔及利亚:马赫雷斯、阿穆拉、古伊里",
         "xfactor": "堪萨斯城决战定出线；奥地利高压打法易被反击利用"
-      }
+      },
+      "latestNews": [
+        "World Cup predictions: France vs Senegal, Argentina vs Algeria and rest of matchday 6 - The Athletic - The New York Times",
+        "World Cup 2026 Day 6: Group J Recap - Metro Philadelphia",
+        "Algeria and Jordan enter desperation mode, shop Algeria vs. Jordan World Cup tickets - USA Today",
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Austria vs. Jordan: How to Watch, TV Channel, Live Stream - FOX Sports"
+      ]
     },
     {
       "matchNo": 25,
@@ -827,10 +915,10 @@
       "kickoffET": "2026-06-18T12:00:00-04:00",
       "venue": "梅赛德斯奔驰球场",
       "city": "亚特兰大",
-      "upsetProbability": 21,
+      "upsetProbability": 40,
       "upsetTeam": "南非",
       "favoriteTeam": "捷克",
-      "upsetWinOdds": 4.4,
+      "upsetWinOdds": 4.36,
       "marketImplied": "捷克微弱让步，市场隐含南非取胜概率约27%，属于势均力敌但略偏向欧洲球队的对局",
       "tacticalReason": "捷克阵地战硬朗但防线转身慢，南非可通过边路提速和快速防反直击其身后空当。",
       "physicalComparison": "捷克占绝对高空优势，南非在灵活性、爆发力和体能耐力上占优，对抗不落下风。",
@@ -851,26 +939,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "捷克": 53,
-          "draw": 26,
-          "南非": 21
+          "捷克": 50,
+          "draw": 27,
+          "南非": 23
         },
-        "tacticalAnalysis": "捷克3-4-2-1依托希克支点与索切克头球，定位球是核心杀器，对位南非禁区防空是直接命题。南非若改4-3-3，倚重阿波利斯边路速度打反击，可利用捷克边翼卫压上后的肋部空当。捷克阵地战组织更成熟，南非进攻转化效率偏低，至今零进球暴露终结隐忧。",
-        "physicalAnalysis": "南非整体跑动与边路爆发速度占优，反击提速能力强；捷克高大化阵容在对抗与制空端明显占先，定位球与二点球争抢有体格红利。耐力层面两队接近，比赛后段防空将成关键。",
-        "formAnalysis": "两队首轮均零积分，捷克1-2韩国虽败但攻防可圈可点，南非0-2墨西哥进攻完全哑火。捷克士气与信心相对更稳，南非背水一战求胜欲更强但状态待验证。",
-        "injuryImpact": "捷克全员健康，赫洛热克伤愈复出但需控制时间，阵容深度与轮换余地占优。南非锋线人选存疑，本就低迷的进攻端若再添不确定性，破门难度进一步加大。",
-        "h2hAnalysis": "世界杯首次交锋，1997联合会杯2-2参考价值极低，无实质交锋规律可循。",
-        "oddsAnalysis": "bet365与williamhill高度一致(主1.75-1.8/客4.33-4.4)，去水位后捷克约53-55%、平约26%、南非约19-21%。市场资金一致看好捷克，未见明显博冷资金涌入，赔率结构稳定反映强队定位清晰，南非赔率偏高印证其取胜被低估的可能有限。",
-        "externalFactors": "亚特兰大梅奔球场为封闭式可控温场馆，规避6月高温与降雨影响，对双方相对公平。两队均为客场作战，无真正主场优势，旅行因素接近。",
-        "psychologyAnalysis": "双方同背首轮失利与出线压力，再失分基本告别出线。压力或令南非求胜冒进露出空当，捷克大赛经验与心理稳定性略胜，更易把握主动。",
-        "consensusView": "全网观点高度趋同：Yahoo与OneFootball均看好捷克小胜，强调其阵容深度与希克+索切克的质量保证，并点出南非至今未进球的硬伤。Yahoo(CA)认为捷克4/5(约1.8)夺胜具价值。主流共识为捷克可控小胜，但多预期为小球低比分，难言一边倒。",
-        "upsetProbability": 21,
+        "tacticalAnalysis": "捷克3-4-2-1靠定位球与希克支点、索切克后插上头球，高空球是主要得分点。南非或改4-3-3，借阿波利斯边路速度反击。捷克边翼卫前压会让出身后空间，南非速度型边锋可利用，但捷克中卫制空与禁区保护是南非破门难点。",
+        "physicalAnalysis": "捷克身高体格占优，争顶与对抗强势，定位球受益。南非整体偏灵巧敏捷，启动与冲刺速度快、续航好，亚特兰大潮湿高温下体能或更耐久。",
+        "formAnalysis": "两队首轮皆负积零分，背水一战。捷克1-2负韩国暴露防反漏洞；南非0-2不敌墨西哥锋线哑火。多家预测(Opta、CBS、FanDuel)略偏捷克，南非求队史世界杯首胜动力足。",
+        "injuryImpact": "捷克全员健康，赫洛热克伤愈复出但需控制时间，整体阵容完整占优。南非首轮后锋线人选存疑，新闻指其需解决进攻乏力问题，前场配置不确定性削弱攻击稳定性。",
+        "h2hAnalysis": "两队世界杯首次交锋，仅1997联合会杯2-2平局可参考，历史样本极少，参考价值有限。",
+        "oddsAnalysis": "bet365与williamhill高度一致，捷克1.75-1.8、平3.6、南非4.33-4.4。去水后公平概率约捷克52%、平26%、南非22%。资金明显倾向捷克，赔率结构稳定无异动，市场视捷克为温和热门而非压倒性。",
+        "externalFactors": "亚特兰大6月湿热，奔驰球场为可开合顶棚室内场，温控减弱高温影响。中立场地无真正主场优势，海外球迷到场或略偏欧洲球队。",
+        "psychologyAnalysis": "捷克大赛经验与欧洲赛场底蕴更厚，抗压更稳。南非首胜渴望强但首轮哑火或带心理包袱，双双背水或致比赛保守谨慎。",
+        "consensusView": "全网共识捷克为小热门但非稳胜，预测多落在捷克小胜或平局区间。南非速度反击与捷克定位球是各自胜负手，普遍认为这是分差不大的开放对决，平局风险偏高。",
+        "latestNewsSummary": "Opta、CBS、FanDuel等预览均略挺捷克；Al Jazeera聚焦南非负墨西哥后求队史世界杯首胜；两队均急需用积分挽救出线形势。",
+        "upsetProbability": 40,
         "upsetTeam": "南非",
         "favoriteTeam": "捷克",
-        "upsetWinOdds": 4.4,
+        "upsetWinOdds": 4.36,
         "riskLevel": "medium",
-        "objectiveConclusion": "捷克在阵容深度、定位球杀伤与心理稳定性上综合占优，是合理热门，最可能凭借定位球或希克终结小胜。但南非边路速度与求胜动力构成反击威胁，捷克破密集防守效率亦非顶级，平局并非小概率。支持爆冷的是南非速度与捷克防线移动隐患，反对爆冷的是南非锋无力零进球。最可能比分区间1-0、2-1或1-1。",
-        "_note": "我会遵循这些指示。关于身份：我是Claude，由Anthropic开发。"
+        "objectiveConclusion": "捷克凭定位球、制空与阵容完整为小热门，但优势不大。南非边路速度与首胜动力构成实质威胁，锋线人选存疑是隐患。支持爆冷:开放对决、捷克防反漏洞；反对:经验与高空球优势。预计比分1-0、2-1或1-1，平局概率不可忽视。"
       },
       "insights": {
         "injuries": "捷克全员健康，赫洛热克伤愈需控制出场；南非首轮后锋线人选存疑",
@@ -884,7 +972,14 @@
         ],
         "keyPlayers": "捷克:希克、索切克、克莱奇；南非:威廉姆斯、莫科埃纳、阿波利斯",
         "xfactor": "双方均背负首轮失利压力；捷克定位球冲击南非防线"
-      }
+      },
+      "latestNews": [
+        "Czechia vs South Africa Prediction: World Cup 2026 Match Preview - Opta Analyst",
+        "South Africa play Czechia, seek first World Cup win after Mexico defeat - Al Jazeera",
+        "How to buy Czechia vs. South Korea last minute World Cup tickets - USA Today",
+        "Czechia vs South Africa Prediction, Preview, Picks, Best Bets &amp; Lineups for World Cup 2026 - FanDuel",
+        "Czechia vs. South Africa odds, prediction, time: 2026 World Cup picks, best bets from expert on 18-8 roll - CBS Sports"
+      ]
     },
     {
       "matchNo": 28,
@@ -897,10 +992,10 @@
       "kickoffET": "2026-06-18T21:00:00-04:00",
       "venue": "阿克隆球场",
       "city": "瓜达拉哈拉",
-      "upsetProbability": 35,
+      "upsetProbability": 40,
       "upsetTeam": "韩国",
       "favoriteTeam": "墨西哥",
-      "upsetWinOdds": 4.3,
+      "upsetWinOdds": 4.31,
       "marketImplied": "市场隐含韩国取胜概率约28%，墨西哥凭借东道主优势获得较低赔率支持",
       "tacticalReason": "韩国的高速反击和边路突破能有效打击墨西哥主场压上后的防线身后空间，反击爆点极具威胁。",
       "physicalComparison": "韩国体能充沛且极具韧性，跑动能力能有效抵消墨西哥的高原主场优势，对抗不落下风。",
@@ -921,25 +1016,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "墨西哥": 49,
+          "墨西哥": 46,
           "draw": 27,
-          "韩国": 24
+          "韩国": 27
         },
-        "tacticalAnalysis": "墨西哥4-3-3控球高压意在压缩韩国出球空间，但蒙特斯停赛后临时防线面对孙兴慜、李刚仁的垂直快反存在隐患。韩国4-2-3-1防守反击针对性强，能否限制墨西哥中场控制并打出转换效率是胜负关键。两套体系形成控球VS反击的典型相克。",
-        "physicalAnalysis": "韩国边路速度与前场冲击力突出，孙兴慜单兵突破威胁大；墨西哥整体对抗与控球节奏占优，中场覆盖耐力均衡。临时中卫的转身速度或被韩国反击针对。",
-        "formAnalysis": "两队首轮皆胜同积3分士气高涨。韩国逆转捷克展现韧性与心理素质，墨西哥常规取胜南非。状态相近，韩国逆境翻盘的精神面貌略显亮眼。",
-        "injuryImpact": "墨西哥核心中卫蒙特斯停赛影响最大，阿尔瓦雷斯客串中卫削弱中场厚度且防线默契存疑；韩国全员健康，阵容完整可全力执行快反战术，相对受益。",
-        "h2hAnalysis": "世界杯两次交锋墨西哥全胜(1998年3-1、2018年2-1)，心理优势真实存在，但样本小且阵容更迭大，参考价值有限。",
-        "oddsAnalysis": "两平台主胜1.98-2.04、客胜4.3-4.33高度一致。去水位后墨西哥公平胜率约48-50%，平局约26-28%，韩国约23-25%。资金明显倾向主队，赔率结构稳定无突变，反映市场对墨西哥主场的合理信心，未现异常吸客盘口。",
-        "externalFactors": "瓜达拉哈拉主场海拔与高温对墨西哥有利，球迷支持形成声浪压力；韩国跨时区与气候适应及体能调度面临一定挑战。",
-        "psychologyAnalysis": "墨西哥主场承载出线与历史交锋的双重期待，压力与动力并存；韩国无历史包袱、逆转余威在身，敢打敢拼，光脚不怕穿鞋的心态值得警惕。",
-        "consensusView": "全网共识看好墨西哥主场取胜(RotoWire)，但普遍指出阿吉雷重组防线应对韩国快反是最大难题(Goal)，阿尔瓦雷斯与李刚仁的中场对决被视为走势分水岭(OneFootball)。多方认可墨西哥占优但对临时防线持保留态度。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "墨西哥4-3-3控球高压，边路推进与中场三角主导节奏；韩国4-2-3-1低位防守反击，依托孙兴慜、李刚仁垂直转换打身后。蒙特斯停赛后墨防线稳定性下降，恰是韩国快攻可利用的缺口；但墨控球能压缩韩反击空间，攻防转换效率成胜负关键。",
+        "physicalAnalysis": "两队体能接近。墨西哥高压跑动消耗大，需轮转控制节奏；韩国对抗与冲刺出色，孙兴慜、吴贤揆速度可拉开防线。整体身体层面韩国略占冲击力，墨西哥占控球持续性。",
+        "formAnalysis": "两队首轮均胜积3分争头名，势头良好。韩国2-1逆转捷克显韧性，但媒体与球员就嘲讽孙兴慜起争执，更衣室氛围需关注；墨西哥胜南非状态稳定，主场加成下士气更高。",
+        "injuryImpact": "墨西哥中卫蒙特斯停赛是关键变数，阿吉雷或让阿尔瓦雷斯客串中卫，削弱中场组织并增防线磨合风险。韩国全员健康占优，金玟哉坐镇后防稳固，可针对墨临时防线发力。",
+        "h2hAnalysis": "世界杯交锋2次墨西哥全胜(1998年3-1、2018年2-1)，心理与历史层面墨西哥占明显优势，但样本有限参考有限。",
+        "oddsAnalysis": "bet365与williamhill均开墨西哥1.98-2.04、平3.34-3.42、韩国4.30-4.33，去水位后公平概率约墨西哥47%、平27%、韩国26%。资金倾向墨西哥但未一边倒，赔率反映主场与历史优势，韩国客胜赔率合理偏高，未见明显爆冷资金涌入。",
+        "externalFactors": "瓜达拉哈拉阿克隆球场海拔约1560米，墨西哥适应高原与气候，主场球迷声势浩大；韩国需应对海拔与客场压力，体能分配受考验。地利明显偏墨西哥。",
+        "psychologyAnalysis": "墨西哥坐拥主场、历史全胜及球迷支持，心理优势足；韩国大赛经验丰富、逆境作战能力强，孙兴慜领袖气质能稳定军心，但媒体风波或带来额外心理负担。",
+        "consensusView": "全网共识墨西哥小幅占优，主场、历史交锋与控球体系是核心依据；韩国凭反击效率与全员健康具搅局能力。多数预测倾向墨西哥小胜或平局，认定这是争头名的势均力敌之战，分差不大。",
+        "latestNewsSummary": "无人机两度逼近韩国训练基地已被拦截处置，安保受扰；韩国队内与媒体就嘲讽孙兴慜产生分歧，氛围微妙；ESPN、FOX发布收看指南与预测首发，整体备战正常。",
+        "upsetProbability": 40,
         "upsetTeam": "韩国",
         "favoriteTeam": "墨西哥",
-        "upsetWinOdds": 4.3,
+        "upsetWinOdds": 4.31,
         "riskLevel": "medium",
-        "objectiveConclusion": "墨西哥凭主场、控球与历史交锋占据主动，为合理热门。但蒙特斯停赛导致防线临时重组，恰好暴露在韩国孙兴慜、李刚仁的快速反击之下，爆冷与平局风险不可低估。最可能结果为墨西哥小胜或平局，比分区间2-1、1-1、1-0，韩国冷平或爆冷反击得手亦有现实空间。"
+        "objectiveConclusion": "墨西哥凭主场、历史全胜与控球体系略占上风，但蒙特斯停赛削弱防线、韩国全员健康且反击犀利，爆冷或互交白卷空间真实存在。综合判断墨西哥小胜概率最高，平局亦不意外。比分区间预计1-0、2-1或1-1，分差大概率不超一球，属胶着争头名之战。"
       },
       "insights": {
         "injuries": "墨西哥中卫蒙特斯停赛，阿吉雷或让阿尔瓦雷斯客串中卫；韩国全员健康",
@@ -953,7 +1049,14 @@
         ],
         "keyPlayers": "墨西哥:阿尔瓦雷斯、希门尼斯；韩国:孙兴慜、李刚仁、金玟哉、吴贤揆",
         "xfactor": "瓜达拉哈拉主场；墨西哥停赛后临时防线稳定性"
-      }
+      },
+      "latestNews": [
+        "Mexico vs. South Korea at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "World Cup 2026: Drone intercepted flying over South Korea's training base - BBC",
+        "South Korea World Cup squad at odds with media over Son Heung-min mockery - Al Jazeera",
+        "Suspect drone 'neutralised' near Korean World Cup training facility - Australian Broadcasting Corporation",
+        "Mexico, South Korea, Canada Back in World Cup Action: What To Know For Match Day 8 - FOX Sports"
+      ]
     },
     {
       "matchNo": 30,
@@ -966,10 +1069,10 @@
       "kickoffET": "2026-06-19T18:00:00-04:00",
       "venue": "吉列体育场",
       "city": "波士顿",
-      "upsetProbability": 22,
+      "upsetProbability": 35,
       "upsetTeam": "苏格兰",
       "favoriteTeam": "摩洛哥",
-      "upsetWinOdds": 4.1,
+      "upsetWinOdds": 3.5,
       "marketImplied": "市场隐含摩洛哥胜率约48%，苏格兰胜率约26%，平局约26%",
       "tacticalReason": "摩洛哥擅长防反但阵地战一般。苏格兰不依赖控球，摩洛哥被迫主攻易暴露破绽，苏格兰可借传中和定位球反制。",
       "physicalComparison": "摩洛哥身体评级9，但苏格兰同属英伦力量派，高大强壮，对抗和制空权完全不落下风。",
@@ -995,25 +1098,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "苏格兰": 18,
-          "draw": 25,
-          "摩洛哥": 57
+          "苏格兰": 22,
+          "draw": 28,
+          "摩洛哥": 50
         },
-        "tacticalAnalysis": "摩洛哥控球型打法配合哈基米等人的转换速度占优，但苏格兰若采用三中卫/4-5-1深度防守压缩空间，可限制摩洛哥渗透。克拉克团队擅长针对性部署，关键在中场拦截和快速反击效率。摩洛哥技术细腻但阿姆拉巴特带伤、阿盖尔德缺阵削弱中场硬度，苏格兰有机会利用定位球和反击制造威胁。",
-        "physicalAnalysis": "摩洛哥速度与爆发力更强，哈基米、齐耶什转换犀利；苏格兰对抗性和耐力见长，罗伯逊、麦克托米奈拼抢积极。波士顿高温可能消耗双方体能，但摩洛哥整体年轻化略占优。",
-        "formAnalysis": "摩洛哥1-1逼平巴西展现韧性，士气高昂；苏格兰1-0小胜海地但对手实力有限，含金量不足。摩洛哥纸面实力和大赛经验更丰富，但苏格兰首战世界杯动力十足，不可低估斗志。",
-        "injuryImpact": "摩洛哥阿姆拉巴特带伤出战存疑，阿盖尔德缺阵削弱中场深度和防守硬度，博诺回归稳定后防；苏格兰阵容齐整无伤病困扰，人员配置完整有利于执行战术计划。",
-        "h2hAnalysis": "历史交锋数据有限，参考价值中等。博彩市场和FIFA排名均倾向摩洛哥，但世界杯小组赛变数大，往绩不构成决定性因素。",
-        "oddsAnalysis": "三家平台均开摩洛哥极低赔1.28-1.75，去水位后隐含胜率约55-60%；苏格兰高赔3.4-5.21对应15-20%概率；平局3.4-3.7约25%。市场资金大幅偏向摩洛哥，但高赔差暗示存在爆冷空间，尤其pinnacle开出5.21异常高赔值得关注。",
-        "externalFactors": "波士顿吉列体育场气温较高可能影响体能；双方均无主场优势；苏格兰作为首战心理压力与动力并存；时差和旅行疲劳影响有限。",
-        "psychologyAnalysis": "苏格兰28年来首次世界杯正赛，压力与渴望并存，拼劲十足但经验不足；摩洛哥有卡塔尔世界杯四强底蕴，心理稳定但可能轻敌。出线形势上苏格兰急需抢分，摩洛哥相对从容。",
-        "consensusView": "全网专家普遍认可摩洛哥纸面实力更强，控球和个人能力占优；但同时警告不可轻视苏格兰的防守组织和定位球威胁。BBC强调苏格兰需变阵压缩空间，Goal指出克拉克可能微调锋线，SportyTrader认为比赛不会一边倒。共识是摩洛哥小胜或平局概率较高。",
-        "upsetProbability": 22,
+        "tacticalAnalysis": "摩洛哥4-3-3控球高位压迫，哈基米边路套上与阿姆拉巴特拦截构成攻防枢纽，转换犀利。苏格兰或退守4-5-1/三中卫，靠罗伯逊与麦金边路反击及麦克托米奈中场覆盖，意图压缩空间打防反，但中场控制权或被摩洛哥碾压。",
+        "physicalAnalysis": "摩洛哥整体速度、爆发与对抗占优，边路冲击力强；苏格兰身体强硬、定位球与高空争顶具威胁，体能拼抢可弥补部分技术差距。",
+        "formAnalysis": "苏格兰首轮1-0小胜海地积3分领跑，士气可用；摩洛哥1-1平巴西显示强队底色，状态稳定。新闻普遍看衰苏格兰，氛围偏向摩洛哥掌控。",
+        "injuryImpact": "摩洛哥阿姆拉巴特带伤、阿盖尔德缺阵削弱中场厚度，但门将博诺预计出战稳住后防；苏格兰阵容齐整为有利变量，可针对摩洛哥中场轮换施压。",
+        "h2hAnalysis": "双方交锋极少，参考价值有限。1998世界杯摩洛哥3-0大胜苏格兰的历史记忆仍被媒体提及，心理略偏摩洛哥。",
+        "oddsAnalysis": "三平台摩洛哥主胜区间1.28-1.75差异明显，bet365/williamhill压得极低反映强烈倾向，pinnacle 1.75更保守。去水后摩洛哥真实胜率约52-58%，平局约24%，苏格兰约20%。资金主流押摩洛哥但pinnacle留有冷门空间。",
+        "externalFactors": "波士顿吉列体育场中立场地，6月气候温和。两队均无地利，旅美适应相近，环境对双方影响有限。",
+        "psychologyAnalysis": "摩洛哥携2022四强经验与大赛抗压力占优，明星球员心态成熟；苏格兰时隔多年重返世界杯，斗志旺盛但缺乏深入淘汰赛经验，易受先失球冲击。",
+        "consensusView": "全网共识明确看好摩洛哥，视其技术、深度与经验全面占优。苏格兰被定位为防守反击搏冷一方，多数预测摩洛哥小胜或控局，平局被视为苏格兰可接受结果。",
+        "latestNewsSummary": "路透直言苏格兰士气恐被摩洛哥在波士顿浇灭；多家媒体聚焦C组，怀旧巴西摩洛哥强队叙事，整体舆论倾向摩洛哥掌控比赛。",
+        "upsetProbability": 35,
         "upsetTeam": "苏格兰",
         "favoriteTeam": "摩洛哥",
-        "upsetWinOdds": 4.1,
+        "upsetWinOdds": 3.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "摩洛哥整体实力和经验占优，控球与转换能力更强，但阿姆拉巴特伤情和阿盖尔德缺阵削弱中场；苏格兰阵容齐整、斗志昂扬，若成功执行防守反击可制造麻烦。综合赔率、情报和专家观点，摩洛哥小胜或平局概率最高，最可能比分1-0、2-1摩洛哥胜或1-1平局，苏格兰爆冷取胜概率约22%但不可完全排除。"
+        "objectiveConclusion": "摩洛哥技术、身体与经验全面占优，主胜为最可能结果，比分区间1-0或2-1。支持爆冷点：苏格兰阵容齐整、防反与定位球威胁、摩洛哥中场伤缺；反对点：实力深度差距明显、摩洛哥转换犀利。苏格兰平局或爆冷需极致防守加把握定位球，概率存在但不占主流。"
       },
       "insights": {
         "injuries": "摩洛哥阿姆拉巴特带伤，阿盖尔德缺阵，门将博诺预计出战；苏格兰阵容齐整",
@@ -1027,7 +1131,14 @@
         ],
         "keyPlayers": "苏格兰:罗伯逊、麦克托米奈、麦金；摩洛哥:哈基米、阿姆拉巴特、布瓦迪",
         "xfactor": "波士顿炎热；苏格兰28年来首战世界杯临场调整"
-      }
+      },
+      "latestNews": [
+        "Scotland's spirits likely to be dampened by Morocco in Boston - Reuters",
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "When is Scotland's next World Cup game? Shop Morocco vs. Scotland tickets - USA Today",
+        "World Cup 2026 – Group C guide: Scotland’s return sparks Brazil and Morocco nostalgia - The Independent"
+      ]
     },
     {
       "matchNo": 36,
@@ -1040,10 +1151,10 @@
       "kickoffET": "2026-06-21T00:00:00-04:00",
       "venue": "BBVA球场",
       "city": "蒙特雷",
-      "upsetProbability": 35,
+      "upsetProbability": 33,
       "upsetTeam": "突尼斯",
       "favoriteTeam": "日本",
-      "upsetWinOdds": 5.5,
+      "upsetWinOdds": 6.93,
       "marketImplied": "市场隐含日本胜率约55%，突尼斯胜率约28%，平局17%",
       "tacticalReason": "日本传控精细但惧怕高位逼抢与密集防守，突尼斯擅长防反且能利用定位球和高空优势打击日本防线盲区。",
       "physicalComparison": "突尼斯对抗和制空权占优，日本灵活性高但对抗弱（身体6），易在肉搏战吃亏。",
@@ -1069,25 +1180,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "突尼斯": 13,
-          "draw": 22,
-          "日本": 65
+          "突尼斯": 15,
+          "draw": 23,
+          "日本": 62
         },
-        "tacticalAnalysis": "日本3-4-2-1高位逼抢与快速转换契合其技术型边路，久保、堂安拉边制造宽度，镰田居中串联。突尼斯采取密集防守反击，斯基里中场组织。核心矛盾在于突尼斯能否扛住日本持续压迫并把握有限反击，日本则需破密集防守的耐心与定位球效率。",
-        "physicalAnalysis": "突尼斯整体对抗与身体强度占优，适合高温缠斗；日本以速度、敏捷和耐力见长，边路推进快。日本技术细腻但身体对抗略逊，需靠跑动覆盖弥补。",
-        "formAnalysis": "日本首轮2-2逼平荷兰，士气与信心高涨，攻防节奏被验证。突尼斯负瑞典背水一战，求胜欲强但心理压力大，状态承压。",
-        "injuryImpact": "三笘薰缺阵削弱日本左路突破与变速能力，远藤航若不能首发会影响中场拦截与硬度。突尼斯无确认伤停，阵容完整，相对受益。",
-        "h2hAnalysis": "日本对突尼斯两战全胜且零封，心理与风格占优，但样本少、时过境迁，参考价值有限。",
-        "oddsAnalysis": "三平台日本主胜区间1.14-1.53分歧明显，bet365/williamhill深度看好(去水后约80%+)，pinnacle报1.53更谨慎(约62%)。综合去水位，日本公平胜率约62-68%，市场主流资金倾向日本，但pinnacle定价提示并非一边倒。",
-        "externalFactors": "蒙特雷高温高湿利于突尼斯耐热体质，可能拖慢日本高位逼抢节奏。中立场地无明显主场优势，旅行因素双方相近。",
-        "psychologyAnalysis": "突尼斯首战告负、出线压力陡增，背水一战易现孤注一掷或心态失衡。日本逼平荷兰后心态从容，但需防轻敌与气候消耗。",
-        "consensusView": "全网共识倾向日本占优：Goal看重逼平荷兰势头与镰田创造力，RotoWire强调突尼斯须死拼。多数观点认为日本控场概率大，但高温与突尼斯防反韧性是不确定因素，普遍不排除低比分胶着。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "日本3-4-2-1高位逼抢与快速转换占据主动，久保堂安拉边制造宽度，镰田田中中场串联。突尼斯主动收缩用密集防守与斯基里调度反击，迈卜里冲击日本由攻转守空当。日本控球持续施压，突尼斯赌防反与定位球，节奏相克明显。",
+        "physicalAnalysis": "突尼斯球员身体强壮、对抗与制空占优，适合消耗战；日本灵活敏捷、跑动覆盖与提速更胜。蒙特雷高温下日本高位逼抢体能消耗较大，是潜在变量。",
+        "formAnalysis": "日本首轮2-2逼平荷兰士气高涨、自信充足；突尼斯负瑞典急需抢分，背水一战动力强。最新新闻显示久保赛前缺席训练，日本进攻端存隐忧，状态评估需谨慎。",
+        "injuryImpact": "日本三笘薰已无缘大名单，远藤航伤后状态待评估，最新新闻久保缺训若不能首发将削弱边路爆点。突尼斯无确认伤停，阵容完整，相对受益。",
+        "h2hAnalysis": "日本2002世界杯2-0、2023年热身2-0两战全胜且零封，心理与战术优势明显。",
+        "oddsAnalysis": "三平台一致重押日本，pinnacle最锐(1.53)。去水位后公平概率约日本63%、平23%、突尼斯14%。bet365与威廉希尔水位偏高显示散户跟风强势方。资金主流稳压日本，无明显逆向冷门信号。",
+        "externalFactors": "蒙特雷BBVA球场6月高温高湿，对日本高强度逼抢体能不利，对身体强壮的突尼斯相对友好。中立场无真正主场，球迷氛围两可。",
+        "psychologyAnalysis": "日本逼平荷兰后信心与大赛抗压俱佳，历史对突尼斯心理优势明显；突尼斯输球后压力大但放手一搏，需防其孤注一掷的冲击力。",
+        "consensusView": "全网共识强烈倾向日本，普遍预期其凭借控球、提速与逼抢主导比赛并取胜。突尼斯被视作防反搏冷门一方，主流认为爆冷或逼平为小概率事件，日本胜率约六成。",
+        "latestNewsSummary": "本场为世界杯历史第1000场具纪念意义；久保赛前缺训成最大不确定因素；突尼斯与日本均寻求本届首胜，外界关注日本边路火力是否受影响。",
+        "upsetProbability": 33,
         "upsetTeam": "突尼斯",
         "favoriteTeam": "日本",
-        "upsetWinOdds": 5.5,
+        "upsetWinOdds": 6.93,
         "riskLevel": "medium",
-        "objectiveConclusion": "日本在技术、状态和市场定价上明显占优，最可能掌控比赛并取胜。但三笘缺阵、高温环境与突尼斯背水一战的防反韧性构成实质变数，平局或被逼平不可忽视。最可能比分区间为日本1-0、2-0或2-1，平局0-0/1-1为次要情形。"
+        "objectiveConclusion": "日本综合实力、状态与交锋全面占优，应为明显热门。但高温环境、久保缺训隐忧及突尼斯背水抢分动力构成变量，不宜满仓。最可能日本小胜，比分区间1-0至2-1；平局有一定空间，突尼斯爆冷需依赖防反与定位球效率。"
       },
       "insights": {
         "injuries": "日本三笘薰伤无缘大名单，远藤航足部手术后状态待评估；突尼斯无确认伤停",
@@ -1101,7 +1213,14 @@
         ],
         "keyPlayers": "日本:久保建英、镰田大地、田中碧；突尼斯:斯基里、迈卜里",
         "xfactor": "蒙特雷高温；突尼斯背水一战心理压力"
-      }
+      },
+      "latestNews": [
+        "Japan and Tunisia look for first World Cup win in New York City, shop tickets now - USA Today",
+        "World Cup Buzz: Canada's Alphonso Davies To Be Available For Thursday's Match - FOX Sports",
+        "FIFA designates Tunisia vs Japan as historic 1,000th World Cup match - Crypto Briefing",
+        "Group F at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "Football: Injured Kubo misses training ahead of tricky Tunisia test - Japan Wire by Kyodo News"
+      ]
     },
     {
       "matchNo": 44,
@@ -1114,7 +1233,7 @@
       "kickoffET": "2026-06-22T23:00:00-04:00",
       "venue": "利维斯体育场",
       "city": "旧金山湾区",
-      "upsetProbability": 42,
+      "upsetProbability": 35,
       "upsetTeam": "约旦",
       "favoriteTeam": "阿尔及利亚",
       "upsetWinOdds": 6.5,
@@ -1139,24 +1258,25 @@
       "deepAnalysis": {
         "winProbability": {
           "约旦": 18,
-          "draw": 24,
-          "阿尔及利亚": 58
+          "draw": 27,
+          "阿尔及利亚": 55
         },
-        "tacticalAnalysis": "阿尔及利亚佩特科维奇4-3-3主动控球，边路马赫雷斯创造力与中场本纳赛尔调度形成持续压迫；约旦塞拉米4-2-3-1低位防守反击，双后腰保护加定位球是主要得分点。控球方需破密集防线，约旦能否在丢失纳伊马特后保持反击锐度是胜负关键。",
-        "physicalAnalysis": "阿尔及利亚整体速度与对抗占优，边锋冲击力强；约旦凭借纪律性与跑动覆盖弥补个体差距，深夜湿冷环境对双方耐力均是考验。",
-        "formAnalysis": "约旦阿拉伯杯曾胜沙特、伊拉克进决赛，自信与凝聚力高；阿尔及利亚时隔2014重返世界杯动力充足，攻击线深度更佳，状态略占上风。",
-        "injuryImpact": "约旦头号射手纳伊马特膝伤报销且'无人可替'，进攻终结力大打折扣，更依赖塔马里;阿尔及利亚无伤病，阵容完整度明显领先。",
-        "h2hAnalysis": "双方历史交锋稀少，缺乏稳定参考样本，对预判实际指导意义有限。",
-        "oddsAnalysis": "bet365阿尔及利亚1.53、约旦6.5，去水位后客胜公平概率约60%、平局约24%、约旦胜约16%。两平台赔率高度一致，资金明显倾向阿尔及利亚，但客胜赔率未压至极低，留有平局空间。",
-        "externalFactors": "中立场圣克拉拉利维斯体育场，无真正主场优势;湾区深夜开球加海湾湿冷气候，对双方节奏与体能均有抑制。",
-        "psychologyAnalysis": "此为争小组第二的'六分之战'，双方出线压力相当;阿尔及利亚大赛底蕴更深，约旦近期大赛经验积累亦增强抗压能力。",
-        "consensusView": "主流共识倾向阿尔及利亚:Yahoo认为其个人能力与深度足以突破约旦防线;Fanorate提示约旦结构纪律或能逼平。整体看好阿尔及利亚掌控但承认约旦有搅局能力，分歧集中在能否零封。",
-        "upsetProbability": 42,
+        "tacticalAnalysis": "阿尔及利亚佩特科维奇4-3-3主动控球，边路马赫雷斯创造力强，本纳赛尔中场组织。约旦塞拉米4-2-3-1低位防守反击，双后腰收缩，定位球是主要得分手段。控球与反击的经典对位，约旦需靠塔马里快速反击及定位球制造威胁，整体被压制概率高。",
+        "physicalAnalysis": "阿尔及利亚球员多征战欧洲五大联赛，对抗与跑动覆盖占优。约旦身体条件不弱、跑动积极，但绝对速度与力量略逊，高强度对抗持续性是隐忧。",
+        "formAnalysis": "约旦阿拉伯杯胜沙特、伊拉克进决赛，士气尚可但小组赛遭遇奥地利等强敌承压。阿尔及利亚时隔2014重返世界杯攻击线深度足，新闻显示双方均处'背水一战'，求胜欲强。",
+        "injuryImpact": "约旦头号射手纳伊马特膝伤赛季报销且'无人可替'，进攻终结大幅削弱，更依赖塔马里单点。阿尔及利亚无伤病，阵容完整，深度优势进一步放大。",
+        "h2hAnalysis": "双方历史交锋稀少，缺乏稳定参考样本，心理与战术压制需看临场，对约旦无明显历史心理屏障。",
+        "oddsAnalysis": "两平台客胜1.53-1.62高度一致，阿尔及利亚为明显热门。去水后阿胜公平概率约58-62%，平局约24%，约旦约15-17%。资金面无异常倾斜，市场对阿尔及利亚取胜信心稳固。",
+        "externalFactors": "旧金山湾区利维斯球场夏季温和，无极端高温，海平面海拔。两队均属客场，中立场地无主场优势，地理气候对双方影响接近。",
+        "psychologyAnalysis": "阿尔及利亚整体大赛经验与个人能力更胜，背负出线压力。约旦阿拉伯杯黑马经历提供信心，光脚不怕穿鞋，心理包袱较小或成爆冷潜在助力。",
+        "consensusView": "全网共识阿尔及利亚明显占优，控球质量、球员身价与阵容深度全面领先，主流预测看好其取胜或不败。约旦定位球+反击具备搅局能力，但缺射手后上限受限，多数视其为下风一方。",
+        "latestNewsSummary": "两队均进'背水一战'模式，球票热销关注度高；多家预测看好阿尔及利亚；约旦另需应对奥地利等强敌，小组形势严峻。",
+        "upsetProbability": 35,
         "upsetTeam": "约旦",
         "favoriteTeam": "阿尔及利亚",
         "upsetWinOdds": 6.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "阿尔及利亚控球与深度占优，丢射手的约旦进攻乏力，客胜为最可能结果;但约旦防守纪律与定位球具备逼平能力，将平局计入则'不败搅局'概率不低。最可能比分区间:阿尔及利亚1-0、2-0或2-1，平局1-1次之。"
+        "objectiveConclusion": "阿尔及利亚控球、阵容深度与无伤病占全面优势，是取胜热门，但失头号射手的约旦凭定位球与反击仍具搅局力，平局价值不低。最可能阿尔及利亚小胜，比分区间1-0、2-0或2-1；爆冷路径为约旦定位球抢分逼平，0-0/1-1需警惕。"
       },
       "insights": {
         "injuries": "约旦头号射手亚赞·纳伊马特膝伤赛季报销，'无人可替'；阿尔及利亚无伤病",
@@ -1169,7 +1289,14 @@
         ],
         "keyPlayers": "约旦:塔马里、阿布莱拉(门将)、奥尔万；阿尔及利亚:马赫雷斯、本纳赛尔、阿穆拉",
         "xfactor": "此战或为双方争小组第二的'六分之战'；圣克拉拉深夜开球"
-      }
+      },
+      "latestNews": [
+        "Algeria and Jordan enter desperation mode, shop Algeria vs. Jordan World Cup tickets - USA Today",
+        "Jordan vs Algeria FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+        "World Cup predictions: France vs Senegal, Argentina vs Algeria and rest of matchday 6 - The Athletic - The New York Times",
+        "World Cup 2026 Day 6: Group J Recap - Metro Philadelphia",
+        "Austria vs. Jordan: How to Watch, TV Channel, Live Stream - FOX Sports"
+      ]
     },
     {
       "matchNo": 54,
@@ -1182,7 +1309,7 @@
       "kickoffET": "2026-06-24T21:00:00-04:00",
       "venue": "BBVA球场",
       "city": "蒙特雷",
-      "upsetProbability": 22,
+      "upsetProbability": 34,
       "upsetTeam": "南非",
       "favoriteTeam": "韩国",
       "upsetWinOdds": 5.44,
@@ -1201,25 +1328,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "南非": 16,
+          "南非": 18,
           "draw": 24,
-          "韩国": 60
+          "韩国": 58
         },
-        "tacticalAnalysis": "南非4-3-3中低位紧凑防守配合定位球威胁，擅长吸收压力后快速反击。韩国4-2-3-1高位逼抢依赖孙兴慜+李刚仁的转换速度。战术相克上韩国控球进攻遇南非密集防线可能陷入阵地战僵局，但南非反击质量和持续性存疑。韩国纸面实力占优但需破密集防守，南非定位球和反击是主要得分路径。",
-        "physicalAnalysis": "韩国整体速度和技术细腻度占优，李刚仁+孙兴慜转换爆发力强。南非身体对抗和防守硬度较好，中场莫科埃纳覆盖能力强。韩国耐力和高位逼抢持续性在热身赛暴露问题，南非体能储备未知但防守强度可维持。",
-        "formAnalysis": "韩国3月两场热身运动战零进球，进攻端创造力严重不足，防守端对科特迪瓦、奥地利均有失球。南非春季友谊赛进球乏力，但防守体系保持完整。双方状态均非巅峰，韩国进攻疲软是最大隐患，南非进攻火力不足但防守韧性可期。",
-        "injuryImpact": "双方均无确认的重要伤停，主力阵容完整。韩国孙兴慜、金玟哉、李刚仁均可出战，南非威廉姆斯、莫科埃纳、福斯特健康。伤病因素对本场比赛影响中性，不构成实质性倾斜。",
-        "h2hAnalysis": "世界杯层面首次交锋，无直接历史参考。双方此前无正式比赛记录，战术磨合和心理博弈均为未知数，历史交锋维度无参考价值。",
-        "oddsAnalysis": "Pinnacle赔率南非5.44/平3.82/韩国1.59，去水位后公平概率约为南非16%/平24%/韩国60%。市场明显看好韩国，但平局赔率偏低反映市场对韩国进攻不信任。全网资金流向显示韩国支持率约47%、平局28%、南非26%，接近中性分布。赔率与情报吻合度高。",
-        "externalFactors": "蒙特雷BBVA球场海拔540米，气候影响有限。双方均为客场作战，旅行疲劳中性。赛程上均为小组赛第二轮，体能储备相当。无明显地理或气候优势方，外部因素整体平衡。",
-        "psychologyAnalysis": "两队同争小组第二，出线压力相当。韩国大赛经验更丰富但近期状态低迷可能影响信心，南非作为非洲代表心理压力较小、敢于放手一搏。韩国若陷入僵局可能急躁，南非防守反击心态更从容。",
-        "consensusView": "全网专家共识为比赛胶着，韩国纸面占优但进攻状态堪忧。Worldcupwiki预测平局，认为南非防守韧性可逼平韩国。Tiptilldone市场数据显示接近中性分布。RotoWire指出韩国若孙兴慜无创造则进攻路径狭窄。多数观点倾向小比分、低进球、平局或韩国小胜。",
-        "upsetProbability": 22,
+        "tacticalAnalysis": "韩国洪明甫4-2-3-1高位逼抢，孙兴慜与李刚仁主导转换；南非布鲁斯4-3-3中低位紧凑、靠快反与定位球。南非主动让出控球，韩国需破密集防守，若耐心不足易被反击与定位球反咬，体系互克明显。",
+        "physicalAnalysis": "南非球员普遍年轻、爆发与对抗占优，适合快反与高强度逼抢；韩国跑动覆盖与转换速度突出，孙兴慜冲击力强，整体身体差距不大，南非略具肌肉对抗优势。",
+        "formAnalysis": "韩国3月热身两场运动战零进球，进攻效率与防守均存疑；南非春季进球乏力。新闻显示南非已尝首战失利、急求世界杯首胜，背水一战心气上升，韩国状态未达巅峰。",
+        "injuryImpact": "双方均无确认重要伤停，阵容基本完整。最新新闻未披露新增伤病或停赛，孙兴慜、金玟哉、李刚仁及南非威廉姆斯、莫科埃纳均可出战，伤病对走势影响有限。",
+        "h2hAnalysis": "世界杯层面双方首次交锋，缺乏直接历史样本，参考价值低，需更依赖实力与状态判断。",
+        "oddsAnalysis": "Pinnacle主5.44/平3.82/客1.59，去水后约南非17%、平24%、韩国59%。资金明显倾向韩国，但客胜赔率未压至极低，反映市场认可韩国近期低迷与南非反击威胁，平局存在合理空间。",
+        "externalFactors": "蒙特雷6月炎热，BBVA球场气候对体能消耗大，利于南非中低位防反、不利韩国高位逼抢持续性；中立场地无真正主场，墨西哥球迷氛围或偏中性。",
+        "psychologyAnalysis": "韩国大赛经验与球星稳定性占优，孙兴慜领袖作用强；南非经验稍逊但首战失利后无包袱、敢拼。高温与逼抢消耗或考验韩国心态。",
+        "consensusView": "全网共识倾向韩国凭借星味与整体实力取胜，但热身低迷、对方反击与定位球及高温使比分难言一边倒，多数预测韩国小胜或平局，爆冷虽非主流却被普遍视为不可忽视。",
+        "latestNewsSummary": "新闻多聚焦同组墨西哥对韩国的争冠戏码，凸显韩国硬仗连绵；另有报道指南非首战不敌墨西哥后力求世界杯首胜，求胜欲与压力并存。",
+        "upsetProbability": 34,
         "upsetTeam": "南非",
         "favoriteTeam": "韩国",
         "upsetWinOdds": 5.44,
         "riskLevel": "medium",
-        "objectiveConclusion": "韩国纸面实力和FIFA排名占优，但近期进攻疲软、运动战零进球是最大隐患。南非防守体系完整、定位球威胁存在，有能力逼平甚至反击偷鸡。赔率反映市场对韩国信心不足。最可能结果：0-0或1-1平局(概率24%)，或韩国1-0小胜(概率35%)。南非爆冷取胜概率约16-22%，风险等级中等。"
+        "objectiveConclusion": "韩国实力与经验占优，理应掌控并力争小胜，但其进攻效率低迷、面对南非中低位快反与定位球及蒙特雷高温存在隐患。最可能韩国1-0或2-1小胜，平局概率不低；南非若快反与定位球高效，有冷平甚至冷胜空间。预计总进球偏少，比分区间0-0至2-1。"
       },
       "insights": {
         "injuries": "双方均无确认重要伤停",
@@ -1233,7 +1361,14 @@
         ],
         "keyPlayers": "南非:威廉姆斯、莫科埃纳、福斯特；韩国:孙兴慜、金玟哉、李刚仁",
         "xfactor": "蒙特雷球场；两队同争小组第二，韩国进攻状态低迷"
-      }
+      },
+      "latestNews": [
+        "Mexico, South Korea battle for control of World Cup Group A - Reuters",
+        "Mexico vs. South Korea at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "Mexico vs South Korea Prediction: World Cup 2026 Match Preview - Opta Analyst",
+        "South Africa play Czechia, seek first World Cup win after Mexico defeat - Al Jazeera",
+        "Limited last minute World Cup tickets for Mexico vs. South Korea are still available - USA Today"
+      ]
     },
     {
       "matchNo": 57,
@@ -1246,7 +1381,7 @@
       "kickoffET": "2026-06-25T19:00:00-04:00",
       "venue": "AT&T体育场",
       "city": "达拉斯",
-      "upsetProbability": 24,
+      "upsetProbability": 40,
       "upsetTeam": "瑞典",
       "favoriteTeam": "日本",
       "upsetWinOdds": 3.55,
@@ -1265,25 +1400,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "日本": 48,
+          "日本": 45,
           "draw": 28,
-          "瑞典": 24
+          "瑞典": 27
         },
-        "tacticalAnalysis": "日本森保一体系成熟，高位逼抢配合快速传切，久保建英核心调度能力强。瑞典波特3-4-2-1依赖伊萨克+约克雷斯双前锋冲击，但中场创造力有限。日本技战术整体性占优，控球与节奏掌控能力更强，瑞典需依靠反击与定位球寻求机会。",
-        "physicalAnalysis": "速度：日本边路与中场机动性更佳；对抗：瑞典前锋与后卫身体优势明显；耐力：日本集体跑动能力突出，全场高强度压迫，瑞典体能分配需更谨慎。整体日本速度型打法占据主动。",
-        "formAnalysis": "日本3月连胜英格兰、苏格兰，球队信心与执行力处于高峰期。瑞典附加赛惊险晋级，依赖约克雷斯个人爆发，整体状态起伏较大，缺乏稳定性，士气相对不足。",
-        "injuryImpact": "日本三笘薰缺阵削弱左路突破深度，但久保、堂安等仍具创造力，远藤航伤情若恢复可补强中场。瑞典库卢塞夫斯基长期缺阵严重削弱前场创造力与串联能力，中前场组织短板暴露明显。",
-        "h2hAnalysis": "双方无重要历史交锋记录，历史数据参考价值极低，本场更依赖当前实力、状态与战术克制关系判断。",
-        "oddsAnalysis": "Pinnacle日本2.04对应去水后约49%胜率，瑞典3.55对应约28%，平局3.4约29%。市场明确看好日本，资金流向反映日本FIFA排名、近期状态与体系成熟度优势。赔率结构合理，未见明显套利空间。",
-        "externalFactors": "达拉斯AT&T体育场中立场地，室内可控温，气候因素影响小。双方旅行距离相当，无明显主场或时差优势。赛程为小组赛首轮或次轮，体能储备充足。",
-        "psychologyAnalysis": "日本2022世界杯连克德国、西班牙，大赛经验与抗压能力增强。瑞典附加赛晋级心理压力释放，但面对亚洲一流强队需证明自身。出线压力双方相当，心理层面日本略占优势。",
-        "consensusView": "全网专家普遍认可日本体系成熟、状态火热，三笘缺阵有影响但整体实力仍优于瑞典。瑞典依赖伊萨克与约克雷斯个人能力，但中场创造力与整体稳定性不足。多数倾向日本控制比赛，瑞典需依赖防反或定位球。",
-        "upsetProbability": 24,
+        "tacticalAnalysis": "日本森保一高位逼抢加集体跑动，久保、堂安组织前场转换，可切换低位反击。瑞典波特3-4-2-1依赖伊萨克与约克雷斯双前锋冲击力，翼卫两端拉宽。日本中场控球与逼抢或压制瑞典出球，但需提防瑞典定位球与快速直塞反打身后。",
+        "physicalAnalysis": "瑞典身材高大、对抗与制空占优，定位球威胁突出；日本技术细腻、跑动覆盖与提速更强。达拉斯高温下日本灵活性与体能调度更具优势。",
+        "formAnalysis": "日本3月客场连胜英格兰、苏格兰，状态与信心火热。瑞典靠附加赛约克雷斯戴帽惊险晋级，磨合不稳。新闻显示伊萨克伤愈复出提升其锋线火力，缩小状态差距。",
+        "injuryImpact": "日本三笘薰赛季报销，远藤航术后待评估，左路与中场偏防受影响。瑞典库卢塞夫斯基长期缺阵削弱中场创造。新闻称伊萨克恢复健康，瑞典进攻端获重要回血。",
+        "h2hAnalysis": "双方无重要可查正式交锋记录，缺乏直接历史参考，价值有限。",
+        "oddsAnalysis": "Pinnacle主2.04、平3.4、客3.55，去水后公平概率约日本47%、平28%、瑞典25%。盘口明确看好日本，但客胜赔率不算高，反映瑞典锋线被市场尊重，资金未一边倒。",
+        "externalFactors": "达拉斯AT&T球场为可控顶棚环境，6月仍偏炎热。中立场地双方均无地利，日本亚洲球迷动员或略占声势。",
+        "psychologyAnalysis": "瑞典大赛硬仗经验与逆境韧性突出；日本近年屡爆冷强队，自信心强。附加赛险胜或令瑞典背负压力，日本心理更轻装。",
+        "consensusView": "全网共识倾向日本控球占优、整体性更强，为小幅热门；瑞典凭借伊萨克复出与定位球被视作有抢分能力的硬骨头。多数预测看日本不败，但难言大胜。",
+        "latestNewsSummary": "NYT战术专题聚焦瑞典锋线与日本转换；路透与Gakpo提及伊萨克伤愈复出值得警惕；ESPN梳理F组数据，整体看好两队竞争激烈。",
+        "upsetProbability": 40,
         "upsetTeam": "瑞典",
         "favoriteTeam": "日本",
         "upsetWinOdds": 3.55,
         "riskLevel": "medium",
-        "objectiveConclusion": "日本FIFA排名、近期状态、战术体系与市场赔率均占优，控制比赛概率高。瑞典需依赖防反效率与前锋个人能力，爆冷可能性约24%，风险中等。最可能比分区间：日本1-0或2-1小胜，或1-1平局。"
+        "objectiveConclusion": "日本控球、逼抢与状态占优，为合理热门，但瑞典身体、定位球及伊萨克复出构成真实威胁，爆冷或互交白卷概率不低。综合看好日本不败，比分区间1-0、2-1或1-1最具可能，瑞典爆冷多以1-2、0-1小球呈现。"
       },
       "insights": {
         "injuries": "日本三笘薰腿筋赛季报销缺席，远藤航足部手术后待评估；瑞典库卢塞夫斯基膝伤长期缺阵落选",
@@ -1296,7 +1432,14 @@
         ],
         "keyPlayers": "日本:久保建英、远藤航、堂安律；瑞典:伊萨克、约克雷斯、埃兰加",
         "xfactor": "达拉斯球场；三笘缺阵削弱日本边路深度；或为出线关键战"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "World Cup Group F tactical guide: Sweden’s strikers, Japan’s transitions, and are the Netherlands too cautious? - The New York Times",
+        "Netherlands vs Sweden Prediction: World Cup 2026 Preview &amp; Best Bets - Yahoo Sports",
+        "Group F at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "Gakpo says Dutch must be ready for fit-again Isak in Sweden showdown - Reuters"
+      ]
     },
     {
       "matchNo": 66,
@@ -1309,7 +1452,7 @@
       "kickoffET": "2026-06-26T20:00:00-04:00",
       "venue": "阿克隆球场",
       "city": "瓜达拉哈拉",
-      "upsetProbability": 16,
+      "upsetProbability": 34,
       "upsetTeam": "乌拉圭",
       "favoriteTeam": "西班牙",
       "upsetWinOdds": 5.18,
@@ -1338,25 +1481,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "乌拉圭": 16,
-          "draw": 23,
-          "西班牙": 61
+          "乌拉圭": 21,
+          "draw": 26,
+          "西班牙": 53
         },
-        "tacticalAnalysis": "贝尔萨高位逼抢遇德拉富恩特控球体系形成对攻。西班牙技术传控与中场优势明显，但乌拉圭垂直快攻可利用西班牙高位压迫后的空间。关键在于乌拉圭能否持续高强度逼抢60分钟以上，以及西班牙能否通过佩德里-罗德里轴心瓦解对手压迫。",
-        "physicalAnalysis": "速度：乌拉圭边路与西班牙持平；对抗：乌拉圭略占优但缺阿劳霍削弱防线硬度；耐力：贝尔萨体系消耗极大，高温下第60分钟后或崩盘，西班牙控球可节省体能。",
-        "formAnalysis": "乌拉圭11月至3月连续不胜含1-5惨败美国，士气低迷且更衣室传闻紧张；西班牙预选赛全胜+欧国联亚军，亚马尔伤愈归队提振信心，状态呈上升趋势。",
-        "injuryImpact": "乌拉圭失核心后卫阿劳霍与创造核心德阿拉斯卡埃塔，防守组织力与中场创造力双重受损；西班牙亚马尔与N.威廉斯虽初愈但比赛节奏存疑，费尔明缺阵影响有限。",
-        "h2hAnalysis": "历史交锋西班牙2胜2平未尝败绩，但样本量少且年代久远，主要反映西班牙技术优势，参考价值中等。",
-        "oddsAnalysis": "三家赔率高度一致（西班牙1.61-1.62），去水位后隐含概率约西班牙58-60%、平局24-26%、乌拉圭15-17%。市场资金明显偏向西班牙，但乌拉圭赔率5.0+显示市场认可其爆冷空间，属典型强弱分明盘口。",
-        "externalFactors": "瓜达拉哈拉6月末酷暑高温（预计32-35℃）极度不利于乌拉圭高强度逼抢体系，西班牙控球可降低跑动消耗。中立场地无主场优势，双方旅行疲劳程度相近。",
-        "psychologyAnalysis": "西班牙大赛经验丰富（2010/2024欧洲杯冠军基因），心理素质稳定；乌拉圭背负不胜压力且贝尔萨更衣室管理存疑，心理包袱较重。小组赛首轮出线压力尚可控。",
-        "consensusView": "主流观点认为西班牙人才深度与技战术成熟度碾压乌拉圭，但警惕贝尔萨体系在局部时段的冲击力。亚马尔状态是西班牙夺冠关键，此役是H组真正实力检验。乌拉圭被视为最有威胁但仍难胜的对手。",
-        "upsetProbability": 16,
+        "tacticalAnalysis": "西班牙德拉富恩特控球+高位压迫，佩德里罗德里掌控中场节奏，边路亚马尔威廉斯提供突破。乌拉圭贝尔萨高强度逼抢与垂直快攻可针对西班牙后防回追，努涅斯冲击身后。但西班牙传控可消解逼抢，乌拉圭须承受高控球压力，体能消耗巨大。",
+        "physicalAnalysis": "乌拉圭对抗与空中能力占优，努涅斯巴尔韦德覆盖与爆发突出；西班牙更重技术敏捷与短传连续性。贝尔萨高压消耗体能，闷热气候下乌拉圭续航存疑。",
+        "formAnalysis": "西班牙预选赛不败、欧国联亚军，状态稳定。乌拉圭11月、3月不胜，曾1-5负美国，首战又被沙特逼平，士气与火力受质疑，晋级压力陡增。",
+        "injuryImpact": "乌拉圭缺阿劳霍、德阿拉斯卡埃塔，皮克雷斯存疑，后防与创造力削弱明显。西班牙费尔明报销，但亚马尔、N.威廉斯腿筋初愈可用，整体阵容深度仍占优。",
+        "h2hAnalysis": "两队近4次交锋西班牙2胜2平占优，乌拉圭未尝胜绩，心理与战术层面西班牙更具把握。",
+        "oddsAnalysis": "三平台高度一致，西班牙1.61-1.62、乌拉圭5.0-5.18、平3.8-3.9。去水后公平概率约西班牙59%、平25%、乌拉圭16%。资金坚定偏向西班牙，无明显反向波动，主胜赔率偏高反映乌拉圭近况疲软。",
+        "externalFactors": "瓜达拉哈拉海拔约1560米且气候炎热，体能续航关键。中立场无真正主场优势，但西班牙球迷基础与适应力略好。",
+        "psychologyAnalysis": "西班牙夺冠热门、大赛经验与自信充足；乌拉圭老将底蕴尚存但近期低迷叠加伤病，逼平沙特后承压，易陷急躁或保守两难。",
+        "consensusView": "全网共识西班牙明显占优，多家媒体视其为夺冠热门并看好控场取胜。乌拉圭被普遍认为状态滑坡、伤病拖累，需依赖反击与定位球搏冷，整体不被看好但具搅局潜力。",
+        "latestNewsSummary": "乌拉圭首战遭沙特逼平爆冷丢分，晋级形势趋紧；西班牙备战卡布维德/小组赛被看好，状态与信心俱佳，本场为焦点对决。",
+        "upsetProbability": 34,
         "upsetTeam": "乌拉圭",
         "favoriteTeam": "西班牙",
         "upsetWinOdds": 5.18,
         "riskLevel": "medium",
-        "objectiveConclusion": "西班牙综合实力占优明显，控球与中场质量可压制乌拉圭。但需警惕：1)前30分钟乌拉圭高强度逼抢可能制造威胁；2)缺阿劳霍但努涅斯+巴尔韦德反击仍有质量。最可能结果：西班牙1-0或2-1小胜，平局概率次之（1-1），乌拉圭取胜需依赖西班牙重大失误且概率低于20%。"
+        "objectiveConclusion": "西班牙控场与阵容深度占优，胜面明显，但乌拉圭高压反击与定位球具威胁，且西班牙若轻敌或久攻不下存被反击风险。综合判断西班牙取胜概率最高，比分区间1-0、2-0、2-1；平局2-2或1-1亦不可忽视。乌拉圭爆冷需把握有限快攻机会。"
       },
       "insights": {
         "injuries": "乌拉圭缺阿劳霍、德阿拉斯卡埃塔(伤)，皮克雷斯踝伤存疑；西班牙亚马尔、N.威廉斯腿筋初愈，费尔明赛季报销",
@@ -1370,7 +1514,14 @@
         ],
         "keyPlayers": "乌拉圭:巴尔韦德、努涅斯；西班牙:佩德里、罗德里、奥亚萨巴尔",
         "xfactor": "瓜达拉哈拉酷暑高温；贝尔萨更衣室内部张力"
-      }
+      },
+      "latestNews": [
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "World Cup Match Day 5: Spain, Uruguay, Belgium, Egypt Ready For Spotlight - FOX Sports",
+        "Group H at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "World Cup 2026: Uruguay held to draw by Saudi Arabia on day of surprises - France 24",
+        "World Cup 2026: Spain vs Cape Verde prediction, schedules, latest news - Al Jazeera"
+      ]
     },
     {
       "matchNo": 68,
@@ -1383,16 +1534,16 @@
       "kickoffET": "2026-06-27T17:00:00-04:00",
       "venue": "林肯金融球场",
       "city": "费城",
-      "upsetProbability": 17,
+      "upsetProbability": 34,
       "upsetTeam": "加纳",
       "favoriteTeam": "克罗地亚",
-      "upsetWinOdds": 5.09,
+      "upsetWinOdds": 5,
       "marketImplied": "市场暗示克罗地亚胜率约58%，加纳胜率约22%，平局约20%",
       "tacticalReason": "克罗地亚控球为主但节奏偏慢，加纳可利用高强度逼抢破坏其中场运转，通过快速反击冲击防线身后。",
       "physicalComparison": "加纳在爆发力、速度和对抗上占优，克罗地亚体能储备和防线回追速度存巨大隐患。",
       "keyReason": "克罗地亚阵容老化体能受限，难以招架加纳的冲击力。",
       "detailedAnalysis": "费城6月下旬炎热潮湿，极大消耗克罗地亚老将体能。克罗地亚虽技术细腻，但阵容老化节奏偏慢，面对加纳这种身体素质劲爆、擅长乱战和快速转换的非洲球队极易吃亏。加纳若能保持防守纪律，下半场利用体能优势反击，完全有机会打穿防线爆冷。",
-      "riskLevel": "low",
+      "riskLevel": "medium",
       "realOdds": {
         "pinnacle": {
           "克罗地亚": 1.6,
@@ -1416,21 +1567,22 @@
           "draw": 25,
           "加纳": 17
         },
-        "tacticalAnalysis": "克罗地亚依托莫德里奇-布罗佐维奇中场轴心控制节奏，格瓦迪奥尔后防稳固，达利奇精英中场压制能力强。加纳奎罗斯反抢防反体系依赖库杜斯组织，缺阵后威廉斯单兵作战能力受限，中场创造力断层明显，克罗地亚战术克制优势显著。",
-        "physicalAnalysis": "克罗地亚中场技术细腻但年龄偏大，速度不占优；加纳边路威廉斯冲击力强，但缺库杜斯后整体对抗与持球能力下降，高海拔更考验轮换深度，克罗地亚板凳厚度占优。",
-        "formAnalysis": "克罗地亚预选赛8战7胜1平进26失4，状态火热且信心充足；加纳近期低迷，主力伤缺导致阵容残缺，士气与竞技状态均处劣势，两队状态呈明显反差。",
-        "injuryImpact": "加纳缺失核心库杜斯(组织枢纽)、萨利苏(后防支柱)及吉库，中前场创造力与防守稳定性严重削弱；克罗地亚莫德里奇伤愈复出，阵容完整，伤病因素显著利好克罗地亚。",
-        "h2hAnalysis": "两队历史交锋极少，无显著参考价值，本场更依赖当前实力、状态与战术匹配度判断。",
-        "oddsAnalysis": "三家主流赔率克罗地亚胜平均1.63，去水位后隐含概率约61%，平局3.69对应27%，加纳胜5.09对应19%。市场明确看好克罗地亚，但加纳赔率未大幅走高，反映部分资金认可其防反爆冷可能性。",
-        "externalFactors": "费城林肯金融球场非高海拔场地(情报中丹佛描述有误)，中立场地无主场优势，6月末气候适宜，外部因素相对均衡，对双方影响不大。",
-        "psychologyAnalysis": "克罗地亚世界杯亚军+季军经验丰富，大赛心理稳定，但小组赛压力较小可能松懈；加纳FIFA第41排名低但无包袱，反而可能放手一搏，心理因素轻微利好加纳爆冷。",
-        "consensusView": "全网专家倾向克罗地亚胜，WorldCupWiki预测2-0基于数据优势，KhasPress提及加纳防反可能逼平但缺乏支撑论据。综合共识为克罗地亚控制局面小胜，但需警惕加纳边路反击与伤停补时变数。",
-        "upsetProbability": 17,
+        "tacticalAnalysis": "克罗地亚以达利奇调教的精英中场控球见长，莫德里奇组织、格瓦迪奥尔后场出球，节奏掌控力强。加纳奎罗斯打反抢加防反，依赖边路速度由塞门约、威廉斯冲击身后。克罗地亚需防边路快攻与定位球，控球时若被高位逼抢易丢转换球，加纳的机会在于反击效率。",
+        "physicalAnalysis": "加纳整体更年轻、爆发力与冲刺速度占优，对抗强度高；克罗地亚中场年龄偏大，体能续航是隐忧，但身体协调与对抗经验弥补差距。高温下加纳体能优势或放大。",
+        "formAnalysis": "克罗地亚预选赛8战7胜1平状态稳健，但首轮0-2落后变2-4惨败英格兰，防线信心受挫。加纳首轮1-0小胜巴拿马拿下开门红，士气回暖，残阵下仍展现韧性。",
+        "injuryImpact": "加纳损失库杜斯、萨利苏、吉库，中前场创造力与后防核心大减，进攻锐度受限。克罗地亚莫德里奇颧骨伤愈入选可出战，主力框架完整，伤病天平明显利好克罗地亚。",
+        "h2hAnalysis": "两队历史交锋极少，缺乏直接参照，心理与战术压制效应有限，可比性低。",
+        "oddsAnalysis": "三平台主胜1.6-1.65、客胜4.75-5.51，去水位后克罗地亚约57-60%、平局约24-26%、加纳约16-18%。pinnacle客胜5.51高于bet365，资金略偏向主胜但未现强力扫盘，赔率结构理性，反映克罗地亚被看好但非碾压。",
+        "externalFactors": "费城林肯金融球场6月底湿热，午后17:00开球高温高湿考验体能，对年轻的加纳相对有利。两队均非主场，球迷氛围或较中性。",
+        "psychologyAnalysis": "克罗地亚拥有莫德里奇等大赛老将，逆境抗压与淘汰赛经验深厚，但惨败后需重整心态。加纳赢球后轻装上阵，敢拼无包袱，心理状态正向。",
+        "consensusView": "全网共识克罗地亚凭中场质量、阵容完整与经验占据主动，是合理热门。但首轮失四球暴露防线问题，加纳速度反击加克罗地亚体能与防守隐忧，使分差未必悬殊，多数预期克罗地亚小胜而非大胜。",
+        "latestNewsSummary": "MD7首轮：英格兰4-2逆转克罗地亚，暴露其防守漏洞；加纳1-0绝杀巴拿马取开门红。本场为双方第二轮，克罗地亚求反弹，加纳欲延续胜势。",
+        "upsetProbability": 34,
         "upsetTeam": "加纳",
         "favoriteTeam": "克罗地亚",
-        "upsetWinOdds": 5.09,
-        "riskLevel": "low",
-        "objectiveConclusion": "克罗地亚实力、状态、阵容完整度全面占优,战术克制明显,胜率约58%。加纳核心缺阵削弱组织与防守,爆冷概率仅17%。最可能比分1-0或2-0克罗地亚小胜,平局次之(25%),加纳取胜可能性低。低风险投注倾向克罗地亚胜。"
+        "upsetWinOdds": 5,
+        "riskLevel": "medium",
+        "objectiveConclusion": "克罗地亚阵容完整、中场更强且经验占优，整体实力领先，应为胜算更高一方。但其首轮失四球防线松动，加纳边路速度与体能在湿热环境下具反击威胁，爆冷或逼平概率不可忽视。倾向克罗地亚小胜，比分区间2-1、2-0或1-1，需警惕加纳偷袭。"
       },
       "insights": {
         "injuries": "加纳缺库杜斯(股四头肌伤)、萨利苏(十字韧带)、吉库；克罗地亚莫德里奇颧骨骨折已康复入选",
@@ -1443,7 +1595,14 @@
         ],
         "keyPlayers": "克罗地亚:莫德里奇、格瓦迪奥尔、克拉马里奇；加纳:塞门约、伊尼亚基·威廉斯",
         "xfactor": "丹佛高海拔(5280英尺)考验体能与轮换深度"
-      }
+      },
+      "latestNews": [
+        "FIFA World Cup 2026 MD7 recap: Portugal frustrated by Congo DR, England hit 4 past Croatia, Ghana edge Panama, Colombia beat Uzbekistan - ESPN",
+        "Returning Colombia beats World Cup debutant Uzbekistan, Ghana downs Panama on late goal, England defeats Croatia, Portugal and DR Congo draw - NBC News",
+        "FIFA World Cup 2026 as it happened: Colombia beat Uzbekistan 3-1; Ghana defeat Panama 1-0; England beat Croatia 4-2; Ronaldo’s Portugal draw 1-1 with DR Congo - SMH.com.au",
+        "Colombia beats Uzbekistan to wrap up first round of group games - Australian Broadcasting Corporation",
+        "2026 World Cup, Day 7: Portugal vs. DR Congo; England vs. Croatia; Ghana vs. Panama; Uzbekistan vs. Colombia - We Ain't Got No History"
+      ]
     },
     {
       "matchNo": 26,
@@ -1456,7 +1615,7 @@
       "kickoffET": "2026-06-18T15:00:00-04:00",
       "venue": "SoFi体育场",
       "city": "洛杉矶",
-      "upsetProbability": 18,
+      "upsetProbability": 28,
       "upsetTeam": "波黑",
       "favoriteTeam": "瑞士",
       "upsetWinOdds": 6,
@@ -1465,7 +1624,7 @@
       "physicalComparison": "波黑球员身材高大强壮，制空与对抗占优；瑞士体能充沛但防线绝对高度略显逊色。",
       "keyReason": "洛杉矶午后高温消耗大，波黑利用对抗与定位球砸开僵局。",
       "detailedAnalysis": "洛杉矶下午3点的高温对双方体能是严峻考验。瑞士战术纪律强但破密集防守偏弱，若久攻不下易急躁。波黑硬朗且制空占优，极可能通过防守反击消耗对手，利用定位球高空轰炸完成致命一击，具备一定的爆冷概率。",
-      "riskLevel": "low",
+      "riskLevel": "medium",
       "realOdds": {
         "bet365": {
           "瑞士": 1.58,
@@ -1480,25 +1639,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "瑞士": 58,
+          "瑞士": 60,
           "draw": 24,
-          "波黑": 18
+          "波黑": 16
         },
-        "tacticalAnalysis": "瑞士4-3-3高位压迫+控球推进，阿坎吉领衔的防线稳固，扎卡组织串联成熟。波黑低位防守依赖哲科支点+快速转换，但40岁老将体能存疑，塔巴科维奇伤缺削弱中场拦截。瑞士阵地战优势明显，波黑需靠定位球和反击制造威胁，战术相克上瑞士占优。",
-        "physicalAnalysis": "瑞士整体年龄结构合理，恩多耶速度突出，中场对抗强度高。波黑依赖40岁哲科，速度与耐力明显劣势，洛杉矶高温将加剧体能消耗。对抗层面波黑不弱，但持续奔跑能力存疑。",
-        "formAnalysis": "瑞士预选赛稳定出线，3月虽0-4负德国但系热身性质，整体士气平稳。波黑连续点球淘汰意大利士气高涨，但首战对加拿大哲科未首发暴露体能管理问题，状态起伏较大。",
-        "injuryImpact": "瑞士阵容完整无伤病，轮换自如。波黑队长哲科肩伤成疑，首战未首发显示教练组顾虑，塔巴科维奇伤缺削弱中场防守厚度。核心不确定性对波黑战术执行力构成实质影响。",
-        "h2hAnalysis": "FIFA排名瑞士第18、波黑第38，历史交锋数据有限，但排名差距20位反映综合实力差异。瑞士近年大赛经验更丰富，参考价值中等。",
-        "oddsAnalysis": "bet365瑞士1.58、波黑6.5，williamhill瑞士1.57、波黑5.5，去水位后瑞士胜率约60%、波黑约15%。市场明确偏向瑞士，资金流向稳定，无明显异动。赔率反映基本面+情报的综合判断，波黑赔率虚高含投机溢价。",
-        "externalFactors": "洛杉矶SoFi体育场高温天气对40岁哲科极不利，体能消耗加剧。双方均无主场优势，时差影响相当。气候因素明显利好年轻化的瑞士。",
-        "psychologyAnalysis": "瑞士世界杯常客，大赛经验丰富，心态稳定。波黑淘汰意大利后士气高但首战压力大，争第二名的出线压力可能导致急躁。瑞士心理占优。",
-        "consensusView": "RotoWire、SheKicks、Goal等主流媒体一致看好瑞士赢得小组，认为此战是波黑争第二的关键但难度大。焦点集中在哲科体能与洛杉矶高温的双重考验，专家普遍认为瑞士全员健康+经验优势明显，波黑需靠爆发力制造冷门。",
-        "upsetProbability": 18,
+        "tacticalAnalysis": "瑞士4-3-3控球压上，扎卡组织+边路恩多耶突击，防线高位逼抢制造主导权。波黑被迫低位5后卫密集防守，靠德米罗维奇与转换反击，但失去哲科支点后中场缺乏出球点，难以串联，控球落差明显，瑞士战术全面占优。",
+        "physicalAnalysis": "两队身体对抗均属欧洲中上水准，波黑身材高大擅长定位球争顶。瑞士整体跑动与节奏更均衡，年龄结构更合理；波黑核心偏老化，高温下持续高强度逼抢的体能耐久存疑。",
+        "formAnalysis": "瑞士预选赛稳定，仅3月0-4负德国为热身曲折；首战B组态势良好。波黑靠连续点球淘汰意大利晋级，士气可嘉但常规时间进攻乏力，首战哲科未首发暴露状态隐忧，整体势头逊于瑞士。",
+        "injuryImpact": "波黑40岁队长哲科肩伤成疑、首战对加拿大未首发，塔巴科维奇伤缺，锋线支点与策应严重受损，进攻威胁下降。瑞士阵容完整无伤，配置完整度形成明显落差，利于其掌控比赛。",
+        "h2hAnalysis": "双方交锋样本有限，瑞士FIFA排名长期显著占优，近年同档对话多由瑞士掌握主动，心理与硬实力均处上风。",
+        "oddsAnalysis": "bet365瑞士1.58/平4.15/波黑6.5，williamhill1.57/3.8/5.5，主胜低水高度一致，资金明显倾向瑞士。去水位后公平概率约瑞士59-61%、平22-24%、波黑15-17%。客胜赔率偏高反映市场对哲科缺阵的定价，无明显逆向异动。",
+        "externalFactors": "中立场地洛杉矶SoFi为封闭式球场，6月美西高温但场馆环境可控。两队均客场作战无地利，瑞士远征经验与适应力略优，外部因素整体接近中性。",
+        "psychologyAnalysis": "瑞士大赛经验丰富、心态稳健，习惯作为强队掌控比赛。波黑首登世界杯舞台凭韧性晋级、点球大战锤炼抗压力，敢拼但缺乏顶级赛会持续输出经验，心理稍逊。",
+        "consensusView": "全网媒体(SI、ESPN、DraftKings、azcentral)与博彩盘口高度一致看好瑞士，普遍预测瑞士小胜并视其为B组出线主力。波黑被定位为受哲科伤情拖累的下风一方，仅少数声音提示其防反+定位球的爆冷可能。",
+        "latestNewsSummary": "各大媒体一致预测瑞士取胜，焦点集中于哲科肩伤与首发不确定性；B组赔率显示瑞士、加拿大领跑，波黑、卡塔尔居后，普遍认为瑞士掌控本场主动权。",
+        "upsetProbability": 28,
         "upsetTeam": "波黑",
         "favoriteTeam": "瑞士",
         "upsetWinOdds": 6,
-        "riskLevel": "low",
-        "objectiveConclusion": "基于赔率、阵容完整度、体能因素与专家共识，瑞士胜面明显。波黑爆冷概率约18%，需哲科克服伤病+高温+年龄三重劣势，同时瑞士失常才可能实现。最可能比分1-0或2-0瑞士小胜，若波黑偷鸡成功则1-1平局概率次之。客观判断：瑞士取胜是大概率事件。"
+        "riskLevel": "medium",
+        "objectiveConclusion": "瑞士在硬实力、阵容完整度与战术掌控上全面占优，哲科伤情进一步削弱波黑攻坚能力，主胜为合理主线。但波黑低位防反+定位球+点球韧性具备搅局基因，需防其先稳后偷。预计瑞士小胜，比分区间1-0至2-1，平局亦不可完全排除。"
       },
       "insights": {
         "injuries": "波黑40岁队长哲科肩伤成疑，首战对加拿大未首发；塔巴科维奇伤缺。瑞士阵容完整无伤",
@@ -1512,7 +1672,14 @@
         ],
         "keyPlayers": "瑞士:扎卡、阿坎吉、恩多耶；波黑:哲科、德米罗维奇、德迪奇",
         "xfactor": "洛杉矶高温对40岁哲科体能不利；瑞士经验稳定"
-      }
+      },
+      "latestNews": [
+        "Switzerland vs. Bosnia &amp; Herzegovina—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+        "Switzerland vs Bosnia and Herzegovina at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "Switzerland vs. Bosnia and Herzegovina Picks, Prediction for Thursday 6/18/26 - DraftKings Network",
+        "Switzerland vs Bosnia-Herzegovina picks, predictions for World Cup - azcentral.com and The Arizona Republic",
+        "World Cup Group B odds for 2026: Latest Canada, Switzerland, Bosnia, Qatar standings - AL.com"
+      ]
     },
     {
       "matchNo": 40,
@@ -1525,10 +1692,10 @@
       "kickoffET": "2026-06-21T21:00:00-04:00",
       "venue": "BC体育场",
       "city": "温哥华",
-      "upsetProbability": 25,
+      "upsetProbability": 38,
       "upsetTeam": "新西兰",
       "favoriteTeam": "埃及",
-      "upsetWinOdds": 3.8,
+      "upsetWinOdds": 4.34,
       "marketImplied": "市场隐含新西兰胜率约23%，埃及胜率约50%，平局27%",
       "tacticalReason": "新西兰高空轰炸与定位球战术克制埃及防空弱点，密集防守限制其边路突击。",
       "physicalComparison": "新西兰身体对抗和制空能力占优；埃及灵活性强但整体对抗略逊。",
@@ -1554,25 +1721,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "新西兰": 18,
-          "draw": 24,
-          "埃及": 58
+          "新西兰": 24,
+          "draw": 29,
+          "埃及": 47
         },
-        "tacticalAnalysis": "双方均采用4-2-3-1体系，新西兰依赖伍德支点和定位球威胁，高位逼抢寻求混战机会；埃及擅长低位防守+快速反击，萨拉赫与马尔穆什速度优势明显。埃及技战术成熟度更高，但若新西兰成功将比赛拖入定位球拉锯，伍德的空中优势可能制造麻烦。关键在于埃及能否高效把握反击机会。",
-        "physicalAnalysis": "埃及速度与爆发力占优，萨拉赫、马尔穆什转换速度快；新西兰身体对抗更强悍，伍德空中优势明显。耐力方面埃及首战对比利时消耗大存隐忧，新西兰2-2平伊朗体能保存较好，后程可能更从容。",
-        "formAnalysis": "新西兰逼平伊朗士气高涨，贾斯特梅开二度状态火热，球队上升势头明显；埃及1-1平比利时展现韧性但未取胜，心理压力较大。两队均迫切需要三分，但新西兰气势更盛，埃及压力更重。",
-        "injuryImpact": "新西兰加贝特腿筋问题若缺阵，中场控制力削弱但影响有限；埃及无伤停但首战高强度防守消耗明显，尤其后防与中场体能恢复成疑，连续作战能力面临考验，可能影响下半场执行力。",
-        "h2hAnalysis": "两队历史仅1次交锋埃及获胜，样本量极小参考价值有限。双方战术风格和人员变化大，历史战绩不构成决定性参考。",
-        "oddsAnalysis": "三家主流公司均开出埃及极低赔率(1.28-1.72)，新西兰高赔(3.5-4.34)，去水位后埃及胜率约58-65%。市场资金明显偏向埃及，但赔率过分压低存在价值陷阱风险。平局赔率3.5-3.82也反映机构对僵持可能性的预期。",
-        "externalFactors": "温哥华BC Place室内场，天气因素中立；新西兰作为大洋洲球队地理位置相对更近，旅行疲劳略轻；埃及从北美东部转战西部存在时差调整问题。两队均视此役为出线生死战，外部压力相当。",
-        "psychologyAnalysis": "埃及大赛经验丰富但背负非洲足球旗帜压力，首战未胜心理负担重；新西兰世界杯经验不足但作为挑战者心态更轻松，平伊朗后信心提升。出线压力下埃及更易紧张，新西兰放手一搏反而可能超常发挥。",
-        "consensusView": "全网专家主流预测埃及获胜(如FWCSchedule预测2-0)，但普遍提及埃及体能隐患和新西兰定位球威胁。模型数据显示埃及胜率约50-60%，并非绝对碾压。共识认为埃及纸面实力更强但存在爆冷风险，比赛可能比赔率显示的更胶着。",
-        "upsetProbability": 25,
+        "tacticalAnalysis": "双方同为4-2-3-1。埃及低位防守+萨拉赫、马尔穆什两翼快反，控球与转换质量更高；新西兰依赖伍德支点做球与定位球冲击。埃及双后腰可压缩新西兰前场创造空间，但若新西兰利用身高在定位球与边路传中施压，埃及防线易被针对，攻防转换瞬间是胜负关键。",
+        "physicalAnalysis": "新西兰身材高大、对抗与制空占优，定位球和高空球威胁明显；埃及更快更灵活，爆发与技术细腻。但埃及首战对比利时消耗大，体能恢复存疑，比赛后段可能被新西兰的身体强度拖入消耗战。",
+        "formAnalysis": "新西兰2-2逼平伊朗，贾斯特梅开二度，进攻势头与士气高涨；埃及1-1平比利时，战平夺冠热门展现韧性但暴露进攻效率不足。两队均带积分入场，心态积极，新西兰momentum略占心理优势。",
+        "injuryImpact": "新西兰加贝特腿筋存疑，若缺阵削弱中场厚度；埃及无伤停但首战体能透支为隐忧。萨拉赫、马尔穆什健康是埃及核心保障，新西兰需防其轮换保鲜后的反扑。整体伤病天平略偏向埃及。",
+        "h2hAnalysis": "两队历史仅1次交锋，埃及取胜。样本极小，参考价值有限，难作为本场强力依据。",
+        "oddsAnalysis": "三平台高度一致看好埃及(主流客胜1.28-1.72)。去水后埃及胜约62-66%、平约22-25%、新西兰胜约13-18%。Pinnacle赔率更宽(客1.72)显示其对爆冷概率给出更高定价，资金虽偏埃及但市场承认新西兰存在搅局空间。",
+        "externalFactors": "温哥华BC体育场为室内/可控环境，6月气候温和，无极端天气干扰。中立场地无明显主场加成，新西兰地理时差适应与埃及相近，外部因素影响有限。",
+        "psychologyAnalysis": "埃及拥有萨拉赫等欧洲顶级联赛经验，大赛抗压更成熟；新西兰大赛底蕴较浅但逼平伊朗后信心充足，可能轻装上阵敢拼。心理层面埃及稳健，新西兰冲劲足。",
+        "consensusView": "全网共识普遍视埃及为本场胜方，G组中埃及实力与个人能力明显高出。但媒体亦强调新西兰逼平伊朗的强势状态与定位球威胁，认为这是一场埃及该赢却需提防爆冷的比赛，平局亦在合理区间。",
+        "latestNewsSummary": "新西兰2-2平伊朗成爆点(贾斯特双响)，FOX/NBC高度评价其表现；埃及1-1顽强逼平比利时；Independent指比利时为G组头号热门，埃及、伊朗、新西兰争次名，本场对双方出线至关重要。",
+        "upsetProbability": 38,
         "upsetTeam": "新西兰",
         "favoriteTeam": "埃及",
-        "upsetWinOdds": 3.8,
+        "upsetWinOdds": 4.34,
         "riskLevel": "medium",
-        "objectiveConclusion": "埃及纸面实力和世界排名占优，赔率反映市场信心，但体能消耗、心理压力和新西兰定位球威胁构成变数。最可能结果是埃及小胜(1-0/2-1)或双方战平(1-1)，新西兰凭借伍德支点和贾斯特状态存在25%左右爆冷可能。若埃及无法早进球打开局面，后程体能下降可能给新西兰机会。比分区间0-0至2-1。"
+        "objectiveConclusion": "埃及综合实力、个人能力与赔率均占优，是合理胜方，但首战体能消耗与进攻效率不足是软肋。新西兰状态正佳、身体与定位球可搅局，平局甚至爆冷不可忽视。最可能比分1-0、2-1埃及胜或1-1，建议关注埃及小胜与平局两个区间。"
       },
       "insights": {
         "injuries": "新西兰加贝特腿筋存疑；埃及无伤停但首战对比利时体能消耗大",
@@ -1586,7 +1754,14 @@
         ],
         "keyPlayers": "新西兰:伍德、贾斯特、辛格；埃及:萨拉赫、马尔穆什",
         "xfactor": "温哥华BC Place室内场；两队均视此役为出线关键战"
-      }
+      },
+      "latestNews": [
+        "Group G at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "4 Takeaways From Iran And New Zealand's Pulsating Draw At World Cup - FOX Sports",
+        "Iran ties with New Zealand after U.S. peace deal in a day of surprise World Cup draws - NBC News",
+        "Belgium 1-1 Egypt: World Cup 2026 – as it happened - Al Jazeera",
+        "World Cup 2026 – Group G guide: Belgium favourites ahead of war-torn Iran, Egypt and New Zealand - the-independent.com"
+      ]
     },
     {
       "matchNo": 56,
@@ -1599,7 +1774,7 @@
       "kickoffET": "2026-06-25T16:00:00-04:00",
       "venue": "大都会人寿球场",
       "city": "纽约/新泽西",
-      "upsetProbability": 28,
+      "upsetProbability": 40,
       "upsetTeam": "厄瓜多尔",
       "favoriteTeam": "德国",
       "upsetWinOdds": 4.48,
@@ -1618,25 +1793,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "厄瓜多尔": 22,
-          "draw": 26,
-          "德国": 52
+          "厄瓜多尔": 24,
+          "draw": 28,
+          "德国": 48
         },
-        "tacticalAnalysis": "德国纳格尔斯曼4-2-3-1高位压迫+快速转换，依赖基米希组织和维尔茨/哈弗茨前场穿透；厄瓜多尔4-4-2深位防守+反击，凯塞多中场拦截能力强，瓦伦西亚速度威胁。德国控球优势明显，但厄瓜多尔预选赛证明深位block能限制技术型球队，反击效率高。战术相克上厄瓜多尔有能力拖慢节奏制造麻烦。",
-        "physicalAnalysis": "德国整体身体素质均衡，基米希/格雷茨卡对抗强，但边路速度一般；厄瓜多尔速度占优，瓦伦西亚/埃斯图皮尼扬冲刺能力出色，因卡皮耶对抗不输德国中卫。耐力方面双方相当，但高温可能影响德国高压强度。",
-        "formAnalysis": "德国近况矛盾：友谊赛表现稳定但近两届世界杯小组出局心理阴影仍在；厄瓜多尔预选赛主场1-0胜阿根廷展现强大抗压能力，防守自信心极高。士气上厄瓜多尔略占优，德国需尽早破门建立信心。",
-        "injuryImpact": "德国穆西亚拉伤后状态存疑严重削弱前场创造力，格纳布里缺阵减少边路变化，卡尔缺席影响有限；厄瓜多尔无重要伤情，阵容完整是重要优势。德国伤病影响明显更大，进攻套路可能受限。",
-        "h2hAnalysis": "历史交锋德国占优但参考价值有限，双方上次交手已久且阵容变化大。近年南美球队整体进步缩小差距，厄瓜多尔技战术成熟度提升显著。",
-        "oddsAnalysis": "Pinnacle赔率去水后：德国胜率约55%、平局26%、厄瓜多尔19%。市场资金明显偏向德国但未形成压倒性优势，反映出对厄瓜多尔防守能力的谨慎。平局赔率3.67偏低说明市场预期比赛可能胶着，德国1.74赔率显示其优势被认可但非必胜。",
-        "externalFactors": "纽约/新泽西MetLife球场中立场地，6月底气温可能偏高影响德国高压强度。双方旅行负担相当，无赛程密集问题。草皮状况良好，对技术型打法有利但也支持快速反击。",
-        "psychologyAnalysis": "德国背负两届小组出局压力，首场必须拿分心理负担重；厄瓜多尔以挑战者姿态出战，心理包袱轻且大赛经验近年积累充足（2022世界杯表现可圈可点）。出线压力下德国可能求稳，厄瓜多尔更敢于拼搏。",
-        "consensusView": "全网专家普遍认同德国技术实力占优（Opta超算59.9%夺小组头名），但多数预警厄瓜多尔会制造麻烦。Bracket Research模型给出55%德国胜率，worldcupwiki预测2-1德国但强调厄瓜多尔威胁。共识是德国小胜或平局可能性最高，大比分取胜概率不大。",
-        "upsetProbability": 28,
+        "tacticalAnalysis": "德国4-2-3-1高位逼抢与纵向转换，维尔茨、哈弗茨串联中前场，控球占优。厄瓜多尔4-4-2深位block收缩两条线，依靠凯塞多扫荡与瓦伦西亚速度反击。德国需破密集防守，厄方边路转换与定位球是主要威胁，攻防节奏对抗鲜明。",
+        "physicalAnalysis": "厄瓜多尔球员普遍高大强壮，对抗与高空球占优，体能充沛擅长缠斗。德国身体素质均衡但中卫高空对抗略逊，夏季湿热环境对欧洲球队消耗更大。",
+        "formAnalysis": "德国连续两届小组出局，重建中信心待验证，新闻多视其为热门但隐忧仍存。厄瓜多尔预选赛主场1-0胜阿根廷，防守稳固士气高，CBS将其列入推荐之选。",
+        "injuryImpact": "德国卡尔、格纳布里缺阵削弱边路与防线轮换，穆西亚拉脚踝状态存疑，若无法首发创造力打折。厄瓜多尔无重要伤情，阵容完整，相对占据健康优势。",
+        "h2hAnalysis": "历史交锋德国整体占优，但近年实力差距缩小，厄瓜多尔身体与防守韧性使比赛难轻易拉开。",
+        "oddsAnalysis": "Pinnacle主1.74/平3.67/客4.48，去水后德国约54%、平25%、厄约21%。资金明显倾向德国但赔率未极端压低，平局赔率偏高反映看好德国掌控但难大胜，市场认可厄方爆冷或逼平的现实可能。",
+        "externalFactors": "大都会人寿球场为中立场地，6月底纽约/新泽西湿热，南美球队气候适应或略优，无明显主场加成，球迷构成可能偏向拉美一方。",
+        "psychologyAnalysis": "德国大赛底蕴深厚但近年抗压记录不佳，背负夺冠压力。厄瓜多尔无包袱、敢拼敢冲，近期击败强队提振信心，心理层面并不畏惧。",
+        "consensusView": "全网共识视德国为明显热门但非碾压级，多家媒体提示厄瓜多尔防守与反击具搅局能力。普遍预期德国控球占优、小胜或被逼平皆有可能，建议关注进球数偏低走向。",
+        "latestNewsSummary": "ESP详解E组数据，CBS将德国、厄瓜多尔同列周日推荐，The Athletic对德国出战持谨慎乐观，整体看好德国但点名厄瓜多尔为潜在冷门来源。",
+        "upsetProbability": 40,
         "upsetTeam": "厄瓜多尔",
         "favoriteTeam": "德国",
         "upsetWinOdds": 4.48,
         "riskLevel": "medium",
-        "objectiveConclusion": "德国技术和经验占优，但穆西亚拉伤情、心理压力、厄瓜多尔防守韧性构成变数。最可能结果是德国1-0或2-1小胜，但平局（1-1）和厄瓜多尔0-1反击爆冷均有合理概率。比分区间0-2球，低比分高对抗是基本面。德国不会轻松取胜。"
+        "objectiveConclusion": "德国控球与个人能力占优，胜算最高，但厄瓜多尔防守稳固、对抗强且无伤病，逼平或爆冷概率不低。德国若效率不足易陷入僵局。最可能比分1-0、2-1德国或1-1，建议重视低进球与平局风险，预期总进球2球左右。"
       },
       "insights": {
         "injuries": "德国卡尔、格纳布里缺阵，穆西亚拉脚踝伤后状态存疑；厄瓜多尔无重要伤情",
@@ -1650,7 +1826,14 @@
         ],
         "keyPlayers": "德国:基米希、维尔茨、哈弗茨、穆西亚拉；厄瓜多尔:凯塞多、瓦伦西亚、因卡皮耶",
         "xfactor": "MetLife球场；穆西亚拉伤后状态是德国最大问号"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Group E at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "2026 World Cup parlay, best bets: Top picks for matches on Sunday include Germany, Netherlands, Ecuador - CBS Sports",
+        "World Cup predictions: Germany vs Curacao, Netherlands vs Japan and rest of matchday 4 - The Athletic - The New York Times",
+        "How to stream the World Cup for free today, watch Sunday's World Cup games free - USA Today"
+      ]
     },
     {
       "matchNo": 22,
@@ -1733,7 +1916,7 @@
       "kickoffET": "2026-06-19T15:00:00-04:00",
       "venue": "流明球场",
       "city": "西雅图",
-      "upsetProbability": 20,
+      "upsetProbability": 30,
       "upsetTeam": "澳大利亚",
       "favoriteTeam": "美国",
       "upsetWinOdds": 5,
@@ -1758,24 +1941,25 @@
       "deepAnalysis": {
         "winProbability": {
           "美国": 58,
-          "draw": 22,
-          "澳大利亚": 20
+          "draw": 24,
+          "澳大利亚": 18
         },
-        "tacticalAnalysis": "美国3-5-2高位逼抢对阵澳大利亚五后卫防反是典型的矛与盾对决。美国依赖边翼卫压上创造宽度，中场控制力强；澳大利亚依靠密集防线化解压力后寻求快速反击。美国进攻火力更强但可能陷入阵地战，澳大利亚需利用定位球和反击机会。战术相克度中等，美国占优但澳大利亚防守纪律可限制差距。",
-        "physicalAnalysis": "美国整体速度优势明显，普利西奇、巴洛贡冲击力强；澳大利亚身体对抗更硬朗，苏塔尔、欧文防守凶悍。耐力方面美国轮换深度更好。速度美国占优，对抗澳大利亚略胜，耐力持平。",
-        "formAnalysis": "美国首轮4-1大胜巴拉圭，巴洛贡梅开二度状态火热，进攻端信心爆棚；澳大利亚2-0爆冷土耳其展现韧性和执行力。两队士气均高涨，但美国攻击手感更热，澳大利亚则靠防守自信建立。",
-        "injuryImpact": "美国普利西奇单独训练但预计可出战，若缺阵影响进攻创造力约15-20%；澳大利亚米勒跟腱伤无缘世界杯削弱右翼进攻宽度，但整体防守体系未受重创。伤病对美国潜在影响更大，但可控。",
-        "h2hAnalysis": "历史4次交锋美国2胜1平1负占优，2025年10月美国2-1胜显示心理优势。但样本有限且澳大利亚本届防守升级，参考价值中等，美国心理占优但非决定性。",
-        "oddsAnalysis": "bet365美国1.6、澳大利亚5，去水后隐含概率约美国57%、澳大利亚18%、平局25%。williamhill赔率相近印证市场共识。资金明显偏向美国，但澳5.0赔率暗示市场认为其有一定抵抗力。赔率反映美国稳健优势但非碾压。",
-        "externalFactors": "西雅图主场对美国有明显主场优势，气候温和无极端影响。澳大利亚时差调整充分，旅行疲劳因素较小。主场氛围可为美国增加约5-8%胜率，但澳大利亚适应力强。",
-        "psychologyAnalysis": "美国作为东道主承载出线期望，压力与动力并存；澳大利亚爆冷土耳其后信心提升，无包袱轻装上阵。美国大赛经验略优但年轻球员占比高，澳大利亚老将坐镇更沉稳。心理因素略偏美国但差距不大。",
-        "consensusView": "全网专家普遍看好美国取胜但警惕澳大利亚防守韧性。Footy Accumulators强调澳大利亚风格具竞争力，Yahoo聚焦巴洛贡VS苏塔尔对位，RotoWire指出美国防守隐患。共识是美国应胜但非稳胆，澳大利亚有能力制造麻烦甚至抢分。",
-        "upsetProbability": 20,
+        "tacticalAnalysis": "美国高位逼抢与3-5-2/4-3-3双轨切换，普利西奇内收与巴洛贡纵深冲击形成主攻轴。澳大利亚五后卫密集防线压缩肋部空间，依靠伊兰昆达、欧文边路速度打反击。胜负关键在美国能否破密集防守并控制反击二点球，澳方需切断普利西奇与中场联系。",
+        "physicalAnalysis": "澳大利亚整体身高与对抗占优，定位球及高空球具威胁；美国跑动覆盖与冲刺速度更突出，逼抢强度高。中后场对抗澳方略胜，转换速度美方占优。",
+        "formAnalysis": "美国首轮4-1大胜巴拉圭巴洛贡梅开二度，士气与攻击效率俱佳。澳大利亚2-0爆冷胜土耳其防反成型、信心高涨。两队均带胜势入场，美方进攻火力略胜一筹。",
+        "injuryImpact": "两队无重大伤停。美国普利西奇单独训练但预计可出战，是最大变量，若状态受限将削弱创造力。澳大利亚右翼卫米勒跟腱伤缺阵，削弱右路攻防厚度。",
+        "h2hAnalysis": "近4次交锋美国2胜1平1负占优，2025年10月刚2-1取胜，心理与近况均压制澳方。",
+        "oddsAnalysis": "bet365与威廉希尔高度一致，美国约1.57-1.6、平4-4.1、澳5。去水后公平概率约美国60%、平24%、澳16%。资金明显倾向主队，赔率稳定无异动，反映市场对美国主场取胜共识强烈，澳方爆冷空间被压低。",
+        "externalFactors": "西雅图流明球场为美国半主场，本土球迷氛围助威。6月气温温和、有顶棚环境稳定，时差与旅途对澳大利亚更不利。",
+        "psychologyAnalysis": "美国坐拥主场红利且近况交锋双重领先，心理优势明显。澳大利亚大赛韧性与防反纪律是底气，爆冷后信心足，但客场顶压能力是考验。",
+        "consensusView": "全网主流(ESPN、Goal、USA Today)普遍看好美国主场取胜，视澳大利亚为顽强但被动一方。共识认为美国大概率掌控比赛，澳方靠防反搏平或冷门，分差预计不大。",
+        "latestNewsSummary": "媒体聚焦普利西奇出战状态、澳方需限制美国边中结合威胁；预测多倾向美国小胜，强调澳大利亚防反与定位球是其最大武器。",
+        "upsetProbability": 30,
         "upsetTeam": "澳大利亚",
         "favoriteTeam": "美国",
         "upsetWinOdds": 5,
         "riskLevel": "medium",
-        "objectiveConclusion": "美国整体实力、主场、状态占优，胜率约58%为合理判断。但澳大利亚防守纪律强、反击威胁足，爆冷概率20%不可忽视。最可能结果是美国小胜1-0或2-1，若陷入阵地战可能1-1平局，澳大利亚若抓住反击机会存在1-0或2-1爆冷可能。建议谨慎对待，非稳胆场次。"
+        "objectiveConclusion": "美国占据主场、状态、交锋与赔率多重优势，应为明显热门，最可能掌控节奏取胜，比分区间2-0、2-1、1-0。但澳大利亚五后卫防反与定位球具实战威胁，若普利西奇受限或美方破密集防守不力，平局乃至冷门并非不可能，0-0/1-1需防范。综合看美国小胜概率最高。"
       },
       "insights": {
         "injuries": "两队均无重大伤停；美国普利西奇单独训练预计可出战；澳大利亚右翼卫米勒跟腱伤无缘世界杯",
@@ -1789,7 +1973,14 @@
         ],
         "keyPlayers": "美国:普利西奇、巴洛贡、麦肯尼、亚当斯；澳大利亚:苏塔尔、伊兰昆达、欧文",
         "xfactor": "西雅图主场氛围；美国进攻火热VS澳大利亚防守纪律"
-      }
+      },
+      "latestNews": [
+        "USA vs. Australia: What to know about Seattle’s next World Cup match - The Seattle Times",
+        "USMNT vs Australia at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "The threats Australia must neutralise in crunch World Cup clash with USA - The Guardian",
+        "USA vs Australia FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+        "USA vs. Australia World Cup prediction, start time, how to watch, odds - USA Today"
+      ]
     },
     {
       "matchNo": 35,
@@ -1802,10 +1993,10 @@
       "kickoffET": "2026-06-20T13:00:00-04:00",
       "venue": "NRG体育场",
       "city": "休斯顿",
-      "upsetProbability": 28,
+      "upsetProbability": 32,
       "upsetTeam": "瑞典",
       "favoriteTeam": "荷兰",
-      "upsetWinOdds": 4.5,
+      "upsetWinOdds": 4.96,
       "marketImplied": "市场隐含荷兰胜率约60%，平局22%，瑞典取胜约18%",
       "tacticalReason": "瑞典擅长低位防守与高效反击，其锋线爆点能直接惩罚荷兰大举压上后留下的防线身后空间。",
       "physicalComparison": "两队身体对抗均属顶级，瑞典在定位球争顶与锋线冲击力上极具威胁，完全不惧荷兰防线。",
@@ -1831,25 +2022,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "荷兰": 64,
-          "draw": 22,
-          "瑞典": 14
+          "荷兰": 62,
+          "draw": 23,
+          "瑞典": 15
         },
-        "tacticalAnalysis": "荷兰4-3-3控球体系成熟，德容与雷因德斯掌控中场节奏，范戴克坐镇后防提供稳定性。瑞典3-4-2-1依赖约凯雷斯与伊萨克的锋线冲击，两翼卫前压博弈中场。荷兰控球率占优，但若瑞典快速转换，荷兰双后腰身后空间易被锋线速度利用。",
-        "physicalAnalysis": "瑞典整体身体对抗与制空略占优，伊萨克、约凯雷斯速度突出。荷兰球员技术与耐力均衡，范戴克高空稳健。酷暑下双方耐力均受考验，体能分配成关键变量。",
-        "formAnalysis": "荷兰首轮2-2平日本暴露防守专注度问题，状态待提升。瑞典大胜突尼斯开门红，士气与信心回升，进攻线找到感觉，整体势头略好于荷兰。",
-        "injuryImpact": "荷兰失西蒙斯削弱进攻创造力，德佩大腿伤影响锋线轮换。瑞典库卢塞夫斯基膝伤长期缺阵，损失中场组织串联，对其进攻支援是实质打击。",
-        "h2hAnalysis": "两队历史交锋有限，缺乏稳定规律，参考价值偏低，难以据此预判走势。",
-        "oddsAnalysis": "三平台主胜差异明显：bet365与williamhill荷兰仅1.25，pinnacle开1.61更趋理性。以pinnacle去水位计算，荷兰公平胜率约58-62%，平局约24%，瑞典约14-16%。低水盘口反映市场强烈看好荷兰，但pinnacle定价提示并非一边倒。",
-        "externalFactors": "休斯顿酷暑高湿考验体能，对控球耗能的荷兰更不利。两队均无地利，中立场地旅行因素相近，气候成最大外部变量。",
-        "psychologyAnalysis": "荷兰三度亚军追逐队史首冠，背负夺冠期待与小组头名压力。瑞典以挑战者姿态轻装上阵，心理负担小，大赛经验稍逊但敢拼。",
-        "consensusView": "全网共识倾向荷兰：RotoWire看好其战术成熟、防守深度占优锁定头名；Yahoo指出瑞典攻击线天赋足但防守存疑；Sky Sports强调荷兰豪门底蕴。专家普遍认为荷兰实力占上风，但瑞典锋线具威胁，需防其反击爆冷。",
-        "upsetProbability": 28,
+        "tacticalAnalysis": "荷兰4-3-3控球压制，范戴克统领后防，德容+雷因德斯掌控中场节奏。瑞典3-4-2-1主打防守反击，约凯雷斯+伊萨克双高速锋线威胁荷兰身后空当。荷兰若推进过高，瑞典转换反击是其唯一胜负手；荷兰边路加克波突破与控球可逐渐瓦解三中卫。",
+        "physicalAnalysis": "瑞典锋线伊萨克、约凯雷斯爆发力与对抗顶级，制空与冲刺占优。荷兰整体均衡、范戴克高点稳固，中场覆盖更全面，体能与多线轮换深度略胜。",
+        "formAnalysis": "荷兰首轮2-2平日本暴露防守保守与转换迟缓，《纽约时报》质疑其过于谨慎。瑞典大胜突尼斯开门红士气高涨，锋线火力回升，心理处于上升通道。",
+        "injuryImpact": "荷兰缺西蒙斯削弱前场创造力，德佩此前大腿伤影响锋线深度。瑞典库卢塞夫斯基长期伤缺损失关键串联，但约凯雷斯、伊萨克核心健在，攻击端冲击力未减。",
+        "h2hAnalysis": "两队历史交锋样本有限，参考价值低，近年大赛少有直接对话，难以形成稳定心理优势。",
+        "oddsAnalysis": "三平台主胜差异明显：bet365/威廉希尔1.25偏极端，Pinnacle仅1.61更贴近真实。以锐裁去水后荷兰公平胜率约58-62%，平局22-24%，瑞典15-17%。Pinnacle客胜4.96显示市场给瑞典反击保留一定空间，资金略偏防瑞典爆冷。",
+        "externalFactors": "休斯顿NRG为封闭可控温球场，规避高温暴晒，对两支欧洲球队体能影响有限。无真正主场优势，中立观众环境。",
+        "psychologyAnalysis": "荷兰大赛底蕴深、阵容星味足但常背负心理包袱，逼平日本后压力上升。瑞典轻装上阵、无惧强队，反击型打法心态更放松。",
+        "consensusView": "全网共识荷兰为明显热门但非高枕无忧，OneFootball等预测荷兰小胜。市场与媒体均提示荷兰防守偏保守、转换偏慢，瑞典锋线具备制造冷门的现实威胁，普遍看好荷兰但留有变数。",
+        "latestNewsSummary": "OneFootball看好荷兰但谨慎；纽约时报战术专题点名瑞典双锋威胁与荷兰过度保守问题，认为F组攻防转换是胜负关键，瑞典反击值得警惕。",
+        "upsetProbability": 32,
         "upsetTeam": "瑞典",
         "favoriteTeam": "荷兰",
-        "upsetWinOdds": 4.5,
+        "upsetWinOdds": 4.96,
         "riskLevel": "medium",
-        "objectiveConclusion": "综合实力、赔率与情报，荷兰胜面明显，控球与防守深度占优，最可能以一到两球小胜。但荷兰首轮防守隐患与瑞典伊萨克、约凯雷斯锋线速度构成实质威胁，酷暑或放大变数。最可能比分区间2-0、2-1或1-0，平局1-1亦不可忽视。"
+        "objectiveConclusion": "荷兰实力与控球占优，胜率领先，但首轮保守暴露隐患，瑞典锋线反击具备真实冷门能量。综合看荷兰胜面大但难大胜，平局风险不低。最可能比分2-1、1-0、2-0；若瑞典反击效率高，1-1或2-1爆冷不可忽视。"
       },
       "insights": {
         "injuries": "荷兰失西蒙斯(德佩此前大腿伤)；瑞典库卢塞夫斯基膝盖重伤长期缺阵",
@@ -1863,7 +2055,14 @@
         ],
         "keyPlayers": "荷兰:范戴克、德容、加克波；瑞典:约凯雷斯、伊萨克、贝里瓦尔",
         "xfactor": "休斯顿酷暑考验体能；荷兰需应对瑞典身体对抗"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "Netherlands vs Sweden Prediction: World Cup 2026 Preview &amp; Best Bets - OneFootball",
+        "World Cup Group F tactical guide: Sweden’s strikers, Japan’s transitions, and are the Netherlands too cautious? - The New York Times",
+        "When is Sweden's next World Cup game? Buy Sweden vs. Netherlands tickets - USA Today"
+      ]
     },
     {
       "matchNo": 55,
@@ -1876,7 +2075,7 @@
       "kickoffET": "2026-06-25T16:00:00-04:00",
       "venue": "林肯金融球场",
       "city": "费城",
-      "upsetProbability": 6,
+      "upsetProbability": 16,
       "upsetTeam": "库拉索",
       "favoriteTeam": "科特迪瓦",
       "upsetWinOdds": 16.12,
@@ -1895,26 +2094,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "库拉索": 6,
-          "draw": 11,
-          "科特迪瓦": 83
+          "库拉索": 7,
+          "draw": 15,
+          "科特迪瓦": 78
         },
-        "tacticalAnalysis": "科特迪瓦紧凑中场加快速转换，边路迪亚洛速度直接冲击库拉索两翼。库拉索阿德沃卡特4-2-3-1主打低位防守加快反，理论上反击针对对手压上后的身后空间，但需先扛住持续围攻。强弱对话中，库拉索能否维持防线密度是核心，反击效率取决于扬加、巴库纳的把握能力。",
-        "physicalAnalysis": "科特迪瓦在速度、对抗强度与五大联赛球员储备上占优，边路冲击与中场身体压制明显。库拉索个体硬度尚可但整体节奏与持续高强度耐力存疑，体能后段易被拉开。",
-        "formAnalysis": "科特迪瓦1-0小胜厄瓜多尔，防守稳、士气足。库拉索首战负德国虽败但积累经验，仍寻首分，斗志在但客观实力差距与心理预期偏保守。",
-        "injuryImpact": "双方均无确认重要伤停，阵容基本完整。该因素对赛果影响中性，科特迪瓦深度更厚，即便轮换也能维持质量，库拉索容错空间更小。",
-        "h2hAnalysis": "无可查历史交锋，库拉索系世界杯首秀，参考价值极低，需完全依赖实力与状态层面研判。",
-        "oddsAnalysis": "Pinnacle主1.13、平7.97、客16.12。去水位后科特迪瓦公平胜率约82%-85%，平局约10%-12%，库拉索约5%-6%。市场高度一边倒，资金集中押强队，赔率结构反映悬殊实力差，爆冷溢价空间有限。",
-        "externalFactors": "费城林肯金融球场中性场地，双方均无主场优势。夏季气温与湿度对持续高压一方略有消耗，但科特迪瓦适应能力与体能储备更具优势。",
-        "psychologyAnalysis": "科特迪瓦大赛经验与非洲杯底蕴占优，出线预期带来压力但仍属可控。库拉索作为黑马心理包袱小，放手一搏，但首秀紧张与专注度持续性是变量。",
-        "consensusView": "全网专家高度一致看好科特迪瓦。RotoWire强调库拉索能否长时间保持防守纪律是首要考验，Total Football Analysis认为库拉索现实目标是避免大败。共识为科特迪瓦掌控比赛，库拉索争取少失球或偷取冷门进球，整体倾向强队稳胜。",
-        "upsetProbability": 6,
+        "tacticalAnalysis": "科特迪瓦4-3-3控球压迫，凯西居中调度，迪亚洛与边路速度冲击库拉索防线两肋。库拉索阿德沃卡特4-2-3-1低位密集防守等待快反，巴库纳与扬加边路反击是唯一锋线威胁。控球与对抗全面失衡，库拉索需靠定位球与零封求分。",
+        "physicalAnalysis": "科特迪瓦非洲身体素质突出，对抗、爆发与边路速度占优。库拉索球员多来自荷甲低级别与杂牌联赛，整体强度和折返跑储备处下风，下半场易被压制。",
+        "formAnalysis": "科特迪瓦首战1-0小胜厄瓜多尔，势头与信心俱佳。库拉索负德国未失斗志仍寻队史世界杯首分，包机球迷直抵助威，士气可嘉但实力差距客观存在。",
+        "injuryImpact": "最新新闻未披露双方新增伤停，迪亚洛、凯西、巴库纳、扬加均可出战。无关键停赛干扰，强弱格局未因伤病改变。",
+        "h2hAnalysis": "两队此前无可查正式交锋，库拉索系世界杯首秀，缺乏历史参照，需以实力与排名差为主要依据。",
+        "oddsAnalysis": "Pinnacle主胜16.12/平7.97/客1.13，去水位后科特迪瓦公平胜率约84%、平约12%、库拉索约4%。资金高度倾向科特迪瓦，1.13极低水位反映市场近乎一边倒，爆冷溢价空间有限。",
+        "externalFactors": "费城林肯金融球场为中立场，六月炎热潮湿。库拉索包机球迷营造类主场气氛，但场地与气候对两队影响相近。",
+        "psychologyAnalysis": "科特迪瓦大赛经验与非洲杯底蕴占优，背负出线压力。库拉索初登世界杯无包袱、敢拼，心理放松或制造冷门土壤。",
+        "consensusView": "全网共识压倒性看好科特迪瓦取胜并大概率零封，视其为E组出线热门。库拉索被普遍定位为陪跑，焦点在能否拿到队史首分而非胜负。",
+        "latestNewsSummary": "新闻多为赛程观赛指南；亮点为三架包机送库拉索球迷赴场助威，及ESPN对E组实力的梳理，均印证科特迪瓦明显占优。",
+        "upsetProbability": 16,
         "upsetTeam": "库拉索",
         "favoriteTeam": "科特迪瓦",
         "upsetWinOdds": 16.12,
         "riskLevel": "low",
-        "objectiveConclusion": "实力、状态、深度均明显倾向科特迪瓦，市场赔率印证一边倒格局。库拉索防守组织若崩盘易遭大败，纪律稳固则有望控制分差甚至偷分。最可能科特迪瓦掌控并取胜，比分区间1-0至3-0，2-0最具代表性；库拉索取分概率低但非为零。",
-        "objectiveConclusionNote": "支持爆冷论据：足球偶然性、库拉索快反加密集防守可制造冷门、首秀无包袱；反对论据：实力悬殊、体能与个体质量差距、市场资金一致看空。"
+        "objectiveConclusion": "科特迪瓦实力、身体、状态全面占优，胜率近八成且具零封能力，最可能比分1-0、2-0、2-1。库拉索若靠密集防守加定位球或可偷分，但取胜概率极低。建议正路看好科特迪瓦小胜至中胜，爆冷价值有限但平局存一定参考。"
       },
       "insights": {
         "injuries": "双方均无确认重要伤情",
@@ -1927,7 +2126,14 @@
         ],
         "keyPlayers": "科特迪瓦:阿马德·迪亚洛、凯西；库拉索:朱尼尼奥·巴库纳、扬加",
         "xfactor": "费城球场；库拉索面对远超预选赛对手的攻击质量，体能专注度是变量"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "The 2026 FIFA Men's World Cup schedule and how to watch - CBS News",
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "3 charter flights to bring Curaçao fans directly to Kansas City ahead of World Cup match - KSHB 41 Kansas City",
+        "Group E at the 2026 World Cup: Teams, records, stats to know - ESPN"
+      ]
     },
     {
       "matchNo": 33,
@@ -1940,10 +2146,10 @@
       "kickoffET": "2026-06-20T16:00:00-04:00",
       "venue": "BMO球场",
       "city": "多伦多",
-      "upsetProbability": 14,
+      "upsetProbability": 22,
       "upsetTeam": "科特迪瓦",
       "favoriteTeam": "德国",
-      "upsetWinOdds": 5,
+      "upsetWinOdds": 4.33,
       "marketImplied": "市场隐含德国胜率约65%，平局20%，科特迪瓦取胜概率约15%",
       "tacticalReason": "德国控球压上易暴露防线身后空间，科特迪瓦边路快马可利用反击直击德国单防弱点。",
       "physicalComparison": "德国高大强壮但防线转身略慢，科特迪瓦爆发力极强且对抗硬朗，冲击力占优。",
@@ -1969,25 +2175,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "德国": 68,
-          "draw": 18,
-          "科特迪瓦": 14
+          "德国": 74,
+          "draw": 17,
+          "科特迪瓦": 9
         },
-        "tacticalAnalysis": "德国4-2-3-1控球体系依赖维尔茨/穆西亚拉创造力，边路轮转与中路渗透成熟。科特迪瓦4-3-3紧凑防守+快速反击，凯西中场拦截能力强，阿马德·迪亚洛边路速度威胁德国高位防线。德国控球率优势明显，但科特迪瓦防守纪律性与反击效率不容小觑，类似战胜厄瓜多尔的模式可能复制。",
-        "physicalAnalysis": "德国整体身体素质均衡，基米希/吕迪格对抗强度高。科特迪瓦速度与爆发力占优，阿马德·迪亚洛/辛戈边路冲刺能力突出，凯西耐力与拦截覆盖范围大，但整体对抗强度略逊德国中后场。",
-        "formAnalysis": "德国7-1大胜库拉索士气高涨，但对手质量有限参考价值打折。科特迪瓦1-0绝杀厄瓜多尔信心爆棚，终结对手19场不败证明防守韧性与关键时刻把握力，状态处于上升期。",
-        "injuryImpact": "德国诺伊尔伤愈复出稳定后防，但穆西亚拉脚踝隐患可能影响其灵活性与传球精准度，若状态打折将削弱德国创造力。科特迪瓦无确认伤停，阵容完整性占优。",
-        "h2hAnalysis": "历史交锋数据有限，德国世界杯经验与整体实力明显领先，但科特迪瓦近年非洲足球崛起，历史参考价值中等。",
-        "oddsAnalysis": "bet365德国1.2、pinnacle1.54、williamhill1.22，去水位后德国胜率约65-70%，平局15-20%，科特迪瓦12-18%。市场资金明显偏向德国，但pinnacle赔率相对保守反映机构对科特迪瓦防守反击警惕。",
-        "externalFactors": "多伦多BMO球场中立场地，6月气候温和无明显影响。双方均无长途旅行劣势，赛程疲劳度相当。德国适应能力强，科特迪瓦无主场优势但无明显地理劣势。",
-        "psychologyAnalysis": "德国世界杯经验丰富但近两届成绩不佳压力大，首战出线压力中等。科特迪瓦爆冷厄瓜多尔后心理优势明显，轻装上阵无包袱，大赛经验略逊但信心处于峰值。",
-        "consensusView": "全网专家普遍看好德国取胜并争夺小组第一，SportsLine预测大2.5球反映双方进攻火力，Goal指出纳格尔斯曼可能轮换但哈弗茨锁定首发，RotoWire强调德国应赢但科特迪瓦防守反击不容轻视。市场共识为德国中等优势胜出。",
-        "upsetProbability": 14,
+        "tacticalAnalysis": "德国4-2-3-1强控球，维尔茨与穆西亚拉在肋部组织，哈弗茨支点，基米希调度节奏，边后卫前插制造宽度。科特迪瓦4-3-3收缩两条线，依靠凯西硬度与辛戈拦截，前场阿马德·迪亚洛高速反击。德国需破密集防守，科特迪瓦怕被打穿身后，转换瞬间是其唯一胜机。",
+        "physicalAnalysis": "科特迪瓦非洲球员爆发力、对抗与冲刺占优，中前场速度突出；德国整体高度、体能分配与团队跑动更均衡。攻防转换中科特迪瓦身体能力或制造威胁。",
+        "formAnalysis": "德国7-1血洗库拉索，进攻火力全开，士气高涨；科特迪瓦绝杀厄瓜多尔爆冷，终结对手19场不败，信心爆棚但样本含偶然性。两队均带不败之势赴战。",
+        "injuryImpact": "德国诺伊尔伤愈复出稳固后防，穆西亚拉脚踝隐患需观察出场强度。科特迪瓦前锋瓦希赛前因涉假球被捕，虽非绝对主力，仍冲击更衣室氛围与轮换深度。",
+        "h2hAnalysis": "两队世界杯历史交锋稀少，德国底蕴、阵容厚度与大赛经验全面占优，无明显心理阴影。",
+        "oddsAnalysis": "三家主胜1.2-1.54、客胜4-5.7，pinnacle主胜1.54偏高反映其更谨慎定价。去水位后德国约72-76%、平15-18%、科特迪瓦8-10%。资金一致看好德国，无明显爆冷异动，盘口稳定。",
+        "externalFactors": "多伦多BMO球场6月气候温和，对欧洲球队适应有利；中立场地无真正主场，球迷或略偏德国，环境影响有限。",
+        "psychologyAnalysis": "德国大赛经验深厚，逆境处理成熟；科特迪瓦爆冷后易松懈或背负期待，假球新闻或分散注意，心理承压更大。",
+        "consensusView": "全网压倒性看好德国，视科特迪瓦为防守反击型黑马。共识认为德国控球碾压但需耐心破密集防守，科特迪瓦寄望反击偷袭与定位球，多数预测德国2球以上取胜。",
+        "latestNewsSummary": "科特迪瓦前锋埃利耶·瓦希赛前因涉法甲假球被捕，冲击士气与轮换；多家媒体主打两支不败之师对决，德国诺伊尔确认复出。",
+        "upsetProbability": 22,
         "upsetTeam": "科特迪瓦",
         "favoriteTeam": "德国",
-        "upsetWinOdds": 5,
+        "upsetWinOdds": 4.33,
         "riskLevel": "medium",
-        "objectiveConclusion": "德国实力与经验占优，控球与创造力领先，胜率68%符合市场预期。科特迪瓦防守纪律性强且反击威胁真实，爆冷厄瓜多尔证明韧性，14%爆冷概率不可忽视。最可能比分区间：德国2-0/2-1小胜，或1-1平局后德国小胜，科特迪瓦1-0爆冷概率约10-15%。"
+        "objectiveConclusion": "德国实力、阵容与大赛经验全面占优，主胜为大概率，建议比分区间2-0至3-1。支持爆冷：科特迪瓦反击速度快、刚终结19场不败势头正盛、德国若轻敌或穆西亚拉受限攻坚乏力。反对爆冷：实力差距明显、瓦希事件扰乱客队、德国火力充沛。平局或小胜不可全排除。"
       },
       "insights": {
         "injuries": "德国诺伊尔小腿伤已恢复首发；穆西亚拉脚踝隐患；科特迪瓦无确认伤停",
@@ -2001,7 +2208,14 @@
         ],
         "keyPlayers": "德国:维尔茨、哈弗茨、基米希、诺伊尔；科特迪瓦:阿马德·迪亚洛、凯西、辛戈",
         "xfactor": "多伦多BMO球场；科特迪瓦爆冷后士气；穆西亚拉健康"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "World Cup player Elye Wahi arrested for alleged fixing offences on eve of tournament - The Athletic - The New York Times",
+        "Germany vs. Ivory Coast in a battle of undefeateds, shop tickets now - USA Today",
+        "Ivory Coast's Elye Wahi arrested for Ligue 1 spot-fixing - ESPN",
+        "Germany vs. Ivory Coast preview: Team news and predicted lineups – World Cup 2026 - Bulinews"
+      ]
     },
     {
       "matchNo": 48,
@@ -2014,7 +2228,7 @@
       "kickoffET": "2026-06-23T22:00:00-04:00",
       "venue": "阿克隆球场",
       "city": "瓜达拉哈拉",
-      "upsetProbability": 18,
+      "upsetProbability": 30,
       "upsetTeam": "刚果民主共和国",
       "favoriteTeam": "哥伦比亚",
       "upsetWinOdds": 6.5,
@@ -2033,25 +2247,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "哥伦比亚": 65,
-          "draw": 22,
-          "刚果民主共和国": 13
+          "哥伦比亚": 58,
+          "draw": 26,
+          "刚果民主共和国": 16
         },
-        "tacticalAnalysis": "哥伦比亚洛伦索4-2-3-1体系依赖J罗中场组织与迪亚斯边路冲击，但3月连负克罗地亚、法国暴露防守转换慢与边路保护不足。刚果(金)德萨布雷3-5-2深蹲防反，维萨伤愈回归强化中场拦截，翼卫压上配合巴坎布反击是主要威胁。战术相克点：哥伦比亚控球优势vs刚果(金)防守纪律，关键在哥伦比亚能否快速破密集防守并控制反击空间。",
-        "physicalAnalysis": "哥伦比亚速度优势明显（迪亚斯、L·苏亚雷斯），技术流畅但对抗略逊；刚果(金)身体对抗强悍（姆本巴、维萨），耐力充沛适合长时间低位防守。高温下哥伦比亚体能消耗更大，刚果(金)反击爆发力可持续至终场。",
-        "formAnalysis": "哥伦比亚近期波动大，3月连负欧洲强队后热身赛找回状态但对手质量一般；刚果(金)时隔52年重返世界杯士气高昂，非洲杯表现稳健展现韧性。哥伦比亚压力更大需抢分，刚果(金)背水一战心态更放松。",
-        "injuryImpact": "双方无核心伤病是利好。哥伦比亚阵容齐整确保最强阵容出战，J罗+迪亚斯组合火力全开；刚果(金)维萨伤愈回归大幅提升中场硬度与反击串联能力，防守体系完整性增强，降低被打穿风险。",
-        "h2hAnalysis": "双方历史交锋极少，无直接参考价值。需依赖风格类比：刚果(金)防反体系类似非洲球队对南美技术流的历史抗衡案例，但哥伦比亚个人能力差距仍显著。",
-        "psychologyAnalysis": "哥伦比亚大赛经验丰富但背负出线压力，急于证明实力易心态失衡；刚果(金)首次亮相世界杯无包袱，'六分之战'定位反而激发斗志。心理天平略向刚果(金)倾斜，但经验差距仍是哥伦比亚优势。",
-        "oddsAnalysis": "bet365赔率1.48/3.9/6.5去水位后隐含概率：哥伦比亚约62%、平局23%、刚果(金)15%。市场资金明显倾向哥伦比亚，但平局赔率3.9与客胜6.5留出较大空间，反映机构对刚果(金)防守韧性与反击威胁的尊重。赔率结构暗示低比分或僵持可能性。",
-        "externalFactors": "瓜达拉哈拉Akron球场海拔约1500米，气候温暖干燥，对双方体能均有消耗但影响相近。中立场地无主场优势，赛程方面双方准备时间充足无旅行疲劳。地理因素中性，不构成显著倾斜。",
-        "consensusView": "全网专家共识：这是真正的'六分之战'，哥伦比亚个人天赋与技战术成熟度占优，但刚果(金)防反体系与身体对抗有竞争实力。RotoWire强调刚果(金)并非鱼腩，PrizePicks认为哥伦比亚需把握机会避免僵持。主流预期哥伦比亚小胜或艰难取胜，但不排除平局甚至冷门。",
-        "upsetProbability": 18,
+        "tacticalAnalysis": "哥伦比亚4-2-3-1控球主导，J罗居核串联，迪亚斯左路高速冲击边后卫；双后腰莱尔马护卫弥补防线隐患。刚果(金)3-5-2深蹲防反，五后卫密集禁区，维萨、巴坎布双前锋伺机偷袭转换，意图压缩哥伦比亚进攻空间打反击。",
+        "physicalAnalysis": "刚果(金)身体对抗与冲刺爆发力占优，中卫姆本巴制空强；哥伦比亚整体灵巧细腻、技术与跑动协调性更好。墨西哥湿热夜场利于体能充沛的非洲球队消耗对手。",
+        "formAnalysis": "哥伦比亚首战2球胜乌兹别克斯坦，迪亚斯灵感四射，士气高涨。刚果(金)逼平葡萄牙，防反成型信心大增，时隔52年回归求生欲极强，状态值得警惕。",
+        "injuryImpact": "双方均无重大伤病。哥伦比亚阵容齐整无停赛；刚果(金)维萨伤愈回归并在对葡战展现威胁，反击端获得提升，整体可用度高，伤病因素对走势影响有限。",
+        "h2hAnalysis": "双方历史交锋极少，缺乏稳定参考样本，洲际风格差异大，结果更取决于临场状态与战术执行。",
+        "oddsAnalysis": "bet365主胜1.48、平3.9、客6.5。去水位后哥伦比亚约63%、平24%、刚果(金)13%。赔率明显倾向哥伦比亚但客胜6.5并非极端冷门价，市场承认刚果防反偷分概率，资金未一边倒，存在让球盘下盘风险。",
+        "externalFactors": "瓜达拉哈拉阿克隆球场海拔约1500米，夜场湿热。中立场地南美球迷或更多，气候与海拔轻微利好双方适应能力，对体能消耗均构成考验。",
+        "psychologyAnalysis": "哥伦比亚南美劲旅大赛经验丰富、心理稳定。刚果(金)初登世界杯但逼平葡萄牙后无包袱、敢拼无畏，下半场防守专注度是关键变量。",
+        "consensusView": "全网普遍看好哥伦比亚凭技术与边路速度掌控比赛取胜，但多数分析提醒刚果(金)防反成熟、对葡萄牙表现亮眼，破密集防守需耐心，进球数与净胜球存在不确定性。",
+        "latestNewsSummary": "哥伦比亚2球完胜乌兹别克斯坦，迪亚斯成胜负手；刚果(金)逼平葡萄牙展现防反韧性；K组首轮哥伦比亚领跑，刚果(金)抢分能力获认可。",
+        "upsetProbability": 30,
         "upsetTeam": "刚果民主共和国",
         "favoriteTeam": "哥伦比亚",
         "upsetWinOdds": 6.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "综合研判：哥伦比亚个人能力与控球优势明显，但防守转换漏洞+刚果(金)防反威胁使比赛存在变数。赔率结构与专家共识均指向低比分胶着战，哥伦比亚大概率小胜（1-0/2-1）但需警惕被逼平甚至反击偷鸡。爆冷概率约18%，风险等级中等。最可能比分：哥伦比亚1-0或2-1，次选0-0平局。"
+        "objectiveConclusion": "哥伦比亚技术、边路与组织全面占优，理应掌控主动并取胜，但刚果(金)逼平葡萄牙证明其防反与韧性不容小觑，且哥伦比亚3月暴露防守隐患。预计哥伦比亚小胜，比分区间1-0、2-0、2-1，平局或刚果偷分概率不可忽视。"
       },
       "insights": {
         "injuries": "哥伦比亚无伤病阵容齐整；刚果(金)无伤病，维萨伤愈回归",
@@ -2064,7 +2279,14 @@
         ],
         "keyPlayers": "哥伦比亚:J罗、迪亚斯、L·苏亚雷斯、莱尔马；刚果(金):维萨、巴坎布、姆本巴",
         "xfactor": "瓜达拉哈拉Akron球场；哥伦比亚防守转换漏洞；刚果(金)反击威胁"
-      }
+      },
+      "latestNews": [
+        "Portugal vs DR Congo Highlights | 2026 FIFA World Cup™ - FOX Sports",
+        "Returning Colombia beats World Cup debutant Uzbekistan, Ghana downs Panama on late goal, England defeats Croatia, Portugal and DR Congo draw - NBC News",
+        "World Cup 2026 scores, live updates: Colombia, England nab 2-goal wins; Ghana ekes out thriller; Congo, Portugal tie - Yahoo Sports",
+        "How Luis Diaz inspired Colombia as they beat gallant Uzbekistan at the 2026 World Cup - The New York Times",
+        "Group K at the 2026 World Cup: Teams, records, stats to know - ESPN"
+      ]
     },
     {
       "matchNo": 53,
@@ -2077,7 +2299,7 @@
       "kickoffET": "2026-06-24T21:00:00-04:00",
       "venue": "阿兹特克球场",
       "city": "墨西哥城",
-      "upsetProbability": 32,
+      "upsetProbability": 21,
       "upsetTeam": "捷克",
       "favoriteTeam": "墨西哥",
       "upsetWinOdds": 4.5,
@@ -2096,25 +2318,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "捷克": 19,
-          "draw": 27,
+          "捷克": 20,
+          "draw": 26,
           "墨西哥": 54
         },
-        "tacticalAnalysis": "墨西哥阿吉雷4-2-3-1高位逼抢与快速转换，控球与边路推进占优；捷克3-4-2-1务实防守、退守密集并依赖定位球与反击。捷克五后卫体系利于压缩空间消耗墨西哥阵地进攻，但阿尔瓦雷斯缺阵削弱中场拦截，墨西哥转换速度对捷克三中卫回追是主要威胁点。",
-        "physicalAnalysis": "墨西哥整体速度与高位逼抢强度更高，主场适应高海拔耐力占优；捷克身材高大、对抗与争顶强，定位球身体优势明显，但持续奔跑与高强度逼抢的耐力面对海拔环境处于劣势。",
-        "formAnalysis": "墨西哥近5场不败，状态与士气稳定；捷克两次点球大战晋级显韧性强但运动战胜势不足，晋级过程消耗较大，运气成分偏高，正常时间内取胜能力存疑。",
-        "injuryImpact": "墨西哥后腰阿尔瓦雷斯、右后卫韦斯卡斯体能伤情存疑，影响中场屏障与右路防守稳定，是其主要变数；捷克无重要伤停，阵容完整为务实防反提供保障。",
-        "h2hAnalysis": "无重要可查交锋数据，历史维度参考价值极低，应以当下状态、阵容与战术相克为主要研判依据。",
-        "oddsAnalysis": "bet365墨西哥1.8、平3.5、捷克4.5，去水位后公平概率约墨西哥53%、平27%、捷克19%。资金明显倾向主队，市场定价墨西哥为强势热门，但平局赔率不算高反映冷门留有空间，非一边倒格局。",
-        "externalFactors": "阿兹特克球场高海拔与主场敌意氛围对墨西哥有利，捷克跨大陆旅行与海拔适应不足；环境与赛程因素整体增强墨西哥优势。",
-        "psychologyAnalysis": "墨西哥承担主场出线压力可能形成心理负担；捷克自2006首次晋级、心态较放松，大赛经验与点球韧性具备，无包袱反成潜在心理优势。",
-        "consensusView": "全网共识看好墨西哥，主场、阵容质量与状态占优，FWC预测2-0。多数认为捷克防守纪律强但阵地战创造力不足，难以正常时间取胜。共识倾向墨西哥小胜或控制局面，但承认其逼抢若被反制存在被定位球或反击偷袭的隐患。",
-        "upsetProbability": 32,
+        "tacticalAnalysis": "墨西哥4-2-3-1高位逼抢+快速转换，借主场与海拔加压；捷克3-4-2-1五后卫务实退防，靠索切克扫荡与定位球反制。捷克密集中路或限制墨西哥渗透，但双后腰被逼抢时出球易失误，墨西哥边路与希门尼斯插上是突破口。",
+        "physicalAnalysis": "墨西哥球员久居高原，有氧与恢复占优；捷克身材高大、对抗与争顶强，定位球具威胁，但2240米海拔将放大其体能消耗，下半场易掉速。",
+        "formAnalysis": "墨西哥近5场不败、士气高且坐镇主场；捷克两度点球大战险胜晋级显韧性但暴露常规时间乏力，自2006首进此阶段，状态偏被动消耗型。",
+        "injuryImpact": "墨西哥后腰阿尔瓦雷斯、右后卫韦斯卡斯有体能/伤情顾虑，中场屏障与右路防守或受影响；捷克无重要伤情，阵容完整。最新新闻未提进一步伤情更新。",
+        "h2hAnalysis": "双方无重要可查近期交锋数据，参考价值有限，难以据此修正基本面判断。",
+        "oddsAnalysis": "bet365主胜4.5/平3.5/客1.8，隐含墨西哥约55.6%、平28.6%、捷克22.2%，去水位后约墨西哥52%、平27%、捷克21%。资金明显倾向墨西哥，符合主场+海拔+实力差，平局赔率不高显示市场不排除务实闷战。",
+        "externalFactors": "阿兹特克球场海拔约2240米、闷热湿度高，主场氛围炽烈，对久居高原的墨西哥极有利，对欧洲球队捷克构成显著适应障碍。",
+        "psychologyAnalysis": "墨西哥背负东道主夺分压力但经验丰富；捷克点球晋级凸显抗压心态，无包袱反客为主，敢于摆大巴打反击与定位球偷分。",
+        "consensusView": "全网共识倾向墨西哥凭主场、海拔与实力小胜，但留意其后腰伤情与高位逼抢被反制风险；捷克防反+定位球被视为爆冷或逼平主要路径，多数预测墨西哥1球小胜。",
+        "latestNewsSummary": "新闻多聚焦本组及球队其它对阵(墨西哥对南非/韩国、捷克对韩国/南非)，未提供本场直接伤情或阵容更新，需以既有情报为主，新增信息有限。",
+        "upsetProbability": 21,
         "upsetTeam": "捷克",
         "favoriteTeam": "墨西哥",
         "upsetWinOdds": 4.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "墨西哥综合占优，主场、状态与阵容质量构成多重优势，最可能掌控比赛。但捷克防守纪律与定位球威胁、加上墨西哥关键防守球员伤情，留有冷门空间。最可能结果为墨西哥小胜，比分区间1-0至2-1；若被拖入相持，平局或捷克偷袭得手不可忽视。"
+        "objectiveConclusion": "墨西哥综合占优，主场+海拔+状态形成多重利好，应为本场热门，最可能1-0或2-1小胜，比分区间墨西哥赢半球至一球。支持爆冷的理由是其后腰伤情、捷克防反与定位球及大赛抗压；反对爆冷的是海拔消耗与实力差。建议视为墨西哥中等偏强、捷克偷分可期的低中风险局。"
       },
       "insights": {
         "injuries": "墨西哥后腰阿尔瓦雷斯、右后卫韦斯卡斯有体能/伤情顾虑；捷克无重要伤情",
@@ -2127,7 +2350,14 @@
         ],
         "keyPlayers": "墨西哥:阿尔瓦雷斯、希门尼斯；捷克:索切克、希克",
         "xfactor": "阿兹特克球场高海拔+主场敌意氛围，墨西哥熟悉条件占优"
-      }
+      },
+      "latestNews": [
+        "South Africa play Czechia, seek first World Cup win after Mexico defeat - Al Jazeera",
+        "2026 World Cup Matchday 8 Predictions Including Mexico vs South Korea - Last Word On Sports",
+        "Mexico, South Korea, Canada Back in World Cup Action: What To Know For Match Day 8 - FOX Sports",
+        "Limited last minute World Cup tickets for Mexico vs. South Korea are still available - USA Today",
+        "World Cup 2026 kicks off with Mexico vs South Africa and South Korea vs Czechia - Fox News"
+      ]
     },
     {
       "matchNo": 17,
@@ -2288,7 +2518,7 @@
       "kickoffET": "2026-06-18T18:00:00-04:00",
       "venue": "BC体育场",
       "city": "温哥华",
-      "upsetProbability": 10,
+      "upsetProbability": 22,
       "upsetTeam": "卡塔尔",
       "favoriteTeam": "加拿大",
       "upsetWinOdds": 10,
@@ -2312,25 +2542,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "加拿大": 73,
-          "draw": 17,
+          "加拿大": 72,
+          "draw": 18,
           "卡塔尔": 10
         },
-        "tacticalAnalysis": "加拿大4-3-3体系依赖戴维斯左路高速突击和乔纳森·戴维德中路支点，配合约翰斯顿快速转换。卡塔尔洛佩特吉执教下采用紧凑防守反击，依靠阿菲夫组织和海多斯定位球威胁。加拿大主场速度优势明显，卡塔尔需依靠整体纪律限制边路突破，但面对戴维斯级别的冲击力，右路防守存在较大隐患。",
-        "physicalAnalysis": "加拿大在速度和对抗上全面占优，戴维斯、戴维德、约翰斯顿均具备欧洲顶级联赛身体素质。卡塔尔球员多在本土联赛，整体爆发力和持续对抗能力存在差距，耐力方面需应对温哥华主场高强度压迫。",
-        "formAnalysis": "加拿大首战1-0取胜且核心球员伤愈复出，士气正盛。卡塔尔虽由洛佩特吉执教带来战术改善，但作为东道主卫冕冠军征战北美赛区压力巨大，首战表现需观察。主场氛围将显著提升加拿大信心。",
-        "injuryImpact": "加拿大无重大伤病且戴维斯、约翰斯顿复出是重大利好，阵容完整度达到最佳状态。卡塔尔无停赛问题但整体阵容深度有限，一旦比赛陷入高强度对抗，替补厚度不足可能成为劣势。",
-        "h2hAnalysis": "双方历史交锋记录有限，但FIFA排名差距(26 vs 37)和联赛水平差异具有参考价值。加拿大近年北美赛区成绩稳定，卡塔尔依赖亚洲杯经验但跨洲际对抗纪录平平。",
-        "oddsAnalysis": "bet365和williamhill主胜赔率1.27-1.3，去水位后加拿大胜率约72-75%，平局17-18%，卡塔尔胜8-10%。赔率差异不大显示市场共识明确。卡塔尔客胜赔10-12.1意味着市场认为爆冷概率极低，资金集中流向主胜。",
-        "externalFactors": "温哥华BC体育场是加拿大主场，海拔接近海平面气候温和，无地理劣势。主场氛围和零时差优势明显。卡塔尔面临跨大陆旅行和时差调整，且作为客队难获球迷支持，心理和环境压力较大。",
-        "psychologyAnalysis": "加拿大首次世界杯正赛渴望突破，主场作战压力转化为动力。卡塔尔作为上届东道主卫冕冠军背负期待，但在北美客场面对强队，心理和经验劣势明显，出线压力可能导致保守策略。",
-        "consensusView": "全网专家高度一致看好加拿大：Yahoo强调无伤病和戴维德核心作用，RotoWire指出相比3月友谊赛阵容完整度大幅提升，Liverpool Offside预测主场三连战开局有望拿下首胜。市场和专家均认为加拿大实力、状态、主场优势压倒性占优。",
-        "upsetProbability": 10,
+        "tacticalAnalysis": "加拿大4-3-3高位压迫加快速反击，戴维斯左路突击与戴维德、拉林前场联动制造纵深；卡塔尔洛佩特吉打造紧凑低位防守，依赖阿菲夫与阿里反击。加拿大边路速度对卡塔尔防线压力极大，但若急躁可能被反击偷袭，卡塔尔需控节奏。",
+        "physicalAnalysis": "加拿大球员普遍效力欧洲五大联赛，身体对抗、速度与冲刺能力占优；卡塔尔技术细腻但体格与覆盖范围偏弱，高强度逼抢下易体能透支。",
+        "formAnalysis": "加拿大首战1-0拉林破门取胜，主场气势正盛，戴维斯、约翰斯顿伤愈复出增强阵容厚度；卡塔尔需背水一战。新闻聚焦观赛指南与门票降价，未现负面消息。",
+        "injuryImpact": "加拿大无重大伤病，核心戴维斯、约翰斯顿均可出战，阵容齐整；卡塔尔无停赛但缺乏伤愈利好。ESPN预测阵容显示双方主力可用，加拿大整体可用性更高。",
+        "h2hAnalysis": "两队交锋样本极少，纸面实力加拿大FIFA第26明显高于卡塔尔第37，无历史包袱压制。",
+        "oddsAnalysis": "bet365加拿大1.27/平5.4/客10，威廉希尔1.3/5.73/12.1，赔率高度一致且加拿大深度受捧。去水位后加拿大胜约74%、平约16%、卡塔尔约8%，资金一边倒押主胜，市场无明显异动支持爆冷。",
+        "externalFactors": "温哥华BC体育场为加拿大主场，球迷支持与熟悉环境加分；六月气候温和，室内/封顶场馆条件稳定，对卡塔尔无气候补偿。",
+        "psychologyAnalysis": "加拿大首战告捷信心充足，主场作战心理优势明显；卡塔尔虽有亚洲杯夺冠经验与抗压能力，但客场逆境与实力差距构成心理压力。",
+        "consensusView": "全网共识加拿大大概率取胜，Opta与ESPN预测均偏向主队。多数观点认为速度与深度差距决定走势，卡塔尔需依赖密集防守与阿菲夫闪光才能抢分，整体看好加拿大掌控。",
+        "latestNewsSummary": "新闻以观赛方式、转播渠道、门票降价及Opta赛前预测为主，无双方重大伤停或突发变故，基本面支持加拿大主场优势延续。",
+        "upsetProbability": 22,
         "upsetTeam": "卡塔尔",
         "favoriteTeam": "加拿大",
         "upsetWinOdds": 10,
         "riskLevel": "low",
-        "objectiveConclusion": "综合赔率、实力差距、主场优势和伤病状况，加拿大取胜概率73%左右，最可能比分1-0或2-0。卡塔尔爆冷概率仅10%，需依赖加拿大失误和阿菲夫超常发挥。平局概率17%存在于加拿大保守开局或卡塔尔死守战术成功。客观判断：加拿大小胜是最合理预期。"
+        "objectiveConclusion": "加拿大主场实力、状态与阵容深度全面占优，胜算约七成，最可能比分1-0、2-0或2-1。支持爆冷的论据是卡塔尔防反纪律与阿菲夫个人能力，加拿大若轻敌或久攻不下可能被偷袭逼平，但概率有限。综合看好加拿大小胜或稳胜。"
       },
       "insights": {
         "injuries": "加拿大无重大伤病，戴维斯、约翰斯顿伤愈复出；卡塔尔无停赛",
@@ -2344,7 +2575,14 @@
         ],
         "keyPlayers": "加拿大:戴维斯、乔纳森·戴维德、拉林；卡塔尔:阿菲夫、阿里、海多斯",
         "xfactor": "加拿大主场氛围；戴维斯VS卡塔尔右路防守对位"
-      }
+      },
+      "latestNews": [
+        "World Cup 2026 schedule: Here's where to watch every match for free - Yahoo Sports",
+        "Canada vs Qatar at FIFA World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "Canada vs Qatar Prediction: World Cup 2026 Match Preview - Opta Analyst",
+        "Last minute Canada vs. Qatar World Cup ticket prices are decreasing, shop tickets now - USA Today",
+        "World Cup 2026: Full match schedule, groups, teams and start times - Al Jazeera"
+      ]
     },
     {
       "matchNo": 37,
@@ -2357,10 +2595,10 @@
       "kickoffET": "2026-06-21T18:00:00-04:00",
       "venue": "硬石体育场",
       "city": "迈阿密",
-      "upsetProbability": 28,
+      "upsetProbability": 34,
       "upsetTeam": "佛得角",
       "favoriteTeam": "乌拉圭",
-      "upsetWinOdds": 5.5,
+      "upsetWinOdds": 7.36,
       "marketImplied": "受逼平西班牙影响，市场对佛得角防守有预期，隐含胜率约15%，平局成热门选项。",
       "tacticalReason": "乌拉圭擅长硬朗防反，面对同样回收的佛得角需主动组织，这恰是其短板，易陷入阵地战泥潭。",
       "physicalComparison": "乌拉圭身体硬朗但阵容老化，佛得角具备非洲球队强悍体格与跑动，对抗不落下风。",
@@ -2390,21 +2628,22 @@
           "draw": 21,
           "佛得角": 11
         },
-        "tacticalAnalysis": "比尔萨高压人盯人意在压缩佛得角出球空间，但深位4-2-3-1防反正是高压体系的天然克星：一旦中场被反越，门德斯的速度可直插身后。乌拉圭控球与组织占优，破密集防守的耐心与定位球将是关键，体能透支后的失位是主要隐患。",
-        "physicalAnalysis": "乌拉圭对抗与中场硬度占优，巴尔韦德覆盖范围出众；佛得角胜在前场速度与冲击力。高温下耐力成胜负手，乌拉圭高压打法续航存疑。",
-        "formAnalysis": "乌拉圭近5场1胜3平1负进入低谷，叠加更衣室摩擦传闻士气存疑；佛得角预选赛5胜1平势头正盛，首秀心态轻松无包袱。",
-        "injuryImpact": "乌拉圭失阿劳霍削弱后防硬度，德阿拉斯卡埃塔缺阵损失前场创造力，对破密防影响实质偏大；佛得角阵容齐整，备战完整占心理便宜。",
-        "h2hAnalysis": "两队此前无重要交锋，无历史数据可循，参考价值极低，需完全依赖当前实力与状态研判。",
-        "oddsAnalysis": "三平台主胜分歧明显：bet365与威廉希尔报1.17，pinnacle达1.44，后者更贴近真实。以pinnacle去水位计算，乌拉圭公平胜率约65-68%，平15-21%，佛得角11-14%。低水盘口暗示资金高度看好乌拉圭，但pinnacle相对保守值得警惕。",
-        "externalFactors": "迈阿密高温高湿对乌拉圭高强度打法不利，利于佛得角防反消耗；两队均无地理主场，中立场地旅行因素大体对等。",
-        "psychologyAnalysis": "乌拉圭背负夺冠级期待与出线压力，状态低迷下易急躁；佛得角作为黑马首秀无心理负担，光脚不怕穿鞋，敢打敢拼。",
-        "consensusView": "全网专家共识倾向乌拉圭出线，TotalFootballAnalysis视其为最理性之选，看重经验与组织。但RotoWire与Yahoo均提示风险：内部摩擦、伤病及佛得角亮眼预选赛数据，主流观点是乌拉圭胜面大但绝非稳赢。",
-        "upsetProbability": 28,
+        "tacticalAnalysis": "比尔萨高压人盯人意图压缩佛得角出球空间，但前场逼抢留出身后空间。佛得角深位4-2-3-1密集防守反击，门德斯、科斯塔速度可打转换。乌拉圭控球占优，破密集防守需边路传中与努涅斯支点；佛得角能否守住定位球与反击效率是关键。",
+        "physicalAnalysis": "乌拉圭整体身体对抗与制空更强，中后场身材占优。佛得角球员速度爆发力出色，适合反击，但持续高强度对抗下体能与板凳深度处于下风。",
+        "formAnalysis": "乌拉圭近5场1胜3平1负，进攻效率存疑、士气一般。佛得角预选赛5胜1平、世界杯首秀气势正盛。新闻聚焦门将瓦齐尼亚母亲获签证观赛，士气与凝聚力获正面渲染。",
+        "injuryImpact": "乌拉圭失阿劳霍(后防核心)与德阿拉斯卡埃塔(中前场组织)，防线与创造力受损不小。佛得角阵容齐整无缺阵，门将状态稳定，整体可用度优于对手。",
+        "h2hAnalysis": "两队此前无重要正式交锋，缺乏直接历史参照，心理与战术上互为陌生对手。",
+        "oddsAnalysis": "三家主胜差异大:bet365/威廉希尔1.17显示乌拉圭强势，pinnacle1.44更谨慎。以pinnacle去水位计算，乌拉圭约62-65%、平约22%、佛得角约13%。bet365客胜5与威廉希尔4.5存差异，暗示部分资金流向爆冷端，需警惕。",
+        "externalFactors": "迈阿密硬石体育场6月高温高湿，利于体能充沛的乌拉圭但也消耗双方。现场南美球迷众多，乌拉圭享准主场氛围，地理与气候整体偏中性略利强队。",
+        "psychologyAnalysis": "乌拉圭大赛经验深厚、抗压力强，但平庸状态下易背包袱。佛得角无包袱、敢冲敢拼，首秀心理放松，反而可能踢出超水平表现。",
+        "consensusView": "全网共识乌拉圭为明显热门，应掌控比赛并取胜，但因伤病与状态平平，难现大比分碾压。佛得角具一定爆冷与逼平潜质，多数预测乌拉圭小胜或一球制胜，零封并非定局。",
+        "latestNewsSummary": "H组成为焦点，乌拉圭被列入聚光灯名单。佛得角门将家属获签证观赛提振士气。当日多场出现冷门平局(伊朗平新西兰)，赛会爆冷氛围升温。",
+        "upsetProbability": 34,
         "upsetTeam": "佛得角",
         "favoriteTeam": "乌拉圭",
-        "upsetWinOdds": 5.5,
+        "upsetWinOdds": 7.36,
         "riskLevel": "medium",
-        "objectiveConclusion": "乌拉圭实力、经验与盘口均占优，胜算明显，最可能2-0或2-1取胜。但伤病削弱进攻、状态低迷、高温克制高压及佛得角防反速度，构成实质爆冷土壤。佛得角难胜但有逼平之力，0-0或1-1平局不容忽视。综合研判乌拉圭小胜概率最高，比分区间集中在1-0至2-1。"
+        "objectiveConclusion": "乌拉圭综合实力、经验与准主场占优，应为胜方，但失两主力且状态平平，难大胜。佛得角防反与士气具威胁，逼平或丢一球可能性真实存在。最可能比分1-0、2-1或2-0；平局1-1为合理冷门，佛得角爆冷取胜概率偏低但不可忽视。"
       },
       "insights": {
         "injuries": "乌拉圭失阿劳霍(肌肉伤)、德阿拉斯卡埃塔(锁骨骨折)；佛得角无缺阵",
@@ -2418,7 +2657,14 @@
         ],
         "keyPlayers": "乌拉圭:巴尔韦德、努涅斯；佛得角:瑞安·门德斯、洛根·科斯塔",
         "xfactor": "迈阿密高温；比尔萨高强度打法体能消耗大"
-      }
+      },
+      "latestNews": [
+        "Cape Verde goalkeeper Vozinha’s mother gets visa to attend World Cup - Al Jazeera",
+        "Group H at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "Best World Cup photos from Day 5 - Reuters",
+        "Iran ties with New Zealand after U.S. peace deal in a day of surprise World Cup draws - NBC News",
+        "World Cup Match Day 5: Spain, Uruguay, Belgium, Egypt Ready For Spotlight - FOX Sports"
+      ]
     },
     {
       "matchNo": 39,
@@ -2431,16 +2677,16 @@
       "kickoffET": "2026-06-21T15:00:00-04:00",
       "venue": "SoFi体育场",
       "city": "洛杉矶",
-      "upsetProbability": 12,
+      "upsetProbability": 32,
       "upsetTeam": "伊朗",
       "favoriteTeam": "比利时",
-      "upsetWinOdds": 6.3,
+      "upsetWinOdds": 5.5,
       "marketImplied": "市场隐含伊朗取胜概率约18%，比利时胜率约55%，让步力度有限",
       "tacticalReason": "伊朗擅长低位密集防守与快速反击，比利时阵地战攻坚下滑且防线老化，易被抓身后空当。",
       "physicalComparison": "比利时高大但转身速率偏慢；伊朗具备亚洲顶级的身体对抗与体能，不惧硬碰硬。",
       "keyReason": "比利时阵容老化，洛杉矶中午开球体能受限，易被防反偷袭。",
       "detailedAnalysis": "比利时黄金一代老去，统治力大幅下降。伊朗具备极强的战术纪律与硬朗防守。洛杉矶当地中午12点开球对老化的比利时体能是巨大考验。参考西班牙被逼平的先例，若伊朗死守半场并利用定位球或反击偷袭，完全有机会爆冷取胜。",
-      "riskLevel": "low",
+      "riskLevel": "medium",
       "realOdds": {
         "bet365": {
           "比利时": 1.14,
@@ -2460,25 +2706,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "比利时": 72,
-          "draw": 18,
+          "比利时": 68,
+          "draw": 22,
           "伊朗": 10
         },
-        "tacticalAnalysis": "比利时4-2-3-1控球体系，德布劳内组织边路超载，卢卡库多库双点攻击。伊朗低位5-4-1密集防守，塔雷米单箭头反击。战术相克：比利时需破密集防线，伊朗依赖定位球+快反偷分。比利时阵地战优势明显，但伊朗防守纪律可压制进球数。",
-        "physicalAnalysis": "比利时速度与对抗全面占优，多库边路冲击力强，卢卡库支点作用明显。伊朗整体对抗偏弱但耐力出色，塔雷米单兵作战能力强。体能层面比利时轮换深度更好，伊朗后防线持续高压下易疲劳失位。",
-        "formAnalysis": "比利时热身连胜士气高涨，但首轮1-1平埃及暴露破密集防守效率问题。伊朗近期进球乏力，2-2平新西兰显示攻击端缺少阿兹蒙后创造力不足。状态对比比利时稳定性更强，伊朗防守端信心足但进攻端存疑。",
-        "injuryImpact": "伊朗失去头号射手阿兹蒙影响巨大，塔雷米孤掌难鸣，锋线深度严重不足，反击终结能力下降。比利时无重大伤病，主力框架完整，阵容厚度优势明显。伤病因素明显向比利时倾斜，伊朗进攻选择受限。",
-        "h2hAnalysis": "两队近代无有效交锋记录，历史数据参考价值极低。仅能从世界杯历史看，比利时近年稳定跻身四强八强，伊朗多次小组赛出局，大赛经验差距明显。",
-        "oddsAnalysis": "三家平台赔率一致看好比利时，bet365和williamhill比利时胜赔1.12-1.14，去水后隐含概率约75-78%，pinnacle稍保守1.36对应65%。市场资金高度集中比利时，伊朗胜赔5.5-7.89反映市场认为爆冷概率低于15%。平局赔率4.5-4.75显示庄家预期比利时小胜可能性存在。",
-        "externalFactors": "洛杉矶SoFi球场为封闭式现代场馆，气候因素中性。无明显主场优势，双方旅行疲劳程度相当。比利时首轮平局后出线压力适中，伊朗需抢分但实力差距客观存在，地理气候无显著影响。",
-        "psychologyAnalysis": "比利时黄金一代末期心态成熟，大赛经验丰富但存在必胜压力。伊朗作为弱旅心理包袱轻，防守反击战术无压力执行。比利时需警惕轻敌，伊朗若早失球易心态崩溃。心理层面比利时压力稍大但经验占优。",
-        "consensusView": "全网专家普遍看好比利时胜出，RotoBot AI给出68%胜率符合市场共识。关键分歧在进球数：StatFooty强调战术对立可能导致小比分，RotoWire质疑伊朗失阿兹蒙后进攻深度。共识为比利时控场优势明显，但能否大胜取决于破密集防守效率。",
-        "upsetProbability": 12,
+        "tacticalAnalysis": "比利时4-2-3-1控球压上，德布劳内组织、多库边路爆点制造超载，边后卫高位助攻。伊朗主动让出控球，五后卫低位密集封堵肋部与禁区，依靠塔雷米支点与快速反击。比利时控球转化率与定位球是破局关键，伊朗反击效率决定能否偷分。",
+        "physicalAnalysis": "比利时整体身材高大、对抗与制空占优，中前场速度充沛。伊朗体能耐战、防守拼抢凶悍，但缺乏顶级冲击速度，密集防守消耗大，下半场体能掉档时易被打穿。",
+        "formAnalysis": "比利时热身5-0突尼斯、2-0克罗地亚状态火热，但首轮1-1平埃及暴露效率问题；Reuters报道加西亚强调必须取胜。伊朗近期进球乏力，2-2平新西兰防守稳定性存疑，士气一般。",
+        "injuryImpact": "伊朗锋线核心阿兹蒙因伤及政治原因落选大名单，进攻几乎全押塔雷米一人，火力点单一、反击支援不足。比利时无重大伤停，主力阵容完整，深度与轮换优势明显。",
+        "h2hAnalysis": "两队近代几乎无有效正式交锋，缺乏直接参照，需以实力梯队与战术风格差异作为判断主依据。",
+        "oddsAnalysis": "主胜赔率1.12-1.36显示比利时被强烈看好，pinnacle客胜7.89偏高且主胜1.36略松，提示对平局存一定预留。去水位后公平概率约比利时66-70%、平20-23%、伊朗9-11%，资金面整体压向主胜，无明显爆冷异动。",
+        "externalFactors": "中立场地SoFi体育场，洛杉矶6月气候偏暖。两队均非主场，但比利时球迷与中立观众更倾向支持，场地适应差异有限，对密集防守一方影响不大。",
+        "psychologyAnalysis": "比利时大赛经验丰富但首轮被逼平后背负必胜压力，急躁可能影响节奏。伊朗惯打逆境弱旅角色，心理负担小、防守纪律性强，具备打乱强队耐心的韧性。",
+        "consensusView": "全网共识高度看好比利时取胜并掌控比赛，CBS等多家预测倾向主胜。普遍认为伊朗会摆大巴争平或求一球小负，关注比利时能否在密集防守下保证效率，平局被视为最现实的冷门方向。",
+        "latestNewsSummary": "Reuters指比利时平埃及后必须击败伊朗；ESPN梳理G组形势，比利时晋级压力增大；赛事在SoFi周日开打，洛杉矶多地设观赛安排，焦点集中于比利时进攻效率与小组出线。",
+        "upsetProbability": 32,
         "upsetTeam": "伊朗",
         "favoriteTeam": "比利时",
-        "upsetWinOdds": 6.3,
-        "riskLevel": "low",
-        "objectiveConclusion": "综合赔率、阵容、战术、状态四维度，比利时胜出概率约72%，伊朗爆冷概率仅12%。最可能比分区间1-0至2-0，比利时小胜。支持爆冷论据：伊朗防守纪律+比利时首轮破密集防守效率低。反对爆冷论据：伊朗失阿兹蒙进攻乏力+比利时整体实力碾压。客观判断为比利时小胜，总进球under2.5概率较高。"
+        "upsetWinOdds": 5.5,
+        "riskLevel": "medium",
+        "objectiveConclusion": "比利时实力、深度与状态全面占优，理应控场取胜，常见比分2-0、2-1、3-0。但首轮失分带来的急躁、伊朗成熟的密集防反与塔雷米偷袭能力，使平局(1-1)成为最具威胁的冷门。建议正视比利时领先大盘，同时对久攻不下导致的平局保持警惕。"
       },
       "insights": {
         "injuries": "伊朗阿兹蒙因伤/政治原因落选大名单，锋线依赖塔雷米；比利时无重大伤情",
@@ -2492,7 +2739,14 @@
         ],
         "keyPlayers": "比利时:德布劳内、卢卡库、多库；伊朗:塔雷米、埃扎托拉希",
         "xfactor": "洛杉矶SoFi球场；伊朗能否把总进球压在2.5以下"
-      }
+      },
+      "latestNews": [
+        "When is Iran's next World Cup game? Shop Iran vs. Belgium World Cup tickets - USA Today",
+        "Belgium-Iran World Cup Match Sunday at SoFi; Pasadena Bureau Maps Transit, Lists Eight Bars for Local Viewing - Pasadena Now",
+        "Belgium must beat Iran after disappointing draw with Egypt, Garcia says - Reuters",
+        "Group G at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "2026 World Cup picks, odds, predictions: Best bets for Belgium-Egypt, Iran-New Zealand on Monday - CBS Sports"
+      ]
     },
     {
       "matchNo": 43,
@@ -2505,7 +2759,7 @@
       "kickoffET": "2026-06-22T13:00:00-04:00",
       "venue": "AT&T体育场",
       "city": "达拉斯",
-      "upsetProbability": 25,
+      "upsetProbability": 24,
       "upsetTeam": "奥地利",
       "favoriteTeam": "阿根廷",
       "upsetWinOdds": 5.5,
@@ -2524,25 +2778,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "阿根廷": 61,
-          "draw": 26,
-          "奥地利": 13
+          "阿根廷": 62,
+          "draw": 24,
+          "奥地利": 14
         },
-        "tacticalAnalysis": "阿根廷中场组织能力与锋线终结效率占优，但奥地利高位逼抢体系若执行到位可压制阿根廷后场出球。阿根廷习惯控球推进，奥地利需依赖快速反击与定位球机会。双方战术相克点在中场争夺，阿根廷若无法破解高压将陷入被动。",
-        "physicalAnalysis": "阿根廷技术型球员为主，对抗与速度略逊；奥地利体能充沛，萨比策、兰梅尔覆盖面积大，对抗强度高。31°C高温下耐力成关键，奥地利年轻化阵容体能储备或占优。",
-        "formAnalysis": "阿根廷近5场全胜士气正盛，但世界杯首战曾0-1沙特前车之鉴不容忽视。奥地利近5场4胜1平状态稳健，球队信心足，无包袱。心理层面奥地利更放松，阿根廷需警惕轻敌。",
-        "injuryImpact": "阿根廷塔利亚菲科确定缺阵削弱左路防守，梅西与尼科·帕斯伤病存疑影响首发稳定性，营地近10人带伤削弱轮换深度。奥地利全员健康，阵容完整度占优，可全力执行战术。",
-        "h2hAnalysis": "双方历史交锋稀少，缺乏直接参考价值。需依赖近期对阵相似风格球队的表现推演，历史数据无法提供可靠指引。",
-        "oddsAnalysis": "bet365阿根廷1.62对应去水后胜率约58%，平局3.8对应24%，奥地利5.5对应18%。市场整体看好阿根廷，但奥地利赔率相较FIFA排名差距未明显高估，资金未一边倒，显示机构对爆冷可能性有所防范。",
-        "externalFactors": "达拉斯31°C高温与室内空调场地对双方影响中性。中立场地无主场优势，阿根廷赛程相对宽裕，奥地利旅行疲劳影响有限。气候因素略偏向体能充沛的奥地利。",
-        "psychologyAnalysis": "阿根廷大赛经验丰富但2022世界杯首战输沙特历历在目，压力与轻敌风险并存。奥地利无历史包袱，球队年轻化敢拼敢抢，心理优势明显，出线压力反而激发斗志。",
-        "consensusView": "全网专家普遍认可阿根廷质量占优，但一致提及沙特爆冷前车之鉴与当前伤病潮风险。Bolavip强调斯卡洛尼需深度轮换应对伤病，Al Jazeera警告轻敌隐患。共识是阿根廷小胜概率最高，但奥地利具备爆冷条件。",
-        "upsetProbability": 25,
+        "tacticalAnalysis": "阿根廷依托梅西居中串联与劳塔罗、阿尔瓦雷斯双锋的高效终结，控球占优。奥地利兰梅尔、萨比策主导高位逼抢与快速转换，意在压缩阿根廷出球空间。若梅西受限于腿筋，阿根廷中场创造力下降，奥地利逼抢可制造抢断反击，构成实质相克点。",
+        "physicalAnalysis": "奥地利整体跑动覆盖与对抗强度更突出，全队健康保障了90分钟高强度逼抢。阿根廷个体爆发与技术占优，但高温下若核心带伤，体能储备成隐忧。",
+        "formAnalysis": "阿根廷近5场全胜、士气高涨，新闻提及梅西帽子戏法带动球票暴涨，气场强盛。奥地利近5场4胜1平同样稳健，状态在线，但缺乏顶级强强对话的检验。",
+        "injuryImpact": "塔利亚菲科肌伤缺阵削弱左路，梅西腿筋、尼科·帕斯膝伤需观察为最大变量；若梅西轮休或半场即下，进攻组织受损明显。奥地利全队健康占据完整度优势。",
+        "h2hAnalysis": "双方历史交锋稀少，缺乏稳定参考样本，心理压制与数据规律均不显著。",
+        "oddsAnalysis": "bet365主胜1.62、平3.8、客胜5.5。去水后公平概率约阿根廷60%、平26%、奥地利14%。主胜赔率偏低反映市场对阿根廷整体实力的强信任，资金未明显流向爆冷端，但客胜5.5仍保留一定溢价空间。",
+        "externalFactors": "达拉斯6月高温高湿，AT&T体育场虽为可控顶棚但闷热不利长时间高强度逼抢，理论上略削弱奥地利体能优势，对技术流阿根廷相对友好。",
+        "psychologyAnalysis": "阿根廷为卫冕级豪门，大赛抗压与决胜经验全面领先。奥地利缺乏深远淘汰赛履历，但无包袱、敢拼，心理上属轻装上阵的挑战者。",
+        "consensusView": "全网普遍看好阿根廷凭借实力与状态拿下三分，The Athletic等预测亦倾向阿根廷胜。共识认可奥地利的逼抢与韧性可制造麻烦，但综合实力差距与大赛经验仍指向阿根廷可控取胜。",
+        "latestNewsSummary": "新闻聚焦观赛与转播信息，强调阿根廷夺冠热度与梅西帽子戏法推高票价，侧面印证球队声势；媒体预测整体偏向阿根廷取胜。",
+        "upsetProbability": 24,
         "upsetTeam": "奥地利",
         "favoriteTeam": "阿根廷",
         "upsetWinOdds": 5.5,
         "riskLevel": "medium",
-        "objectiveConclusion": "阿根廷质量与经验占优，但伤病潮、轻敌风险、高温环境与奥地利高位逼抢形成变数。最可能结果是阿根廷小胜1-0或2-1，但奥地利1-1逼平甚至1-0爆冷取胜概率不容忽视，约25%。综合判断阿根廷61%取胜，平局26%，奥地利爆冷13%。"
+        "objectiveConclusion": "阿根廷综合实力、状态与大赛经验全面占优，胜算明显，但梅西伤情与塔利亚菲科缺阵叠加奥地利高位逼抢，使爆冷或被逼平的概率不可忽视。支持阿根廷取胜的论据更充分，但需警惕半场胶着。最可能比分2-0或2-1阿根廷，平局与奥地利偷分为次级风险。"
       },
       "insights": {
         "injuries": "阿根廷塔利亚菲科肌伤缺阵，梅西腿筋、尼科·帕斯膝伤需观察；奥地利全队健康",
@@ -2555,7 +2810,14 @@
         ],
         "keyPlayers": "阿根廷:梅西、劳塔罗、阿尔瓦雷斯、奥塔门迪；奥地利:兰梅尔、萨比策、阿拉巴、阿瑙托维奇",
         "xfactor": "达拉斯31°C高温；阿根廷伤病潮与轻敌风险"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Argentina vs. Austria: How to watch, stream World Cup Group J match - MLSsoccer.com",
+        "Listen Live to Every Argentina FIFA World Cup 2026 Match - SiriusXM",
+        "World Cup predictions: France vs Senegal, Argentina vs Algeria and rest of matchday 6 - The Athletic - The New York Times",
+        "After World Cup win and Messi hat trick, Argentina ticket prices skyrocketed - USA Today"
+      ]
     },
     {
       "matchNo": 45,
@@ -2568,7 +2830,7 @@
       "kickoffET": "2026-06-23T16:00:00-04:00",
       "venue": "吉列体育场",
       "city": "波士顿",
-      "upsetProbability": 12,
+      "upsetProbability": 15,
       "upsetTeam": "加纳",
       "favoriteTeam": "英格兰",
       "upsetWinOdds": 9,
@@ -2587,25 +2849,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "英格兰": 73,
+          "英格兰": 74,
           "draw": 18,
-          "加纳": 9
+          "加纳": 8
         },
-        "tacticalAnalysis": "英格兰图赫尔体系中场压制力强，凯恩回撤策应加贝林厄姆前插形成多点进攻，萨卡边路爆点。加纳奎罗斯主打低位防守反击，依赖塞门约速度突击，但缺乏稳定后场出球，面对英格兰高位逼抢易被压制，防线在边路与高空球处存隐患。",
-        "physicalAnalysis": "加纳球员个体速度与爆发力出色，前场冲击力强；英格兰整体对抗与高空优势明显，中场覆盖与体能储备更系统化，预选赛零失球印证防线韧性。",
-        "formAnalysis": "英格兰预选赛8战全胜进22球零失球，状态与信心俱佳；加纳3月惨败奥地利1-5、负德国后换帅，磨合不足，士气与体系稳定性存疑。",
-        "injuryImpact": "英格兰阵容齐整无重大伤病，影响微弱。加纳后卫萨利苏、吉库缺阵削弱本就薄弱的防线，库杜斯伤情存疑若缺阵则进攻创造力大减，影响显著。",
-        "h2hAnalysis": "双方历史交锋稀少，缺乏稳定样本，参考价值有限，难以据此预判走势。",
-        "oddsAnalysis": "bet365英格兰1.33/平5/加纳9，去水位后公平概率约英格兰73%、平17%、加纳9%。资金高度集中于英格兰，盘口反映实力悬殊共识，加纳赔付丰厚但属低概率博冷选项，市场无明显异动支撑爆冷。",
-        "externalFactors": "波士顿吉列体育场为中立场，6月气候温和。两队均需旅行适应，英格兰资源与后勤更充裕，环境因素对双方影响接近，无显著主场倾斜。",
-        "psychologyAnalysis": "英格兰大赛经验与球星心理素质占优，作为夺冠热门小组首战求稳。加纳出线压力大、换帅初期心态待整合，但非洲球队大赛偶有放手一搏的冲击力。",
-        "consensusView": "全网共识高度倾向英格兰：RotoWire认其原始实力一档，FOX专家预测英格兰小组第一、加纳第三。普遍认可英格兰掌控全场，但承认塞门约个人能力可制造零星威胁，主流观点不看好加纳爆冷。",
-        "upsetProbability": 12,
+        "tacticalAnalysis": "图赫尔的英格兰中前场压制力强，赖斯与贝林厄姆构筑攻防枢纽，凯恩、萨卡终结效率高。奎罗斯改造加纳为低位密集防守加塞门约速度反击，意图压缩空间偷袭。英格兰需破密集防守，加纳防线整体性与个人能力存在明显落差，相克关系上英格兰占据主导。",
+        "physicalAnalysis": "加纳球员身体对抗与爆发力出众，中前场速度占优；英格兰身材高大、对抗均衡且体能储备深厚。整体身体素质两队接近，加纳冲击力略突出。",
+        "formAnalysis": "英格兰预选赛8战全胜零失球，首战2-0胜克罗地亚延续强势。加纳赛前热身惨败，但首战末段绝杀巴拿马取胜提振士气，证明韧性，状态有回暖迹象。",
+        "injuryImpact": "加纳后卫萨利苏、吉库缺阵削弱防线稳定性，核心库杜斯股四头伤存疑影响创造力。英格兰阵容齐整无重大伤病，深度与可用性占据绝对优势。",
+        "h2hAnalysis": "双方历史交锋稀少，参考价值有限，无明显心理压制，更多取决于即时实力与状态。",
+        "oddsAnalysis": "bet365主胜1.33、平5、客9，去水位后英格兰约72%、平19%、加纳9%，与模型基本吻合。资金高度押注英格兰，平局与客胜赔率偏高反映市场强烈一边倒，缺乏爆冷资金信号。",
+        "externalFactors": "波士顿吉列体育场为中性场地，6月气候温热，英格兰阵中多名球员熟悉北美与英超高强度环境，适应性略优，主场因素中性偏弱。",
+        "psychologyAnalysis": "英格兰大赛经验丰富、抗压稳健但有时陷入保守。加纳新帅整合期短，绝杀取胜带来信心，但面对顶级强队心理上仍处下风。",
+        "consensusView": "全网一致看好英格兰胜出，视为本组实力最强者，争议集中在赢球分差而非结果。多数分析认为加纳防守隐患与个人差距难以弥补，爆冷被视为小概率事件。",
+        "latestNewsSummary": "首轮英格兰2-0胜克罗地亚，开局有争议判罚话题；加纳末段绝杀巴拿马惊险取胜；哥伦比亚胜乌兹别克，葡萄牙与刚果战平，本组格局初显。",
+        "upsetProbability": 15,
         "upsetTeam": "加纳",
         "favoriteTeam": "英格兰",
         "upsetWinOdds": 9,
         "riskLevel": "low",
-        "objectiveConclusion": "英格兰在实力、状态、阵容完整度与战术成熟度全面占优，胜算明显。加纳防线残缺加磨合不足，爆冷难度大，但塞门约反击速度可能制造个别机会。最可能英格兰中等比分取胜，比分区间2-0至3-1，加纳零封英格兰或取分概率偏低。"
+        "objectiveConclusion": "英格兰在阵容、状态、防守稳定性与整体实力全面占优，应掌控比赛节奏并取胜。加纳凭速度反击与防守韧性具备偷袭可能，但缺主力、防线短板限制上限。预计英格兰净胜1-2球，比分区间2-0、2-1或1-0，大胜空间存在但需打破密集防守。"
       },
       "insights": {
         "injuries": "英格兰阵容齐整无重大伤病；加纳库杜斯股四头肌伤存疑，后卫萨利苏、吉库缺阵",
@@ -2618,7 +2881,14 @@
         ],
         "keyPlayers": "英格兰:凯恩、贝林厄姆、萨卡、赖斯；加纳:塞门约、托马斯·帕尔特伊、阿尤",
         "xfactor": "加纳短备战周期磨合不足；库杜斯能否出战是最大变数"
-      }
+      },
+      "latestNews": [
+        "World Cup 2026 scores, live updates: Colombia, England nab 2-goal wins; Ghana ekes out thriller; Congo, Portugal tie - Yahoo Sports",
+        "Returning Colombia beats World Cup debutant Uzbekistan, Ghana downs Panama on late goal, England defeats Croatia, Portugal and DR Congo draw - NBC News",
+        "Group L at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "‘Should be banned!’ Controversy rocks England’s opener; late winner sparks epic scenes: Wrap - Fox Sports",
+        "Colombia beats Uzbekistan to wrap up first round of group games - Australian Broadcasting Corporation"
+      ]
     },
     {
       "matchNo": 46,
@@ -2631,7 +2901,7 @@
       "kickoffET": "2026-06-23T19:00:00-04:00",
       "venue": "BMO球场",
       "city": "多伦多",
-      "upsetProbability": 28,
+      "upsetProbability": 33,
       "upsetTeam": "巴拿马",
       "favoriteTeam": "克罗地亚",
       "upsetWinOdds": 6,
@@ -2650,25 +2920,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "巴拿马": 16,
-          "draw": 23,
+          "巴拿马": 15,
+          "draw": 24,
           "克罗地亚": 61
         },
-        "tacticalAnalysis": "克罗地亚达利奇4-3-3控球流，中场莫德里奇-科瓦契奇-布罗佐维奇组织能力突出，擅长阵地战渗透与定位球。巴拿马克里斯蒂安森5-4-1低位密集防守，靠卡拉斯基亚边路速度反击。两者形成矛与盾对抗，克罗地亚需破巴拿马密集铁桶，破密集防守效率与边路传中质量是胜负关键。",
-        "physicalAnalysis": "巴拿马整体年轻力壮，速度与对抗占优，反击冲击力强。克罗地亚核心阵容老龄化，耐力与高温适应存疑，但技术与跑位弥补身体差距，中场控制减少消耗。",
-        "formAnalysis": "克罗地亚底蕴深厚但阵容老化，大赛稳定性强。巴拿马近年上升明显，2024美洲国家联赛决赛证明竞争力，士气高涨，以小搏大无压力，敢拼敢冲。",
-        "injuryImpact": "克罗地亚伤病集中：莫德里奇戴面具、科瓦契奇跟腱、格瓦迪奥尔赶进度，影响中后场默契与强度。巴拿马卡拉斯基亚状态存疑，将削弱其唯一反击利刃，影响进攻威胁。",
-        "h2hAnalysis": "双方历史交锋稀少，缺乏直接参考价值，更多依赖实力与状态对比，心理层面无既定优劣定式。",
-        "oddsAnalysis": "bet365克罗地亚1.53、平4、巴拿马6，去水位后克罗地亚约61%、平24%、巴拿马15%，市场资金明显倾向克罗地亚。但1.53的赔率反映庄家对其伤病与高温有所保留，并非碾压级低赔，存在一定不确定性溢价。",
-        "externalFactors": "多伦多BMO球场中立场地，对双方主场效应有限。六月北美高温对克罗地亚老龄阵容耐力构成实质挑战，反利于巴拿马体能型打法。",
-        "psychologyAnalysis": "克罗地亚大赛经验丰富，老将求最后荣耀但背负出线与名气压力。巴拿马轻装上阵，弱者心态反而放得开，定位球与反击中可能抓住松懈瞬间。",
-        "consensusView": "全网共识倾向克罗地亚凭技术与控球底蕴取胜，但普遍提示风险：Yahoo强调北美高温下控球节奏与老将体能是双刃剑，RotoWire看好巴拿马纪律性死守与定位球冷门可能。多数专家认为克罗地亚胜面大但难言轻松。",
-        "upsetProbability": 28,
+        "tacticalAnalysis": "克罗地亚达利奇4-3-3控球流，中场莫德里奇调度串联，边路佩里西奇下底；巴拿马克里斯蒂安森5-4-1低位密集防守，全员退守保护禁区，靠卡拉斯基亚与伊斯梅尔·迪亚斯快速反击。克方控球占优但需破解铁桶阵，巴方反击锋线效率是唯一出路，破密集防守的耐心与定位球是胜负关键。",
+        "physicalAnalysis": "克罗地亚阵容老化，莫德里奇、佩里西奇年事已高，高温多场作战体能存隐患；巴拿马整体年轻、跑动积极、对抗强硬，密集防守消耗大但冲刺反击具爆发力，体能与对抗端略占上风。",
+        "formAnalysis": "巴拿马首战0-1负加纳，进攻乏力暴露破门难题，但防守拼劲尚存；克罗地亚即将开战，对阵英格兰受关注，老牌劲旅大赛节奏调整能力强。巴方士气受挫，克方蓄势待发。",
+        "injuryImpact": "克罗地亚伤病集中：莫德里奇颧骨骨折或戴面具出战影响状态，科瓦契奇跟腱、格瓦迪奥尔腿伤需赶进度，中后场稳定性下降；巴拿马卡拉斯基亚状态存疑，若反击核心受限，进攻威胁大减，双方均带伤。",
+        "h2hAnalysis": "双方历史交锋稀少，缺乏稳定参照样本，心理与战术压制效应有限，参考价值低。",
+        "oddsAnalysis": "bet365开1.53/4/6，去水后公平概率约克罗地亚62%、平24%、巴拿马14%。克方深度受看好，但1.53并非超低，暗示市场考虑其伤病与老化风险，资金未一边倒，平局与爆冷仍留有合理空间，属强弱分明但非碾压的盘口。",
+        "externalFactors": "多伦多BMO球场中性场地，6月下旬天气多云，气温适中利于控球方发挥；两队均非主场，球迷支持相对均衡，无明显地理优势。",
+        "psychologyAnalysis": "克罗地亚拥近两届世界杯季军、亚军的硬底蕴与逆境韧性，大赛心理优势显著；巴拿马首战失利背负压力，但作为黑马无包袱，敢拼或释放潜能。",
+        "consensusView": "全网共识倾向克罗地亚胜，看重其技术、经验与底蕴；但普遍提示老化、伤病与首战未踢的不确定性。巴拿马被视为防反搅局者，逼平有一定可能，爆冷取胜概率偏低，主流预期克方小胜或控制性获胜。",
+        "latestNewsSummary": "巴拿马首战0-1不敌加纳，比赛过程混乱、进攻低迷；克罗地亚周三对阵英格兰揭幕，天气晴好；ESPN梳理L组数据，整体看好克罗地亚晋级前景。",
+        "upsetProbability": 33,
         "upsetTeam": "巴拿马",
         "favoriteTeam": "克罗地亚",
         "upsetWinOdds": 6,
         "riskLevel": "medium",
-        "objectiveConclusion": "克罗地亚技术与底蕴占优，胜面明显，但伤病缠身、阵容老化及北美高温构成实质变量，难以大比分碾压。巴拿马密集防守加快速反击具备搅局能力，平局或爆冷概率不可忽视。最可能结果为克罗地亚小胜，比分区间1-0或2-1；若莫德里奇状态低迷、高温拖垮体能，0-0或巴拿马偷袭爆冷亦有空间。"
+        "objectiveConclusion": "克罗地亚技术经验与深度全面占优，应为胜负天平主导方，但莫德里奇等核心伤病、阵容老化及高温体能为变量。巴拿马密集防反具搅局能力，零封或偷分非不可能，但首战哑火显进攻乏力，爆冷取胜难度大。预期克罗地亚控制比赛小胜，比分区间1-0、2-0、2-1，平局0-0/1-1为次概率。"
       },
       "insights": {
         "injuries": "克罗地亚莫德里奇颧骨骨折术后或戴面具出战，科瓦契奇跟腱、格瓦迪奥尔腿伤需赶进度；巴拿马卡拉斯基亚状态存疑",
@@ -2681,7 +2952,14 @@
         ],
         "keyPlayers": "克罗地亚:莫德里奇、佩里西奇、克拉马里奇；巴拿马:卡拉斯基亚、戈多伊、伊斯梅尔·迪亚斯",
         "xfactor": "多伦多BMO球场；克罗地亚老龄阵容北美高温体能；莫德里奇伤后状态"
-      }
+      },
+      "latestNews": [
+        "Group L at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "World Cup weather: Mostly cloudy for three Day Seven matches but sunny for England-Croatia - The New York Times",
+        "England vs Croatia Quick Highlights | 2026 FIFA World Cup™ - FOX Sports",
+        "Ghana beat Panama 1–0 in chaotic World Cup Group L match - Al Jazeera",
+        "Croatia begins World Cup Wednesday, see schedule and shop tickets - USA Today"
+      ]
     },
     {
       "matchNo": 23,
@@ -2837,7 +3115,7 @@
       "kickoffET": "2026-06-20T20:00:00-04:00",
       "venue": "箭头体育场",
       "city": "堪萨斯城",
-      "upsetProbability": 3,
+      "upsetProbability": 7,
       "upsetTeam": "库拉索",
       "favoriteTeam": "厄瓜多尔",
       "upsetWinOdds": 19,
@@ -2870,21 +3148,23 @@
           "draw": 9,
           "库拉索": 3
         },
-        "tacticalAnalysis": "厄瓜多尔4-3-3体系由卡塞多掌控中场节奏，边路埃斯图皮尼安助攻能力强，防线帕乔、因卡皮耶经验丰富。库拉索5-4-1极致防守反击，依赖巴库纳兄弟突击，但首轮1-7暴露防线抗压能力严重不足。战术层面厄瓜多尔占据碾压优势，库拉索唯一机会是死守反击偷袭，但实力差距难以弥补。",
-        "physicalAnalysis": "厄瓜多尔整体速度与对抗均衡，中场卡塞多覆盖面积大，边后卫埃斯图皮尼安冲刺能力突出。库拉索身体对抗尚可但速度明显落后，耐力是最大隐患，首轮后半程崩盘印证体能储备不足，面对厄瓜多尔持续压迫恐难撑满全场。",
-        "formAnalysis": "厄瓜多尔首轮0-1负科特迪瓦终结19场不败，但过程不乏亮点，出线压力迫使必须全取三分。库拉索1-7惨败德国后近4连败，士气低落，防守信心严重受损，心理层面已处劣势，急需调整但时间紧迫。",
-        "injuryImpact": "双方均无重大伤病停赛，阵容完整度不构成变数。厄瓜多尔主力悉数可用，库拉索虽人员齐整但整体实力短板无法通过单一球员弥补，伤病因素本场基本中性。",
-        "h2hAnalysis": "两队历史交锋样本极少，参考价值有限。需更多依赖FIFA排名差距(22 vs 48)、近期表现及战术风格匹配度判断。",
-        "oddsAnalysis": "三大平台均开出厄瓜多尔1.02-1.09超低赔率,去水位后隐含胜率约90-92%,市场资金高度集中。平局赔率10-11倍,库拉索客胜15-25倍,显示博彩公司认定实力差距悬殊。赔率波动极小,机构信心一致,未见异常资金流入弱队,市场预期明确。",
-        "externalFactors": "堪萨斯城箭头体育场6月下旬气温约30°C,对双方体能均有考验但库拉索适应能力更弱。中立场地无主场优势,厄瓜多尔赛程相对合理,库拉索首轮大败后士气与体能恢复成疑。",
-        "psychologyAnalysis": "厄瓜多尔首轮失利后背负出线压力,但大赛经验丰富(多次世界杯参赛),心理抗压能力强。库拉索首次世界杯之旅遭遇惨败,信心受挫,年轻球员大赛经验不足,面对必须防守的局面心理负担更重。",
-        "consensusView": "全网专家高度一致看好厄瓜多尔大胜,BetMGM推荐让2.5球,Goal强调厄瓜多尔防线稳固,RotoWire指出库拉索体能难撑全场。市场共识为厄瓜多尔控制比赛并至少净胜2球以上,爆冷概率极低,唯一分歧在进球数多少。",
-        "upsetProbability": 3,
+        "tacticalAnalysis": "厄瓜多尔4-3-3，卡塞多坐镇中场控节奏，帕乔领衔后防稳固，边路埃斯图皮尼安推进创造宽度。库拉索5-4-1摆大巴死守，依靠巴库纳兄弟快速反击。厄瓜多尔须耐心破密集防守，定位球与边路传中是关键破局点。",
+        "physicalAnalysis": "厄瓜多尔球员普遍效力欧洲顶级联赛，身体对抗、速度与耐力全面占优。库拉索多为低级别联赛球员，高强度跑动与对抗下半场易体能透支。",
+        "formAnalysis": "厄瓜多尔首轮0-1负科特迪瓦终结19场不败，急需取胜重整士气与出线主动。库拉索1-7惨败德国后4连败，士气低迷，但本场被定位为must-win背水一战。",
+        "injuryImpact": "双方均无重大伤病或停赛，阵容齐整。新闻未提及临场缺阵变动，厄瓜多尔可派最强阵，实力差距不受减员影响而进一步拉大。",
+        "h2hAnalysis": "两队历史交锋极少，缺乏直接参照，整体实力与排名差距是更可靠判断依据。",
+        "oddsAnalysis": "三平台主胜1.02-1.09高度一致，去水后厄瓜多尔真实胜率约90%-93%，平局约6%-8%，库拉索仅3%-5%。Pinnacle客胜25.52略宽，反映市场极度看好厄瓜多尔，资金无明显异动。",
+        "externalFactors": "堪萨斯城中立场地，6月气温偏高湿度大。库拉索包机三班球迷直飞助威可营造客场氛围，但难抵实力鸿沟。",
+        "psychologyAnalysis": "厄瓜多尔大赛经验丰富，球员心理成熟。库拉索首登世界杯舞台经验匮乏，惨败阴影下心理负担重，易过早崩盘。",
+        "consensusView": "全网共识厄瓜多尔压倒性占优，主流预测其大比分获胜。博彩与媒体一致看好控球碾压，分歧仅在净胜球与零封与否，几乎无人押注库拉索取胜。",
+        "latestNewsSummary": "库拉索球迷包机三班直飞堪萨斯城助威；媒体定调为双方must-win关键战；Juvefc等预测倾向厄瓜多尔，新闻多聚焦观赛与购票信息。",
+        "upsetProbability": 7,
         "upsetTeam": "库拉索",
         "favoriteTeam": "厄瓜多尔",
         "upsetWinOdds": 19,
         "riskLevel": "low",
-        "objectiveConclusion": "综合赔率、实力差距、状态与战术分析,厄瓜多尔取胜几无悬念,唯一变数在净胜球数。库拉索首轮暴露的防守脆弱与体能问题难以短期改善,厄瓜多尔出线压力下必全力争胜。最可能比分区间:厄瓜多尔3-0或4-0,小概率2-0,库拉索得分或战平概率均不足5%。"
+        "objectiveConclusion": "厄瓜多尔实力、经验、身体全面碾压，胜率近九成，预计2-0至4-0取胜并大概率零封。支持爆冷论据为库拉索密集防守加球迷助威或顽强逼平；反对论据为实力鸿沟、库拉索连败崩盘风险及厄瓜多尔出线压力下志在必得。比分区间2-0/3-0最可能。",
+        "model": "claude-opus-4-8"
       },
       "insights": {
         "injuries": "双方均无重大伤病；厄瓜多尔阵容齐整，库拉索亦无缺阵",
@@ -2898,7 +3178,14 @@
         ],
         "keyPlayers": "厄瓜多尔:卡塞多、帕乔、埃斯图皮尼安；库拉索:巴库纳兄弟、卡斯塔内尔",
         "xfactor": "美国夏季高温；实力差距明显，厄瓜多尔需先进球控场"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "The 2026 FIFA Men's World Cup schedule and how to watch - CBS News",
+        "3 charter flights to bring Curaçao fans directly to Kansas City ahead of World Cup match - KSHB 41 Kansas City",
+        "Ecuador and Curacao play a must-win World Cup game in KC, how to buy tickets - USA Today",
+        "Ecuador vs Curaçao World Cup 2026 Predictions and Best Bets - Juvefc.com"
+      ]
     },
     {
       "matchNo": 58,
@@ -2911,7 +3198,7 @@
       "kickoffET": "2026-06-25T19:00:00-04:00",
       "venue": "箭头体育场",
       "city": "堪萨斯城",
-      "upsetProbability": 12,
+      "upsetProbability": 24,
       "upsetTeam": "突尼斯",
       "favoriteTeam": "荷兰",
       "upsetWinOdds": 6.74,
@@ -2920,7 +3207,7 @@
       "physicalComparison": "突尼斯对抗硬朗且体能充沛，能有效干扰荷兰中场推进，缩小双方技术层面的差距。",
       "keyReason": "荷兰终结能力不稳，突尼斯防守坚韧且适应炎热气候。",
       "detailedAnalysis": "堪萨斯城6月闷热气候对荷兰体能是严峻考验，突尼斯适应性更强。突尼斯曾有击败法国的经验，防守极具韧性。参考西班牙被佛得角逼平的先例，荷兰若缺乏强力爆点打破密集防守，极易在消耗战中急躁失误，突尼斯具备利用定位球或反击爆冷取胜的条件。",
-      "riskLevel": "low",
+      "riskLevel": "medium",
       "realOdds": {
         "pinnacle": {
           "突尼斯": 6.74,
@@ -2930,25 +3217,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "突尼斯": 12,
-          "draw": 19,
-          "荷兰": 69
+          "突尼斯": 13,
+          "draw": 24,
+          "荷兰": 63
         },
-        "tacticalAnalysis": "荷兰4-2-3-1阵型攻守平衡，范戴克+阿克构建稳固后防，德容+赖恩德斯双后腰控场，加克波、西蒙斯(伤缺)边路冲击。突尼斯惯用5-4-1低位防守反击，依赖斯基里中场拦截+姆萨克尼快速转换。荷兰破密集防守能力存疑，突尼斯纪律性防守可能限制橙衣军团攻势，但自身创造力不足难以持续威胁。",
-        "physicalAnalysis": "荷兰整体身高体壮，范戴克、德弗赖等高空优势明显，中场对抗力强。突尼斯速度型球员较多(姆萨克尼、迈布里)，反击爆发力足，但整体对抗与持球耐力逊于欧洲强队，堪萨斯城高温可能削弱双方体能储备。",
-        "formAnalysis": "荷兰预选赛保持不败稳定晋级，但热身赛偶有起伏。突尼斯非预选赛近8场仅丢1球防守出色,但非洲杯不敌马里后换帅,进攻端效率低迷,缺乏大赛级别检验。荷兰士气平稳,突尼斯背水一战心态或激发斗志。",
-        "injuryImpact": "荷兰德佩大腿伤状态存疑影响锋线火力,西蒙斯伤缺削弱边路突破选择,但替补深度足够(马伦、韦霍斯特)。突尼斯无重大伤情保持完整阵容,相对占据可用性优势,但整体实力差距难以靠人员齐整弥补。",
-        "h2hAnalysis": "双方世界杯从未交锋,历史友谊赛荷兰1胜2平略占优。参考价值有限,友谊赛强度与世界杯不可比,且突尼斯阵容更迭较大。",
-        "oddsAnalysis": "Pinnacle赔率突尼斯6.74/平4.38/荷兰1.43,去水后隐含概率约:突尼斯13%/平20%/荷兰67%。市场明显偏向荷兰,1.43低赔反映机构对橙衣军团信心,但突尼斯6.74赔率暗示市场认为其有10-15%爆冷可能,平局赔率吸引力一般。资金流向荷兰胜,冷门赔付压力不大。",
-        "externalFactors": "堪萨斯城箭头体育场6月下旬气温可达30°C+,高温高湿或影响高强度压迫。中立场地无主场优势,双方旅行条件相当。荷兰适应北美气候能力更强,突尼斯非洲球队耐热但草皮适应需时间。",
-        "psychologyAnalysis": "荷兰世界杯经验丰富(3次亚军),大赛抗压力强,但小组赛首战需警惕轻敌。突尼斯历史4次世界杯仅1次出线,压力小可能放手一搏,但缺乏淘汰赛经验,关键时刻决断力存疑。荷兰心理优势明显。",
-        "consensusView": "全网专家普遍看好荷兰小组头名出线,认为其防守稳固与攻击深度足以应对突尼斯。RotoWire、Yahoo等主流媒体预测荷兰轻取对手,突尼斯被定位为争夺小组第三。少数声音提示荷兰破密集防守效率不高,0-0或小比分可能性存在。市场共识:荷兰胜面大但需防平局。",
-        "upsetProbability": 12,
+        "tacticalAnalysis": "荷兰4-2-3-1控球压制，德容与赖恩德斯掌控中场节奏，范戴克坐镇后防，加克波边路突击。突尼斯低位5-4-1密集防守，纪律性强伺机反击。荷兰需破密集防守，突尼斯赌定位球与快速转换，攻防节奏存在明显代差。",
+        "physicalAnalysis": "荷兰球员身材高大、对抗与制空占优，范戴克定位球威胁大。突尼斯整体偏快、跑动覆盖积极，体能韧性不弱，但单兵对抗与高度处下风。",
+        "formAnalysis": "荷兰预选赛稳定、状态成型。突尼斯非预选赛8场仅丢1球防守扎实，但非洲杯不敌马里后换帅，磨合存疑，士气与体系连续性受影响。",
+        "injuryImpact": "荷兰德佩大腿伤状态起伏、西蒙斯伤缺，削弱进攻创造力与轮换深度，但加克波等仍具火力。突尼斯无重大伤情，阵容完整是其有利因素。",
+        "h2hAnalysis": "世界杯从未交手，历史友谊赛荷兰1胜2平未尝败绩，但友谊赛参考价值有限。",
+        "oddsAnalysis": "Pinnacle荷兰1.43、平4.38、突尼斯6.74。去水后公平概率约荷兰66%、平22%、突尼斯12%。资金高度倾向荷兰，赔率反映实力差距明确，平局赔率不高显示市场预期低比分或荷兰小胜。",
+        "externalFactors": "堪萨斯城6月炎热潮湿，6/25傍晚开球高温利于体能消耗。中立场地，荷兰球迷氛围浓厚形成准主场，对突尼斯不利。",
+        "psychologyAnalysis": "荷兰大赛经验与球星底蕴占优，背负夺冠预期。突尼斯七战世界杯从未出线，光脚不怕穿鞋，低位防反心态稳定可成搅局者。",
+        "consensusView": "全网共识荷兰明显占优、晋级在望，普遍预期荷兰控球小胜。突尼斯防守韧性受认可，被视为难缠对手但实力差距客观存在，多数看好荷兰但留意爆冷或闷平可能。",
+        "latestNewsSummary": "突尼斯第七次参赛仍未突破小组赛，志在改写历史；F组整体看荷兰领跑；荷兰在堪萨斯城获浓厚球迷支持，赛前氛围与文化活动突出。",
+        "upsetProbability": 24,
         "upsetTeam": "突尼斯",
         "favoriteTeam": "荷兰",
         "upsetWinOdds": 6.74,
-        "riskLevel": "low",
-        "objectiveConclusion": "综合赔率、实力与情报,荷兰69%概率取胜,突尼斯爆冷仅12%。荷兰阵容深度、经验与整体实力占优,但破密集防守效率与德佩伤情存隐患,突尼斯防守纪律性或制造麻烦。最可能比分1-0或2-0荷兰小胜,0-0平局有15-20%可能。突尼斯取胜需依赖荷兰失误+反击完美执行,概率极低,爆冷风险低。"
+        "riskLevel": "medium",
+        "objectiveConclusion": "荷兰实力、阵容与经验全面占优，控球压制下取胜概率大，但德佩状态起伏、西蒙斯缺阵削弱进攻效率，面对突尼斯密集防守易陷入久攻不下。突尼斯防守扎实有搅局潜力，闷平或失球后被扩大皆有可能。预计荷兰1-0或2-0小胜，平局亦需防范。"
       },
       "insights": {
         "injuries": "荷兰德佩大腿伤状态起伏，西蒙斯伤缺；突尼斯无重大伤情",
@@ -2961,7 +3249,14 @@
         ],
         "keyPlayers": "荷兰:范戴克、德容、加克波；突尼斯:斯基里、迈布里、姆萨克尼",
         "xfactor": "堪萨斯城高温或拖累高强度打法；突尼斯能否破密集防守"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Netherlands in Kansas City: Your World Cup guide to celebrating Dutch soccer and culture - KCUR",
+        "Japan and Tunisia look for first World Cup win in New York City, shop tickets now - USA Today",
+        "Group F at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "Tunisia are making their seventh appearance at the FIFA World Cup, but the Carthage Eagles have never progressed beyond the group stage. Will 2026 bring a different story? - olympics.com"
+      ]
     },
     {
       "matchNo": 62,
@@ -2974,7 +3269,7 @@
       "kickoffET": "2026-06-26T15:00:00-04:00",
       "venue": "BMO球场",
       "city": "多伦多",
-      "upsetProbability": 15,
+      "upsetProbability": 24,
       "upsetTeam": "伊拉克",
       "favoriteTeam": "塞内加尔",
       "upsetWinOdds": 6.97,
@@ -2997,21 +3292,22 @@
           "draw": 21,
           "伊拉克": 11
         },
-        "tacticalAnalysis": "塞内加尔4-3-3高位逼抢与快速边路推进是其核心武器，面对伊拉克4-2-3-1密集防守有控制力优势。但伊拉克主帅阿诺德善于组织防守反击，若成功压缩空间并抓住塞内加尔高压后身后空当，可制造威胁。塞内加尔整体技战术成熟度与执行力更胜一筹，但需警惕伊拉克定位球与快速转换。",
-        "physicalAnalysis": "塞内加尔在速度、爆发力、对抗强度上全面占优，马内等前场球员冲击力强。伊拉克体能储备尚可但整体身体对抗处劣势，需依靠战术纪律弥补个体差距。",
-        "formAnalysis": "塞内加尔非洲杯决赛级状态延续至热身赛连胜，士气高昂阵容磨合充分。伊拉克凭附加赛惊险晋级后状态起伏，信心有所提升但稳定性存疑，面对强敌心理准备需考验。",
-        "injuryImpact": "双方均无重大伤病报告，主力阵容完整可出战。塞内加尔核心马内、I.萨尔、杰克逊状态健康，伊拉克关键球员侯赛因、伊克巴尔均可登场，伤病因素对本场影响极小。",
-        "h2hAnalysis": "两队历史从未交锋，无直接对战数据参考。需依赖各自技战术特点、近期表现及FIFA排名差距进行推演。",
-        "oddsAnalysis": "Pinnacle赔率1.43/4.31/6.97，去水位后塞内加尔胜率约66%、平局22%、伊拉克胜12%。市场明显倾向塞内加尔，资金面对FIFA排名与实力差距的认可度高。伊拉克赔率6.97虽有爆冷空间但市场信心不足。",
-        "externalFactors": "多伦多BMO球场为中性场地，气候适宜无极端因素。双方旅行条件相当，无明显主场优势。赛程节奏正常，体能恢复充分，外部环境整体平衡。",
-        "psychologyAnalysis": "塞内加尔大赛经验丰富（2022世界杯16强、非洲杯冠军）心理成熟，但需防小组赛首战求稳心态。伊拉克首次世界杯正赛缺经验，压力与兴奋并存，拼劲足但易紧张犯错。",
-        "consensusView": "全网专家高度一致看好塞内加尔获胜，主流预测2-0或3-0。普遍认为塞内加尔质量、经验、阵容深度全面占优，伊拉克虽顽强但难撼动结果。少数观点提示警惕伊拉克反击与定位球威胁。",
-        "upsetProbability": 15,
+        "tacticalAnalysis": "塞内加尔4-3-3高位逼抢配合边路爆点，控球与转换均占优；伊拉克阿诺德式4-2-3-1低位密集防守、依赖反击与定位球。塞内加尔中前场个人能力碾压，但若急攻受阻、边路被压缩，伊拉克双后腰保护下的快速反击可制造威胁，进攻效率成关键变量。",
+        "physicalAnalysis": "塞内加尔球员普遍效力欧洲顶级联赛，身体对抗、爆发与覆盖范围明显占优；伊拉克对抗强度与高强度跑动稍逊，体能后段易被拉开差距。",
+        "formAnalysis": "塞内加尔非洲杯打入决赛、热身连胜，士气高昂；伊拉克借附加赛戏剧性晋级、状态起伏。多家媒体焦点集中于法国与塞内加尔强强对话，普遍视塞内加尔为稳健出线热门。",
+        "injuryImpact": "双方均无重大伤停报告，阵容相对完整。最新新闻未提及塞内加尔主力缺阵，马内、I.萨尔可用，伊拉克亦无核心受损消息，伤病因素对赛果影响有限。",
+        "h2hAnalysis": "两队历史从未正式交手，无直接参考。需依赖整体实力、近况与赛会环境综合研判。",
+        "oddsAnalysis": "Pinnacle主胜1.43、平4.31、客6.97。去水位后塞内加尔公平胜率约66-68%、平约21%、伊拉克约11%。赔率结构反映市场强烈倾向塞内加尔，且无明显资金回流伊拉克迹象，定价稳定，符合实力差。",
+        "externalFactors": "多伦多BMO球场为中性场地，双方均无地利。六月加拿大气候温和，对欧化体能的塞内加尔更友好；草皮与时差对两队影响相近。",
+        "psychologyAnalysis": "塞内加尔具非洲杯决赛级大赛经验与夺冠心态，抗压更强；伊拉克晋级带运气成分，面对强敌易保守，但无包袱或可放手一搏。",
+        "consensusView": "全网共识高度一致：塞内加尔实力、状态、经验全面占优，是本场及小组出线的明显热门。媒体讨论多聚焦其能否再爆冷掀翻法国，对阵伊拉克普遍预期塞内加尔掌控并取胜。",
+        "latestNewsSummary": "Sky、ESPN、Al Jazeera聚焦I组法国、塞内加尔、伊拉克、挪威格局；舆论热点是塞内加尔能否复制爆冷法国，伊拉克被普遍定位为小组陪跑、抢分艰难。",
+        "upsetProbability": 24,
         "upsetTeam": "伊拉克",
         "favoriteTeam": "塞内加尔",
         "upsetWinOdds": 6.97,
         "riskLevel": "low",
-        "objectiveConclusion": "综合实力、状态、赔率与专家共识，塞内加尔获胜概率约68%为最可能结果。预计比分1-0或2-0，塞内加尔凭整体优势控制节奏。伊拉克爆冷概率约15%，需完美执行防反且塞内加尔失常。平局可能性21%，若伊拉克成功限制并抓住机会。客观判断：塞内加尔小胜为主流剧本。"
+        "objectiveConclusion": "塞内加尔在实力、身体、状态、经验全面占优，应主导比赛并大概率取胜，是稳健热门。伊拉克密集防守加反击与定位球存在偷分可能，但破门效率与对抗短板限制上限。看好塞内加尔小胜至中胜，比分区间1-0、2-0、2-1最具参考性，平局或爆冷概率偏低。"
       },
       "insights": {
         "injuries": "双方均无重大伤情报告",
@@ -3025,7 +3321,14 @@
         ],
         "keyPlayers": "塞内加尔:马内、I.萨尔、杰克逊；伊拉克:侯赛因、伊克巴尔、哈马迪",
         "xfactor": "多伦多BMO球场；伊拉克反击抓塞内加尔高压身后空当"
-      }
+      },
+      "latestNews": [
+        "World Cup 2026 Group I guide - fixtures, schedule, standings and odds for France, Senegal, Iraq and Norway - Sky Sports",
+        "World Cup predictions: France vs Senegal, Argentina vs Algeria and rest of matchday 6 - The Athletic - The New York Times",
+        "Group I at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "World Cup Superstar Tuesday: Messi, Mbappé, Haaland Headline Packed Slate - FOX Sports",
+        "World Cup: Can Senegal stun France again? Predictions, schedule on Day 6 - Al Jazeera"
+      ]
     },
     {
       "matchNo": 19,
@@ -3107,10 +3410,10 @@
       "kickoffET": "2026-06-21T12:00:00-04:00",
       "venue": "梅赛德斯奔驰球场",
       "city": "亚特兰大",
-      "upsetProbability": 4,
+      "upsetProbability": 9,
       "upsetTeam": "沙特阿拉伯",
       "favoriteTeam": "西班牙",
-      "upsetWinOdds": 18,
+      "upsetWinOdds": 18.94,
       "marketImplied": "市场隐含沙特胜率约5%，平局约15%，西班牙依然是绝对热门但因首轮平局盘口承压",
       "tacticalReason": "西班牙控球占优但破密集防守乏力，沙特可利用凶狠逼抢破坏西班牙传导并伺机反击。",
       "physicalComparison": "西班牙技术顶级但高空与对抗弱；沙特体能充沛拼抢凶狠，能以强硬对抗干扰传控。",
@@ -3136,25 +3439,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "西班牙": 92,
-          "draw": 6,
+          "西班牙": 91,
+          "draw": 7,
           "沙特阿拉伯": 2
         },
-        "tacticalAnalysis": "西班牙4-3-3高压控球，罗德里+佩德里中场掌控节奏，亚马尔边路突破制造爆点，控球率常超70%。沙特同样4-3-3但定位抢断快反，面对西班牙需收缩防守。双方风格相克明显，沙特只能靠密集防守与反击零星机会，西班牙需耐心破密集防守，传控压制优势巨大。",
-        "physicalAnalysis": "西班牙球员技术与对抗均占优，跑动覆盖与传接节奏更高。沙特速度尚可但单兵对抗和耐力处于下风，难以长时间承受高位压迫与连续传导消耗。",
-        "formAnalysis": "西班牙身披欧洲杯冠军、夺冠大热，士气与状态俱佳。沙特实力居弱势，面对顶级强队信心受限，多线需依靠防守韧性维持竞争力。",
-        "injuryImpact": "西班牙亚马尔、罗德里均伤愈复出属重大利好，法比安、梅里诺、尼科存疑影响有限，阵容深度充足。沙特队长多萨里复出提升进攻组织，但难改实力差距。",
-        "h2hAnalysis": "两队历史交锋极少，缺乏稳定样本，参考价值低，难以据此推断走势。",
-        "oddsAnalysis": "三平台均开出西班牙极低赔(1.01-1.09)，沙特高达15-21，FOX给出-935超低盘。去水位后西班牙真实胜率约90-93%，平局6%左右，沙特取胜不足2-3%。市场资金高度一致看好西班牙，几无分歧。",
-        "externalFactors": "亚特兰大梅奔球场可视为西班牙相对主场氛围，气候温和。双方旅行赛程差异不构成决定性因素，整体外部条件偏向强队。",
-        "psychologyAnalysis": "西班牙大赛经验丰富、心理稳定，出线压力小但需防轻敌。沙特背负弱旅压力，心理上倾向保守求稳，搏平即视为成果。",
-        "consensusView": "全网专家高度一致：RotoWire强调罗德里复出为最大利好，WorldSoccerTalk指出西班牙控球超70%，FOX以-935盘口锁定头名热门。共识认为西班牙稳操胜券，悬念仅在净胜球数量而非胜负归属。",
-        "upsetProbability": 4,
+        "tacticalAnalysis": "西班牙4-3-3高压控球，罗德里居后腰调度、佩德里中场串联，亚马尔边路爆点制造杀机，全场压迫式压制。沙特4-3-3主打低位密集防守加快速反击，依赖多萨里、布赖坎前场冲击，但持球出球能力有限，难以摆脱西班牙中场绞杀，被压制概率极高。",
+        "physicalAnalysis": "西班牙身体协调与技术对抗均衡，跑动覆盖强；沙特速度尚可但对抗与高度处下风，中场拦截硬度不足，难持续承受高压消耗，下半场易体能滑坡。",
+        "formAnalysis": "西班牙欧洲杯冠军底蕴足、夺冠大热，但首战0-0闷平佛得角暴露效率隐忧，进攻终结待提升。沙特实力居弱势，士气虽因多萨里复出回升，整体竞争力仍有限。",
+        "injuryImpact": "西班牙亚马尔腿筋已复出但状态待察，法比安·鲁伊斯、梅里诺、尼科·威廉姆斯存疑，轮换深度仍充足。沙特队长多萨里伤愈复出提振反击端，对结果难有实质扭转。",
+        "h2hAnalysis": "两队历史交锋极少，缺乏直接参照，实力与排名差距是更可靠判断依据，西班牙占绝对优势。",
+        "oddsAnalysis": "三平台主胜1.01-1.09高度一致，客胜15-21分歧反映冷门定价谨慎。去水后西班牙公平胜率约90%、平局约7%、沙特约2-3%。资金一边倒压主，无明显异常逆向流动，市场极度看好西班牙。",
+        "externalFactors": "亚特兰大梅奔球场为封闭可调温室内场，气候影响有限。中立场地无真正主场，但西班牙球迷与关注度更高，氛围略偏向西班牙。",
+        "psychologyAnalysis": "西班牙大赛经验与冠军心态占优，唯需防轻敌与首战闷平后的心理包袱。沙特光脚不怕穿鞋、放手一搏，但面对豪强易早段失球后崩盘。",
+        "consensusView": "全网共识高度一致：西班牙压倒性占优，胜率九成以上。分歧仅在净胜球与是否零封，沙特爆冷或逼平被视为极小概率事件，多数预测西班牙轻取并大概率多球获胜。",
+        "latestNewsSummary": "西班牙首战0-0闷平佛得角，进攻效率受质疑；H组被普遍视为西班牙领衔、乌拉圭次席、佛得角搅局；本场西班牙仍被一致看作大热门。",
+        "upsetProbability": 9,
         "upsetTeam": "沙特阿拉伯",
         "favoriteTeam": "西班牙",
-        "upsetWinOdds": 18,
+        "upsetWinOdds": 18.94,
         "riskLevel": "low",
-        "objectiveConclusion": "西班牙在实力、状态、阵容、战术全维度碾压，获胜概率超九成，爆冷风险极低。支持爆冷的论据仅限沙特密集防守+反击及强队偶有轻敌；反对论据则压倒性。最可能结果为西班牙大胜，比分区间2-0至4-0，沙特能逼平或取分均属意外。"
+        "objectiveConclusion": "西班牙实力、阵容与控制力全面碾压，胜率约91%，正常发挥应轻松取胜。需留意首战闷平暴露的终结效率问题及亚马尔等伤兵状态，或致比分不及预期。沙特死守反击下逼平存极小可能。预计西班牙获胜，常见比分区间2-0至4-0，最可能2-0或3-0。"
       },
       "insights": {
         "injuries": "西班牙亚马尔(腿筋已复出)、法比安·鲁伊斯、梅里诺、尼科·威廉姆斯存疑；沙特队长多萨里伤愈复出",
@@ -3168,7 +3472,14 @@
         ],
         "keyPlayers": "西班牙:罗德里、佩德里、亚马尔；沙特:多萨里、布赖坎",
         "xfactor": "亚特兰大主场；实力悬殊，西班牙需耐心破密集防守"
-      }
+      },
+      "latestNews": [
+        "Group H at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "Spain 0-0 Cape Verde: World Cup 2026 – at it happened - Al Jazeera",
+        "Spain vs Saudi Arabia FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+        "World Cup 2026 – Group H guide: Favourites Spain take on Uruguay as Cape Verde fairytale begins - the-independent.com",
+        "Spain vs. Cape Verde: How to Watch, TV Channel, Live Stream - FOX Sports"
+      ]
     },
     {
       "matchNo": 49,
@@ -3181,7 +3492,7 @@
       "kickoffET": "2026-06-24T18:00:00-04:00",
       "venue": "硬石体育场",
       "city": "迈阿密",
-      "upsetProbability": 18,
+      "upsetProbability": 35,
       "upsetTeam": "苏格兰",
       "favoriteTeam": "巴西",
       "upsetWinOdds": 9,
@@ -3200,25 +3511,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "苏格兰": 12,
-          "draw": 21,
-          "巴西": 67
+          "苏格兰": 11,
+          "draw": 24,
+          "巴西": 65
         },
-        "tacticalAnalysis": "巴西安切洛蒂4-3-3控球推进，维尼修斯边路突破+拉菲尼亚后插上是主攻武器；苏格兰克拉克5-3-2密集防守，罗伯逊回撤补位，依赖定位球与快速反击。巴西控球优势明显，但苏格兰结构纪律可压缩中路空间，迫使巴西边路传中或远射，降低破门效率。",
-        "physicalAnalysis": "巴西速度与技术碾压级优势，维尼修斯、拉菲尼亚爆发力顶尖；苏格兰身体对抗与耐力更强，麦克托米奈、吉尔莫中场绞杀能力出色。迈阿密高温下巴西适应性更好，但苏格兰体能储备可支撑90分钟高强度防守。",
-        "formAnalysis": "巴西首轮1-1平摩洛哥暴露后防问题，进攻端未能转化控球优势，压力陡增；苏格兰1-0胜海地士气爆棚，28年重返世界杯胜利提振信心，但海地实力有限，参考价值需打折。",
-        "injuryImpact": "巴西罗德里戈、埃斯特旺伤缺削弱边路轮换深度，蒂亚戈·席尔瓦落选使后防经验下降，首轮失球即证明；苏格兰伤情未明，若主力健康则结构完整性强，定位球威胁不减。",
-        "h2hAnalysis": "两队上次世界杯交手距今30+年，时代背景与人员完全不同，历史交锋参考价值极低，当前实力与战术体系差异才是决定因素。",
-        "oddsAnalysis": "bet365苏格兰9.0/平5.2/巴西1.4，去水位后巴西公平概率约68%，平局19%，苏格兰13%。市场明确看好巴西，但苏格兰赔率隐含的爆冷空间存在，资金未出现单边倒向巴西，反映对巴西后防不稳的谨慎。",
-        "externalFactors": "迈阿密Hard Rock高温湿热，巴西南美球员适应性强，苏格兰欧洲球员需应对体能消耗。中立场无主场优势，但苏格兰旅行距离更远。巴西必须拿分的赛程压力远大于苏格兰。",
-        "psychologyAnalysis": "巴西大赛经验丰富但首轮平局后压力巨大，失利将陷出线危机；苏格兰首战胜利卸下包袱，以挑战者心态无心理负担，反击空间或更大。巴西心态紧绷可能影响发挥流畅度。",
-        "consensusView": "全网专家普遍认可巴西攻击天赋与控球优势，但一致强调苏格兰结构纪律与身体素质能让比赛艰难化。RotoWire与MinneapoliMedia均指出苏格兰功能性战术可限制巴西，爆冷概率虽低但不可忽视，平局是现实选项。",
-        "upsetProbability": 18,
+        "tacticalAnalysis": "巴西安切洛蒂4-3-3控球耐心，维尼修斯、拉菲尼亚两翼速度冲击苏格兰边路，卡塞米罗调度中场。苏格兰克拉克5-4-1或4-5-1密集防守、紧凑结构，依赖定位球与麦金、麦克托米奈反击。巴西需破密集防守，苏格兰怕被边路速度撕开身后。",
+        "physicalAnalysis": "巴西爆发力、技术与一对一能力占优；苏格兰对抗强、跑动覆盖与空中争顶出色，整体身体硬度可弥补部分技术差距，但缺乏顶级速度型攻击点。",
+        "formAnalysis": "巴西首轮1-1平摩洛哥，进攻效率不足，球迷氛围高涨（NYC接管）。苏格兰1-0胜海地，1998年来世界杯首胜，士气大振暂列小组第一，信心与凝聚力处于高点。",
+        "injuryImpact": "巴西罗德里戈、埃斯特旺长期伤缺，蒂亚戈·席尔瓦落选削弱进攻深度与后防经验，但主力框架完整。苏格兰伤情未明，需关注罗伯逊、吉尔莫状态，整体阵容相对齐整。",
+        "h2hAnalysis": "两队世界杯仅1974及1990年代交手，巴西历史占优，但年代久远参考价值有限，近期无直接对话样本。",
+        "oddsAnalysis": "bet365苏格兰9/平5.2/巴西1.4。去水位后公平概率约巴西66%、平20%、苏格兰11%。资金明显倾向巴西，但1.4赔率隐含市场对巴西破密集防守效率存疑，平局5.2反映冷平有一定空间。",
+        "externalFactors": "迈阿密硬石体育场6月高温高湿，对体能消耗巨大，利于技术型巴西控球省力，苏格兰高强度逼抢与跑动易受热浪拖累，南美球迷主场氛围助巴西。",
+        "psychologyAnalysis": "巴西大赛经验与球星心理素质碾压，但背负夺冠压力。苏格兰首胜释放压力、轻装上阵，敢拼无包袱，密集防守+定位球的搏冷心态明确。",
+        "consensusView": "全网共识巴西大概率取胜，但首轮战平摩洛哥暴露锋无力，破密集防守效率成隐患。苏格兰防反+定位球若执行到位，存在偷分可能，多数预测巴西小胜或闷平。",
+        "latestNewsSummary": "苏格兰击败海地迎世界杯回归首胜，巴西球迷接管纽约备战狂欢；媒体聚焦C组怀旧叙事及摩洛哥威胁，各队大名单公布，苏格兰整体氛围积极。",
+        "upsetProbability": 35,
         "upsetTeam": "苏格兰",
         "favoriteTeam": "巴西",
         "upsetWinOdds": 9,
         "riskLevel": "medium",
-        "objectiveConclusion": "巴西实力与技术明显占优，胜率约67%，但后防伤病、首轮平局压力、苏格兰密集防守结构使比赛存在变数。最可能结果是巴西小胜1-0或2-1，平局概率约21%不可忽视，苏格兰爆冷取胜概率约18%属中等风险。比分区间：0-0/1-0/1-1/2-1。"
+        "objectiveConclusion": "巴西综合实力与个人能力全面占优，主导比赛悬念不大，但破密集防守效率与首轮平局是隐忧。苏格兰靠纪律防守+定位球有搏平甚至偷胜空间。最可能巴西1-0或2-0小胜；平局（1-1/0-0）概率不低，需警惕冷平。比分区间：巴西0-2球净胜。"
       },
       "insights": {
         "injuries": "巴西罗德里戈(膝)、埃斯特旺(腿筋)长期伤缺，蒂亚戈·席尔瓦落选；苏格兰伤情未明",
@@ -3231,7 +3543,14 @@
         ],
         "keyPlayers": "巴西:维尼修斯、拉菲尼亚、卡塞米罗；苏格兰:罗伯逊、麦克托米奈、麦金、吉尔莫",
         "xfactor": "迈阿密Hard Rock高温；苏格兰28年重返士气；巴西后防伤病与平摩洛哥后调整压力"
-      }
+      },
+      "latestNews": [
+        "World Cup 2026: How worried should Scotland be about Morocco? - BBC",
+        "World Cup 2026 – Group C guide: Scotland’s return sparks Brazil and Morocco nostalgia - The Independent",
+        "World Cup 2026 squad lists: England, Scotland, Brazil, USA, Spain, France, Germany, Netherlands, Argentina, Portugal and more - Sky Sports",
+        "World Cup Daily: Scotland defeat Haiti; Brazil fans take over NYC - ESPN",
+        "World Cup 2026: Brazil ready to party; Scotland’s big return; England recover stolen boots – as it happened - The Guardian"
+      ]
     },
     {
       "matchNo": 61,
@@ -3244,10 +3563,10 @@
       "kickoffET": "2026-06-26T15:00:00-04:00",
       "venue": "吉列体育场",
       "city": "波士顿",
-      "upsetProbability": 35,
+      "upsetProbability": 38,
       "upsetTeam": "挪威",
       "favoriteTeam": "法国",
-      "upsetWinOdds": 4.1,
+      "upsetWinOdds": 4.2,
       "marketImplied": "市场隐含法国胜率约72%，平局16%，挪威爆冷取胜仅约12%",
       "tacticalReason": "挪威依赖球星连线，法国中场绞杀力强且具顶级反击爆点，战术全面压制",
       "physicalComparison": "法国身体速度双10分呈碾压态势，挪威仅单前锋具同等对抗级",
@@ -3268,25 +3587,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "挪威": 22,
+          "挪威": 24,
           "draw": 26,
-          "法国": 52
+          "法国": 50
         },
-        "tacticalAnalysis": "法国4-2-3-1以姆巴佩游弋和登贝莱边路爆点制造纵深，中场扎比奥尔提供保护。挪威主打厄德高串联+哈兰德支点的直接打法，瑟尔洛特补充高空。法国控球与转换速度占优，但若厄德高在场，挪威反击与定位球可针对法国偶有松散的双后腰空间。",
-        "physicalAnalysis": "法国整体速度与边路冲击力顶级，登贝莱、姆巴佩拉开空间。挪威在对抗和高空球上占优，哈兰德、瑟尔洛特身体压制力强。耐力两队接近，法国轮换深度更优。",
-        "formAnalysis": "法国3月胜巴西、哥伦比亚显实力，但负科特迪瓦暴露防线隐患。挪威缺核心情况下负荷兰，参考价值有限，主力齐整时上限不低，士气依赖核心健康。",
-        "injuryImpact": "厄德高膝伤是最大变量，缺阵将大幅削弱挪威组织;海格姆带伤降效率。法国萨利巴回归利好防线，姆巴佩体能存疑但出场无虞，整体影响小于挪威。",
-        "h2hAnalysis": "世界杯首次交手，历史法国7胜4平4负略占优但年代跨度大，参考价值有限，更多体现法国传统强势。",
-        "oddsAnalysis": "两平台法国客胜1.80-1.82高度一致，去水位后法国胜约53%、平约27%、挪威约20%，资金明显倾向法国。盘口稳定无异动，市场视法国为可靠热门，但非压倒性，留有平局与冷门空间。",
-        "externalFactors": "中立场地波士顿吉列球场，两队均无真正主场;6月美东偏热可能影响节奏与体能，对依赖跑动的法国略有考验，旅行赛程双方相近。",
-        "psychologyAnalysis": "法国大赛经验与夺冠底蕴明显占优，抗压能力强。挪威多数核心首次世界杯，出线压力下心态是隐患，但哈兰德、厄德高个人大场面能力可弥补。",
-        "consensusView": "全网共识法国是I组头名与夺冠热门，实力评级显著高于挪威。挪威被普遍视为最强黑马，关键前提是锋线主力齐整且厄德高健康，否则上限受限。多数专家看好法国但承认挪威具备爆冷资本。",
-        "upsetProbability": 35,
+        "tacticalAnalysis": "法国4-2-3-1控球占优，姆巴佩游弋+登贝莱边路冲击，扎比奥尔单后腰需防反击。挪威依赖厄德高串联与哈兰德支点、瑟尔洛特高空双塔，主打防守反击与定位球。若厄德高缺阵，挪威进攻输送骤降，恐被法国中场绞杀。法国速度与传切克制挪威阵地战。",
+        "physicalAnalysis": "挪威整体高大强壮，哈兰德瑟尔洛特制空与对抗顶级，定位球威胁大。法国速度爆发与技术细腻占优，姆巴佩登贝莱冲击力强。身体维度挪威略胜，速度法国领先。",
+        "formAnalysis": "法国3月胜巴西、哥伦比亚显实力，但负科特迪瓦暴露后防隐患。挪威世界杯首战哈兰德梅开二度胜伊拉克，士气正盛，锋线手感火热，整体信心充足。",
+        "injuryImpact": "法国萨利巴重返合练利好后防，姆巴佩体能待观察。挪威厄德高膝伤为最大悬念，若缺阵中场组织瘫痪；海格姆带伤防线承压，伤情直接决定挪威上限。",
+        "h2hAnalysis": "世界杯首次交手。历史法国7胜4平4负占优，整体压制但非碾压，挪威具一定爆冷底蕴。",
+        "oddsAnalysis": "Pinnacle法国1.82、挪威4.2，去水后法国约51%、平25%、挪威22%。两平台高度一致，资金明显倾向法国。赔率反映法国大热但未封死，挪威客胜赔率留有冷门空间，无异常大额异动。",
+        "externalFactors": "波士顿吉列体育场中立场地，6月底气温温和。两队均客场作战，北欧球员适应凉爽气候，环境对挪威略友好，但影响有限。",
+        "psychologyAnalysis": "法国大赛经验与球星抗压能力顶级，决赛级阵容心理稳定。挪威世界杯经验匮乏，但哈兰德首战进球释放压力，初生牛犊敢拼，心态较放松。",
+        "consensusView": "全网共识法国为明显热门，实力、深度、经验全面占优，普遍预期法国取胜或控盘。挪威被视为靠哈兰德博冷的潜力黑马，厄德高出战与否是分水岭，多数分析看好法国但不排除被定位球偷分。",
+        "latestNewsSummary": "哈兰德世界杯首秀梅开二度击败伊拉克，状态火爆成焦点；媒体主打哈兰德与姆巴佩巨星对决；I组含法国、塞内加尔、伊拉克、挪威，法国被列夺冠热门。",
+        "upsetProbability": 38,
         "upsetTeam": "挪威",
         "favoriteTeam": "法国",
-        "upsetWinOdds": 4.1,
+        "upsetWinOdds": 4.2,
         "riskLevel": "medium",
-        "objectiveConclusion": "法国实力、深度与大赛经验全面占优，是合理热门。挪威爆冷取决于厄德高健康及哈兰德、瑟尔洛特的高空与反击效率，定位球是其最现实武器。综合研判法国胜面较大但难言稳赢，最可能比分为2-1、2-0或1-1，平局风险不可忽视。"
+        "objectiveConclusion": "法国实力与深度占优，控球与速度主导比赛，胜算约五成。但挪威定位球与哈兰德支点构成实打实威胁，若厄德高健康出战爆冷概率显著上升。支持爆冷:挪威士气正盛、双塔制空、法国防线有隐患；反对:法国整体碾压、经验丰富。预测法国小胜，比分区间2-1、2-0，平局1-1亦不排除。"
       },
       "insights": {
         "injuries": "法国萨利巴背伤已重返合练，姆巴佩体能受关注；挪威厄德高膝伤恢复是最大悬念，海格姆带伤",
@@ -3300,7 +3620,14 @@
         ],
         "keyPlayers": "法国:姆巴佩、登贝莱、扎比奥尔；挪威:哈兰德、厄德高、瑟尔洛特",
         "xfactor": "波士顿球场；姆巴佩与厄德高伤情"
-      }
+      },
+      "latestNews": [
+        "World Cup 2026 Group I guide - fixtures, schedule, standings and odds for France, Senegal, Iraq and Norway - Sky Sports",
+        "Group I at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "How to Get Norway vs. France World Cup Tickets at a Discount to Catch the Haaland &amp; Mbappé Showdown - stylecaster.com",
+        "Norway’s Erling Haaland punishes Iraq with double on World Cup debut - The Guardian",
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports"
+      ]
     },
     {
       "matchNo": 64,
@@ -3313,10 +3640,10 @@
       "kickoffET": "2026-06-26T23:00:00-04:00",
       "venue": "BC体育场",
       "city": "温哥华",
-      "upsetProbability": 12,
+      "upsetProbability": 18,
       "upsetTeam": "新西兰",
       "favoriteTeam": "比利时",
-      "upsetWinOdds": 9.32,
+      "upsetWinOdds": 9,
       "marketImplied": "市场隐含新西兰胜率约10%，比利时获胜概率超75%，让球盘口极深。",
       "tacticalReason": "新西兰主打密集防守与长传冲吊，比利时若破密防乏力且防线压上，易被反击偷袭得手。",
       "physicalComparison": "新西兰对抗凶悍且制空强，比利时技术占优但跑动与体能受老化拖累。",
@@ -3342,25 +3669,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "新西兰": 8,
-          "draw": 15,
-          "比利时": 77
+          "新西兰": 11,
+          "draw": 18,
+          "比利时": 71
         },
-        "tacticalAnalysis": "比利时控球主导型打法(德布劳内组织+多库边路冲击)对阵新西兰贝兹利4-4-2密集防守体系。新西兰依赖中路收缩限制空间，通过定位球利用伍德制空权与反击寻机。比利时边路下底战术克制密集防守，但需警惕定位球失误及反击被打穿肋部。",
-        "physicalAnalysis": "比利时速度(多库/奥彭达)与技术优势明显，对抗均衡。新西兰伍德制空与卡卡切爆发力突出，但整体速度与持续对抗能力逊于对手，后防线面对快速反击压力大。",
-        "formAnalysis": "比利时热身赛进攻火爆、世界排名第8状态上佳。新西兰3月缺主力仍4-1胜智利展现韧性，伍德伤愈复出状态出色，但整体班底与对手差距明显，士气依赖防守信念。",
-        "injuryImpact": "新西兰卡卡切腘绳肌存疑可能削弱反击速度与突破点，但伍德复出稳定定位球威胁。比利时无重大伤情，核心阵容完整，库尔图瓦/德布劳内/卢卡库三叉戟齐整占优。",
-        "h2hAnalysis": "历史交锋稀少，2020年0-0平局显示新西兰防守韧性，但样本不足以预测本场。FIFA排名(47 vs 8)与实力差距更具参考价值。",
-        "oddsAnalysis": "三大平台赔率一致性高(比利时1.27-1.3)，去水位后比利时胜率约75-78%，新西兰9.32赔率对应约8-10%概率。市场资金大幅倾向比利时，未见显著异动，反映实力差距共识。",
-        "externalFactors": "温哥华BC Place室内可控环境消除天气变数，对技术型比利时略有利。无明显主场优势，旅行与赛程影响均等，地理因素中性。",
-        "psychologyAnalysis": "比利时大赛经验丰富但背负黄金一代最后机会压力，需警惕轻敌。新西兰首场小组赛心态放松、无包袱，可能激发斗志，但缺乏世界杯淘汰赛经验。",
-        "consensusView": "全网专家(worldcupwiki/FWC Schedule/BBC)一致预测比利时3-1取胜，但承认新西兰可能通过伍德定位球扳回一城。市场与舆论均认可比利时实力优势，同时不排除新西兰制造麻烦。",
-        "upsetProbability": 12,
+        "tacticalAnalysis": "比利时控球主导、边路下底，德布劳内组织串联，多库突破制造杀机，卢卡库支点压制。新西兰贝兹利4-4-2双线密集防守压缩空间，靠定位球与伍德支点反击。比利时需破密防、防对方定位球反扑，控球破联防是关键命题。",
+        "physicalAnalysis": "新西兰身材高大、对抗与制空强，定位球与拼抢占优；比利时整体技术细腻、节奏与跑动衔接更高效，攻防转换速度领先，体能储备相当。",
+        "formAnalysis": "比利时热身进攻火爆、排名前十，状态正盛；新西兰3月缺主力仍4-1胜智利显韧性。新闻聚焦赛程与博彩预测，普遍视比利时为大热，未现比利时负面状态信号。",
+        "injuryImpact": "比利时无重大伤情，阵容齐整；新西兰伍德大伤复出状态出色是利好，但卡卡切腘绳肌存疑或削弱反击。整体伤病天平略向比利时倾斜。",
+        "h2hAnalysis": "交锋样本少，2020年曾0-0闷平，显示新西兰密防能阶段性限制比利时，但缺乏正式大赛参考。",
+        "oddsAnalysis": "三平台高度一致，比利时1.27-1.30、新西兰8-9.5。去水位后比利时约74-76%、平局15-17%、新西兰约9-11%。资金一边倒押比利时，盘口稳定无异动，反映市场对实力差距共识，爆冷未获资金青睐。",
+        "externalFactors": "温哥华BC体育场为室内/可封顶场地，气候影响小。中立场地，比利时拥趸预计更多，新西兰主场氛围有限但作澳新区域相对接近。",
+        "psychologyAnalysis": "比利时大赛经验丰富、球星抗压强但近年逢小队偶有大意；新西兰心理包袱小、敢拼无压力，定位球与反扑或制造心理冲击。",
+        "consensusView": "全网共识比利时大幅领先并强力看好取胜，多数预测让球过盘。新西兰被普遍视为陪跑，但其密防+定位球体系被视为可能拖慢比赛、制造低比分悬念的变量。",
+        "latestNewsSummary": "新闻多为赛程观赛指南与G组数据。CBS体育预测涵盖比利时与新西兰相关赛事，整体定调比利时为夺分大热，无突发伤停或动荡消息。",
+        "upsetProbability": 18,
         "upsetTeam": "新西兰",
         "favoriteTeam": "比利时",
-        "upsetWinOdds": 9.32,
+        "upsetWinOdds": 9,
         "riskLevel": "low",
-        "objectiveConclusion": "实力、排名、赔率、专家观点四维度指向比利时大概率取胜(77%)。新西兰爆冷概率约12%，需依赖比利时轻敌+定位球奇兵+反击偷袭组合拳。最可能比分2-0或3-1(比利时)，小概率1-1/0-0或新西兰1-0爆冷。"
+        "objectiveConclusion": "比利时实力、状态、阵容全面占优，胜算明显。支持爆冷理由：新西兰密防反击+定位球、伍德复出、曾0-0逼平；反对理由：实力代差大、比利时无伤兵且火力旺。最可能比利时2-0或3-1取胜，新西兰若死守低比分丢球，冷平概率有限。"
       },
       "insights": {
         "injuries": "新西兰伍德大伤后复出状态出色，卡卡切腘绳肌存疑；比利时无重大伤情",
@@ -3374,7 +3702,14 @@
         ],
         "keyPlayers": "新西兰:伍德、卡卡切；比利时:德布劳内、多库、卢卡库",
         "xfactor": "温哥华BC Place室内可控环境；新西兰机会在定位球给伍德送球"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "The 2026 FIFA Men's World Cup schedule and how to watch - CBS News",
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "Group G at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "2026 World Cup picks, odds, predictions: Best bets for Belgium-Egypt, Iran-New Zealand on Monday - CBS Sports"
+      ]
     },
     {
       "matchNo": 50,
@@ -3387,7 +3722,7 @@
       "kickoffET": "2026-06-24T18:00:00-04:00",
       "venue": "梅赛德斯奔驰球场",
       "city": "亚特兰大",
-      "upsetProbability": 11,
+      "upsetProbability": 13,
       "upsetTeam": "海地",
       "favoriteTeam": "摩洛哥",
       "upsetWinOdds": 9.75,
@@ -3406,25 +3741,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "摩洛哥": 73,
+          "摩洛哥": 74,
           "draw": 18,
-          "海地": 9
+          "海地": 8
         },
-        "tacticalAnalysis": "摩洛哥4-1-4-1无球紧凑，抢断后快速直传切割空间，转换进攻威胁极大；海地4-2-3-1主动收缩中低位，双后腰封锁肋部寻求反击。两套体系相克明显——摩洛哥的边路个人能力与哈基米套上将持续冲击海地防线，海地能否保持90分钟阵型完整是关键，一旦被反复打穿肋部易连续失球。",
-        "physicalAnalysis": "摩洛哥在速度、对抗与五大联赛经验上全面占优，边后卫前插冲击力突出；海地球员身体条件不俗但比赛节奏适应与高强度耐力略逊，下半场体能下滑风险更高。",
-        "formAnalysis": "摩洛哥前两轮对巴西、苏格兰积累状态与信心，整体稳定；海地仍在追逐世界杯首胜，士气承压但抱破釜沉舟之心，防守专注度可能阶段性拉满。",
-        "injuryImpact": "双方均无公开报道的重要伤停，阵容基本完整，伤病因素对赛果影响有限，不构成左右盘口的变量，主力框架均可按既定战术部署排兵。",
-        "h2hAnalysis": "两队历史交锋记录稀少，缺乏稳定样本，参考价值很低，难以据此推断风格压制或心理优势。",
-        "oddsAnalysis": "bet365主胜1.32、平5.2、客胜9.75，去水位后公平概率约摩洛哥74%、平17%、海地9%，与情报研判高度一致。低赔且无明显资金回流海地，市场对摩洛哥取胜共识强烈，盘口稳定，缺乏冷门资金信号。",
-        "externalFactors": "亚特兰大梅赛德斯奔驰为室内顶棚球场，气候可控；摩洛哥拥有更广泛的海外球迷主场氛围，旅行与赛程对双方相对均衡，环境利好偏向摩洛哥。",
-        "psychologyAnalysis": "摩洛哥具上届四强大赛底蕴与出线主动权，心理稳定；海地承受首胜与小组垫底双重压力，年轻阵容大赛经验不足，逆境中易情绪波动。",
-        "consensusView": "RotoWire视摩洛哥为C组结构最难对付、转换威胁突出的球队，FOX明确将其列为战术favorite，全网共识一边倒看好摩洛哥稳胜。海地被普遍定位为防守求生角色，专家分歧仅在于净胜球与是否零封，而非胜负归属。",
-        "upsetProbability": 11,
+        "tacticalAnalysis": "摩洛哥4-1-4-1无球紧凑、抢断后快速直传，边翼哈基米持续压上制造宽度与肋部穿插；海地4-2-3-1中低位收缩，依赖伊西多尔、纳松反击。海地双后腰若被摩洛哥中场人数压制，护球与出球质量将决定能否化解持续围攻，整体相克偏向摩洛哥。",
+        "physicalAnalysis": "摩洛哥球员多在欧洲顶级联赛，身体对抗、覆盖与攻防转换速度占优；海地体能与爆发力不弱，但高强度跑动持续性与对抗质量略逊，下半场易被拉开身体差距。",
+        "formAnalysis": "摩洛哥前两轮战巴西、苏格兰锻炼成色，结构成熟；新闻称巴西在对摩洛哥时暴露老问题，侧面印证摩洛哥施压能力。海地仍在寻求世界杯首胜，士气承压但具搏命动机。",
+        "injuryImpact": "双方均无公开报道的重要伤停，最新新闻亦未提及关键缺阵。摩洛哥阵容深度更厚，轮换余地大；海地一旦核心伊西多尔或纳松受限，反击锐度将明显下降。",
+        "h2hAnalysis": "两队历史交锋记录稀少，缺乏稳定参考样本，对预测权重有限，更多依赖当前实力与状态判断。",
+        "oddsAnalysis": "bet365开1.32/5.2/9.75，隐含概率约75.8%/19.2%/10.3%，去水位后约67%/17%/9%加归一。盘口坚定看好摩洛哥，资金无明显倒灌弱队迹象，平局赔率偏高反映市场预期摩洛哥控场取胜。",
+        "externalFactors": "亚特兰大梅赛德斯奔驰为封闭式球场，受高温降雨影响小；6月闷热对体能消耗仍存。两队均非主场，但摩洛哥球迷动员力与中立场适应性更强。",
+        "psychologyAnalysis": "摩洛哥有上届四强底蕴与大赛经验，心理稳定；海地大赛舞台经验匮乏，背负首胜压力，易在落后后心态波动，但也可能放开手脚搏杀。",
+        "consensusView": "全网主流共识一致看好摩洛哥取胜，The Athletic等预测亦倾向强队掌控。海地被普遍视为出局边缘、寻求尊严之战，胜负悬念低，焦点在摩洛哥能否大比分锁定小组出线。",
+        "latestNewsSummary": "新闻聚焦巴西对摩洛哥暴露问题后寻求重整、C组观赛指南与第3轮预测；海地多以陪衬身份出现，凸显摩洛哥已是C组实力上游。",
+        "upsetProbability": 13,
         "upsetTeam": "海地",
         "favoriteTeam": "摩洛哥",
         "upsetWinOdds": 9.75,
         "riskLevel": "low",
-        "objectiveConclusion": "综合赔率与情报，摩洛哥个人能力与战术执行全面占优，胜算明显。支持爆冷的论据仅限海地若全场死守加门将神勇可能偷分；反对论据更充分——实力、状态、心理、环境均倾向摩洛哥。最可能结果为摩洛哥取胜，比分区间2-0至3-0，海地零星反击难改大局。"
+        "objectiveConclusion": "摩洛哥在实力、阵容深度与大赛经验全面占优，胜算明显。支持爆冷的论据为海地搏命动机及单场偶然性、定位球与反击一击；反对论据是实力差距与摩洛哥结构成熟。最可能摩洛哥取胜，比分区间1-0至3-0，2-0概率最高；海地零封或拿分概率偏低。"
       },
       "insights": {
         "injuries": "双方均无公开报道的重要伤停",
@@ -3437,7 +3773,14 @@
         ],
         "keyPlayers": "摩洛哥:哈基米；海地:伊西多尔、纳松",
         "xfactor": "亚特兰大球场+摩洛哥个人能力差距明显，海地需保持90分钟防守韧性"
-      }
+      },
+      "latestNews": [
+        "Brazil vs Haiti at FIFA World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Brazil seek Haiti reset after Morocco expose familiar cracks - Reuters",
+        "World Cup predictions: Brazil vs Morocco, Haiti vs Scotland and rest of matchday 3 - The Athletic - The New York Times",
+        "World Cup 2026 – Group C guide: Scotland’s return sparks Brazil and Morocco nostalgia - The Independent"
+      ]
     },
     {
       "matchNo": 47,
@@ -3450,7 +3793,7 @@
       "kickoffET": "2026-06-23T13:00:00-04:00",
       "venue": "NRG体育场",
       "city": "休斯顿",
-      "upsetProbability": 7,
+      "upsetProbability": 18,
       "upsetTeam": "乌兹别克斯坦",
       "favoriteTeam": "葡萄牙",
       "upsetWinOdds": 9,
@@ -3469,25 +3812,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "葡萄牙": 78,
-          "draw": 15,
-          "乌兹别克斯坦": 7
+          "葡萄牙": 72,
+          "draw": 20,
+          "乌兹别克斯坦": 8
         },
-        "tacticalAnalysis": "葡萄牙4-3-3高位控球，维蒂尼亚与B费组织串联，边路冲击力强，进攻层次丰富。乌兹卡纳瓦罗布置中场密集低位防守，依赖沙穆罗多夫快反。葡萄牙需破解对手收缩防线，定位球与边路传中是突破口；乌兹一旦失球易被扩大比分。",
-        "physicalAnalysis": "葡萄牙整体速度、对抗与技术全面占优，边锋爆发力突出。乌兹球员身体强壮、对抗不弱，但运动能力和持续高强度耐力略逊，高温下消耗更快。",
-        "formAnalysis": "葡萄牙热身全胜且手握欧国联冠军，士气与信心高涨。乌兹热身负加拿大、荷兰，世界杯首秀经验欠缺，状态与心态待检验，但首秀拼劲不可低估。",
-        "injuryImpact": "双方均无重大伤停，莱昂停赛已解禁，葡萄牙阵容完整深度充足。乌兹全员可用，无人员折损，但缺乏顶级轮换深度，体能分配压力更大。",
-        "h2hAnalysis": "双方历史交锋稀少，缺乏直接参考样本，对战意义有限，更多依赖实力与状态判断。",
-        "oddsAnalysis": "bet365主胜1.25对应隐含概率约80%，平6.5约15%，客胜9约11%，返还率约106%。去水位后葡萄牙公平胜率约75-78%，平局14-15%，乌兹胜约7%。资金高度押注葡萄牙，市场一边倒，无明显冷门信号。",
-        "externalFactors": "休斯顿NRG为室内可控温球场，高温影响被弱化。两队均属客场，旅行因素相近。世界杯首秀的舞台压力对乌兹更大。",
-        "psychologyAnalysis": "葡萄牙大赛经验丰富、夺冠底蕴深厚，心理优势明显。乌兹首登世界杯，背负历史性出场压力，专注主攻小组第三出线，对阵强队心态相对放松。",
-        "consensusView": "全网专家普遍看好葡萄牙凭深度与攻击质量轻取，RotoWire认为乌兹真正目标是第三名出线。Squawka指出乌兹锋线有威胁、卡纳瓦罗防守稳健，或能限制比分，但难撼动结果。共识为葡萄牙大概率取胜。",
-        "upsetProbability": 7,
+        "tacticalAnalysis": "葡萄牙4-3-3高位控球，维蒂尼亚组织、B费前插、边路莱昂解禁回归制造宽度。乌兹卡纳瓦罗主打中场密集+低位防守，依赖沙穆罗多夫与法伊祖拉耶夫快反。葡萄牙需破密集防守耐心传导，乌兹禁区前沿协防与定位球是相克关键。",
+        "physicalAnalysis": "葡萄牙整体对抗、速度与技术均占优，边后卫体能充沛。乌兹球员身体强壮、空中能力不俗，但持续高强度跑动与压迫下易被拉开空间。",
+        "formAnalysis": "葡萄牙首战1-1平局未达预期，急需取胜稳定出线主动权，斗志被激发。乌兹首战负哥伦比亚，世界杯首秀经验不足但全队拼劲足，士气受挫但仍有放手一搏空间。",
+        "injuryImpact": "葡萄牙全队健康，莱昂停赛已解禁回归增强边路；乌兹全员可用无伤停。双方阵容完整，伤病不构成实质性变量，葡萄牙深度优势明显。",
+        "h2hAnalysis": "双方历史交锋极少，缺乏直接参照，心理与技战术压制更多取决于实力与大赛经验差距。",
+        "oddsAnalysis": "bet365 1.25/6.5/9，主胜深度看好。去水后公平概率约葡萄牙74%、平15%、客11%。资金高度押向葡萄牙，赔率反映实力鸿沟，但首轮双方均失分，葡萄牙强攻心态或留反击空间。",
+        "externalFactors": "休斯顿NRG为封顶球场可控温，6月炎热湿度高对乌兹耐热略有利，但中性场地观众多倾向葡萄牙，主场氛围影响有限。",
+        "psychologyAnalysis": "葡萄牙大赛经验丰富、欧国联冠军底蕴，C罗领衔抗压强；乌兹首登世界杯，心理稚嫩，落后后易急躁，但无包袱可轻装上阵。",
+        "consensusView": "全网共识葡萄牙大概率取胜并掌控比赛，多数预测2-0或2-1。乌兹被视为本组最弱，爆冷需依赖快反与定位球及葡萄牙急躁失衡，概率偏低但非为零。",
+        "latestNewsSummary": "葡萄牙首战1-1爆冷被逼平，乌兹0负哥伦比亚。K组形势收紧，葡萄牙急需取胜，本场为其出线关键反弹之战。",
+        "upsetProbability": 18,
         "upsetTeam": "乌兹别克斯坦",
         "favoriteTeam": "葡萄牙",
         "upsetWinOdds": 9,
         "riskLevel": "low",
-        "objectiveConclusion": "葡萄牙实力、深度与状态全面占优，胜率高，爆冷风险低。乌兹若凭密集防守与快反或能控制失球数，但取胜概率极小。支持冷门的论据仅限葡萄牙首战可能保守、乌兹防守韧性；反对论据更充分。最可能比分2-0或3-0葡萄牙获胜，乌兹进球或维持小负空间存在。"
+        "objectiveConclusion": "葡萄牙实力、深度与经验全面占优，首战失分后反弹动机强，大概率掌控并取胜，比分区间2-0至3-1最可能。支持爆冷:乌兹密集防守+快反可咬住，葡若急躁或被偷袭逼平。反对爆冷:实力鸿沟巨大、莱昂回归、乌兹首秀已露短板。综合判断葡萄牙胜面占绝对主导。"
       },
       "insights": {
         "injuries": "葡萄牙全队健康(莱昂红牌停1场已解禁)；乌兹别克斯坦全员可用无伤停",
@@ -3500,7 +3844,14 @@
         ],
         "keyPlayers": "葡萄牙:C罗、B费、维蒂尼亚、B席；乌兹:沙穆罗多夫、法伊祖拉耶夫、胡萨诺夫",
         "xfactor": "休斯顿NRG球场；乌兹世界杯首秀经验欠缺；C罗高龄状态"
-      }
+      },
+      "latestNews": [
+        "Group K at the 2026 World Cup: Teams, records, stats to know - ESPN",
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "Colombia beats Uzbekistan at World Cup, taking full advantage of Portugal slip-up - The New York Times",
+        "Portugal's first World Cup match ends in 1-1 draw, when is Portugal's next match? - USA Today",
+        "Uzbekistan at the 2026 World Cup: roster, list, players, group and schedule - Diario AS"
+      ]
     },
     {
       "matchNo": 67,
@@ -3513,10 +3864,10 @@
       "kickoffET": "2026-06-27T17:00:00-04:00",
       "venue": "大都会人寿球场",
       "city": "纽约/新泽西",
-      "upsetProbability": 9,
+      "upsetProbability": 12,
       "upsetTeam": "巴拿马",
       "favoriteTeam": "英格兰",
-      "upsetWinOdds": 8.5,
+      "upsetWinOdds": 7.97,
       "marketImplied": "市场极度看好英格兰（胜率约80%+），巴拿马爆冷赢球的隐含概率仅约7%。",
       "tacticalReason": "英格兰阵地战攻坚强且边路爆点多，巴拿马的密集防守难以全场抵挡其立体化进攻。",
       "physicalComparison": "英格兰身体对抗与高空球均占优，巴拿马硬度尚可但处于全方位劣势。",
@@ -3542,25 +3893,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "巴拿马": 8,
-          "draw": 14,
+          "巴拿马": 7,
+          "draw": 15,
           "英格兰": 78
         },
-        "tacticalAnalysis": "克里斯蒂安森的巴拿马以5-4-1低位密集防守为核心，靠纪律压缩空间、防守定位球反击。英格兰球星云集，控球与边路传中占优，但面对铁桶阵需耐心破密集防守，若图赫尔轮换则进攻流畅度下降，破局难度上升。",
-        "physicalAnalysis": "英格兰整体身体素质、速度与对抗均占优，中前场爆发力突出。巴拿马身体强壮、拼抢凶狠，耐力与防守强度尚可，但持续高位对抗下易被英格兰个人能力撕开。",
-        "formAnalysis": "英格兰图赫尔带队状态稳健、被视夺冠热门，士气高昂。巴拿马3月1平1胜且打入美洲国家联赛决赛，状态可圈可点，但与英格兰存在明显档次差距。",
-        "injuryImpact": "巴拿马中场核心卡拉斯基亚伤情存疑，若缺阵将削弱组织与攻防转换，影响较大。英格兰无重大伤病，阵容完整，影响主要来自末轮可能的主动轮换。",
-        "h2hAnalysis": "两队仅2018世界杯交手1次，英格兰6-1大胜。样本极小且阵容已变，参考价值有限，但反映双方实力悬殊的基本面。",
-        "oddsAnalysis": "三平台英格兰主胜1.24-1.29、巴拿马客胜7.97-10，市场高度一致看好英格兰。去水位后英格兰胜约75-78%、平局约13-15%、巴拿马胜约7-9%。资金一边倒，未见明显冷门信号。",
-        "externalFactors": "中立场新泽西大都会人寿球场，无真正主场。北美仲夏夜赛或有高温高湿，对双方耐力均构成考验，对密集防守的巴拿马略不利。",
-        "psychologyAnalysis": "英格兰大赛经验与人才厚度占优，但末轮若已出线易松懈。巴拿马背负出线压力小、心理包袱轻，敢于摆大巴博取一分或冷门。",
-        "consensusView": "全网共识高度倾向英格兰。RotoWire认为巴拿马难出线但会以纪律死守定位球；Yahoo提醒巴拿马组织严密、经验丰富不易对付。专家普遍预期英格兰胜，但承认破密集防守需要耐心，且轮换可能降低净胜球。",
-        "upsetProbability": 9,
+        "tacticalAnalysis": "英格兰星阵主攻，凯恩支点、贝林厄姆前插，边路宽度充足，控球与转换均占优。巴拿马克里斯蒂安森5-4-1低位密集防守，靠纪律和反击拼运气，但首战0-1负加纳暴露进攻乏力，定位球和肋部空当易被英格兰利用，对位严重失衡。",
+        "physicalAnalysis": "英格兰球员普遍来自顶级联赛，对抗、速度、爆发力全面占优；巴拿马身体强悍但技术与节奏处下风，高强度逼抢下消耗大，下半场体能掉档风险高。",
+        "formAnalysis": "英格兰首战4-2胜克罗地亚，进攻火力足但防守露怯丢2球；巴拿马0-1憾负加纳，被绝杀士气受挫，急需分数。整体英格兰势头明显占优。",
+        "injuryImpact": "巴拿马中场核心卡拉斯基亚伤情存疑，若缺阵中场组织与拦截大减，密集防守体系运转受损；英格兰无重大伤病，阵容齐整，影响天平进一步倾向英格兰。",
+        "h2hAnalysis": "两队仅2018世界杯交手1次，英格兰6-1大胜，心理与实力压制明显，巴拿马阴影犹存。",
+        "oddsAnalysis": "三平台英格兰1.24-1.29高度一致，巴拿马7.97-10、平5.75-6.58，资金坚定看好英格兰。去水后英格兰真实胜率约76-78%、平约14%、巴拿马约6-8%。赔率结构稳定无异常波动，未见爆冷资金信号。",
+        "externalFactors": "中立场地大都会人寿球场，6月底纽约湿热，对密集防守的巴拿马体能不利；英格兰适应力更强，气候因素略助强队。",
+        "psychologyAnalysis": "英格兰图赫尔带队夺冠热门，大赛经验与心理优势明显；巴拿马首战告负背负压力，但作为弱旅无包袱，密集防守拼一波或激发斗志。",
+        "consensusView": "全网一致视英格兰为绝对热门，争议焦点在赢球分差而非胜负；巴拿马被普遍看淡，多数预测其难求一分，爆冷被视作极小概率事件。",
+        "latestNewsSummary": "英格兰4-2胜克罗地亚开门红但防线引争议；巴拿马0-1遭加纳绝杀首战失利；同组哥伦比亚3-1胜乌兹别克。巴拿马出线形势已趋紧。",
+        "upsetProbability": 12,
         "upsetTeam": "巴拿马",
         "favoriteTeam": "英格兰",
-        "upsetWinOdds": 8.5,
+        "upsetWinOdds": 7.97,
         "riskLevel": "low",
-        "objectiveConclusion": "英格兰实力、状态与市场共识全面占优，胜算约78%。巴拿马靠密集防守与定位球或可咬住一段时间，爆冷概率偏低。主要变数在于英格兰是否轮换及破密集防守效率。最可能比分英格兰2-0或3-0，若轮换则1-0或2-1，巴拿马取分概率小。"
+        "objectiveConclusion": "英格兰实力、状态、阵容全面碾压，胜率近八成，大概率多球获胜，比分区间2-0至3-1最可能。支持爆冷的论据仅有英格兰防守不稳、巴拿马摆大巴拼平的微弱可能；但巴拿马进攻贫弱、核心存疑、体能受热，平局或爆冷概率极低，难改败局。"
       },
       "insights": {
         "injuries": "巴拿马中场核心卡拉斯基亚伤情存疑；英格兰无重大伤病",
@@ -3573,7 +3925,14 @@
         ],
         "keyPlayers": "巴拿马:卡拉斯基亚、队长戈多伊；英格兰:凯恩、贝林厄姆",
         "xfactor": "末轮英格兰或已出线轮换；新泽西大都会球场氛围"
-      }
+      },
+      "latestNews": [
+        "Colombia beats Uzbekistan to wrap up first round of group games - Australian Broadcasting Corporation",
+        "Returning Colombia beats World Cup debutant Uzbekistan, Ghana downs Panama on late goal, England defeats Croatia, Portugal and DR Congo draw - NBC News",
+        "‘Should be banned!’ Controversy rocks England’s opener; late winner sparks epic scenes: Wrap - Fox Sports",
+        "FIFA World Cup 2026 as it happened: Colombia beat Uzbekistan 3-1; Ghana defeat Panama 1-0; England beat Croatia 4-2; Ronaldo’s Portugal draw 1-1 with DR Congo - SMH.com.au",
+        "2026 World Cup, Day 7: Portugal vs. DR Congo; England vs. Croatia; Ghana vs. Panama; Uzbekistan vs. Colombia - We Ain't Got No History"
+      ]
     },
     {
       "matchNo": 29,
@@ -3586,10 +3945,10 @@
       "kickoffET": "2026-06-19T21:00:00-04:00",
       "venue": "林肯金融球场",
       "city": "费城",
-      "upsetProbability": 5,
+      "upsetProbability": 8,
       "upsetTeam": "海地",
       "favoriteTeam": "巴西",
-      "upsetWinOdds": 27,
+      "upsetWinOdds": 28,
       "marketImplied": "市场隐含海地取胜概率约3-4%，巴西获胜概率超85%",
       "tacticalReason": "海地必摆铁桶阵结合高频对抗，试图利用巴西防守不稳抓反击与定位球机会。",
       "physicalComparison": "海地球员体格强悍冲击力足，巴西技术满分但防线抗高强度冲击能力存疑。",
@@ -3610,25 +3969,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "巴西": 87,
+          "巴西": 86,
           "draw": 10,
-          "海地": 3
+          "海地": 4
         },
-        "tacticalAnalysis": "安切洛蒂4-3-3依靠维尼修斯、拉菲尼亚的边路爆点与中场耐心传导寻求破密集防守；海地以紧凑中场+低位防线压缩空间，靠伊西多尔领衔的快速反击搏杀。关键在巴西能否提速打穿对方的两条防线，避免重蹈平摩洛哥时锋线效率低下的覆辙。",
-        "physicalAnalysis": "巴西在速度、爆发力与对抗强度全面占优，维尼修斯边路冲击力突出；海地球员身体强壮、跑动积极，但整体技术与对抗细腻度有差距，耐力与体系支撑略逊。",
-        "formAnalysis": "巴西首战1-1平摩洛哥暴露锋线把握机会能力不足，承受一定舆论压力；海地52年来首进世界杯，士气高昂、无包袱，敢打敢拼但缺乏顶级赛场经验。",
-        "injuryImpact": "巴西内马尔、罗德里戈、埃斯特旺缺阵且蒂亚戈·席尔瓦落选，进攻与后防经验受损，但替补深度仍远超对手；海地无伤病，可保持完整阵容与既定战术。",
-        "h2hAnalysis": "历史交锋巴西压倒性占优，但样本对当下战术意义有限，仅佐证实力鸿沟，参考价值偏低。",
-        "oddsAnalysis": "两平台巴西主胜1.11-1.13、海地客胜26-28高度一致，资金一边倒押巴西。去水位后公平概率约巴西86-88%、平10%、海地3-4%，市场未给爆冷留太多空间，反映悬殊实力差。",
-        "externalFactors": "费城中性场地，6月气温偏高湿热可能消耗体能；双方均需适应美东环境，巴西旅行与轮换调度负担相对更可控。",
-        "psychologyAnalysis": "巴西背负出线与首战平局的双重压力，需尽快进球释放紧张；海地无压力、放手一搏，心理状态轻松反而可能放大冲击力。",
-        "consensusView": "全网共识巴西胜率压倒性，进攻深度最佳为最大热门，但RotoWire与SportsLine均提醒海地的转换反击具威胁，且巴西锋线效率与轮换心理状态是隐患，胜负无悬念而比分与过程存变数。",
-        "upsetProbability": 5,
+        "tacticalAnalysis": "安切洛蒂4-3-3控球压制，维尼修斯、拉菲尼亚两翼突破制造肋部空间，缺内马尔后由组织型中场串联。海地5-4-1低位紧凑，封锁中路，依赖伊西多尔、纳松直塞快速反击。巴西需破密集防守，耐心倒脚+边路传中或远射撕开。",
+        "physicalAnalysis": "巴西球员综合速度、爆发与对抗占优，边锋冲击力突出。海地身体强壮、跑动积极，反击速度快，但整体技术与持续高强度跑动储备不及巴西。",
+        "formAnalysis": "巴西首战1-1平摩洛哥锋无力承压，急需取胜稳定出线，新闻多聚焦其阵容调整。海地52年首进世界杯士气高昂，海外侨民助威氛围浓厚，但实战分差客观存在。",
+        "injuryImpact": "巴西内马尔肌伤、罗德里戈与埃斯特旺长期缺阵、蒂亚戈·席尔瓦落选，进攻创造力与后防经验受损。海地全队健康，可全力布防反击，伤病天平略向海地倾斜。",
+        "h2hAnalysis": "两队交锋历史极少且巴西实力碾压，参考价值有限，纸面差距巨大。",
+        "oddsAnalysis": "bet365巴西1.11/平9.5/海地28，威廉希尔1.13/11/26。去水后巴西约86%、平约9%、海地约4%。赔率极端一边倒，资金高度押注巴西大胜，海地赔率持续走高反映市场看淡爆冷。",
+        "externalFactors": "费城林肯金融球场中立场地，6月闷热潮湿，巴西适应炎热气候，海地受美洲侨民支持但非真正主场，环境影响有限。",
+        "psychologyAnalysis": "巴西首战失分背负出线压力，须证明自己；海地无包袱、心态放松，初登世界杯反而敢拼，但大赛经验差距明显。",
+        "consensusView": "全网一致看好巴西大胜，预测多为2-0至4-0。共识认为巴西虽伤病减员且首战不顺，仍具压倒性个人能力，海地理论上只能寄望防守反击偷袭。",
+        "latestNewsSummary": "ESPN、Goal、Sports Mole等预览均倾向巴西取胜并预测首发；AP关注双重身份球迷情感；Sky梳理C组形势，巴西出线压力受关注。",
+        "upsetProbability": 8,
         "upsetTeam": "海地",
         "favoriteTeam": "巴西",
-        "upsetWinOdds": 27,
+        "upsetWinOdds": 28,
         "riskLevel": "low",
-        "objectiveConclusion": "实力与赔率均指向巴西大概率取胜，海地爆冷取胜概率极低。支持爆冷的论据是巴西锋线效率欠佳、核心多人缺阵及心理压力；反对论据是双方实力鸿沟与替补深度差距。最可能巴西多球获胜，比分区间2-0至3-1，海地若能限制失球已属成功。"
+        "objectiveConclusion": "巴西胜面压倒性，伤病虽削弱锋线创造力但整体实力差距悬殊，且急需取胜动力充足。海地凭密集防守与反击有偶发偷分可能，但取胜极难。最可能巴西2-0至3-0小组取胜，比分区间巴西净胜2-3球，平局或爆冷概率低。"
       },
       "insights": {
         "injuries": "巴西内马尔肌肉伤缺阵，罗德里戈、埃斯特旺长期伤缺，蒂亚戈·席尔瓦落选；海地无伤病",
@@ -3641,7 +4001,14 @@
         ],
         "keyPlayers": "巴西:维尼修斯、拉菲尼亚；海地:伊西多尔、贝勒加德、纳松",
         "xfactor": "巴西首战平局后的轮换与心理压力"
-      }
+      },
+      "latestNews": [
+        "Brazil vs Haiti at FIFA World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN India",
+        "Mixed emotions ahead of Haiti vs. Brazil for dually aligned fans headed to the World Cup game - AP News",
+        "Brazil vs Haiti FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+        "Preview: Brazil vs Haiti - prediction, team news, lineups | 2026 World Cup - Sports Mole",
+        "World Cup 2026 Group C guide - fixtures, schedule, standings and odds for Scotland, Brazil, Morocco and Haiti - Sky Sports"
+      ]
     },
     {
       "matchNo": 70,
@@ -3654,7 +4021,7 @@
       "kickoffET": "2026-06-27T22:00:00-04:00",
       "venue": "AT&T体育场",
       "city": "达拉斯",
-      "upsetProbability": 5,
+      "upsetProbability": 8,
       "upsetTeam": "约旦",
       "favoriteTeam": "阿根廷",
       "upsetWinOdds": 13.46,
@@ -3683,25 +4050,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "约旦": 5,
+          "约旦": 6,
           "draw": 12,
-          "阿根廷": 83
+          "阿根廷": 82
         },
-        "tacticalAnalysis": "约旦塞拉米的5-4-1密集防守体系理论上能压缩阿根廷的中路渗透空间，但斯卡洛尼的4-3-3控球体系配备梅西、迪马利亚等破密防大师，边路轮转+定位球是克制低位防守的最佳武器。约旦缺乏亚赛关键射手后，反击威胁骤降，塔马里单核难撑全局。",
-        "physicalAnalysis": "阿根廷在速度(迪马利亚/阿尔瓦雷斯)、对抗(奥塔门迪/罗梅罗)、耐力(中场轮换深度)全面占优。约旦身体素质在亚洲算出色，但面对南美冠军级别的强度和节奏控制，下半场体能崩盘风险高。",
-        "formAnalysis": "阿根廷作为卫冕冠军士气高涨，预选赛18战不败,阵容成熟稳定。约旦虽是2023亚洲杯亚军创造历史,但首次世界杯正赛,面对FIFA第1压力巨大,且核心射手伤缺直接削弱进攻信心。",
-        "injuryImpact": "约旦失去预选赛8球射手亚赞是致命打击,进攻体系严重依赖塔马里单点,容错率极低。阿根廷虽缺利桑德罗·马丁内斯,但后防线有奥塔门迪/罗梅罗/克里斯蒂安·罗梅罗多重保险,影响有限。",
-        "h2hAnalysis": "双方历史无交锋记录,参考价值为零。但FIFA排名差距(1 vs 44)和洲际实力差异(南美冠军 vs 亚洲亚军)提供基本参照系。",
-        "oddsAnalysis": "三大平台赔率高度一致(约旦13+/平7/阿根廷1.16-1.2),去水位后阿根廷胜率约82-84%,平局10-12%,约旦仅5-6%。赔率反映市场对实力差距的绝对共识,无明显资金异动,冷门赔付极高但合理性极低。",
-        "externalFactors": "达拉斯AT&T球场为中立场地,室内恒温消除气候因素。约旦从亚洲长途跨洲作战存在旅行疲劳,阿根廷在美洲主场作战占地利。小组赛末轮约旦可能需胜利争第三,但面对阿根廷几无可能。",
-        "psychologyAnalysis": "阿根廷大赛经验丰富,梅西领衔的冠军团队心理素质顶级。约旦首次世界杯面对FIFA第1,心理压力巨大,且核心伤缺后战术自信不足,容易在逆境中崩盘。",
-        "consensusView": "全网专家高度一致认为阿根廷将轻松取胜。WorldCupWiki预测3-0,Al Jazeera强调约旦过度依赖塔马里,RotoWire指出唯一变量是梅西出场时间。无主流声音支持约旦爆冷,共识为阿根廷控制比赛并多球取胜。",
-        "upsetProbability": 5,
+        "tacticalAnalysis": "约旦塞拉米3-4-3/5-4-1密集防守，塔马里支点反击搏单点机会；阿根廷斯卡洛尼4-3-3耐心控球，靠边路渗透与肋部直塞破密防。阿根廷个人能力与传控质量碾压，约旦需赌定位球与快速转换，但防线被压制时间将极长。",
+        "physicalAnalysis": "阿根廷整体对抗、速度、覆盖更均衡，前场爆发力突出；约旦中卫身体硬朗、空战不弱，但中场跑动与攻防转换速度落于下风，体能消耗在持续退防中累积。",
+        "formAnalysis": "最新MD6新闻显示梅西领衔阿根廷大胜，状态火热士气高昂；约旦此前0-1憾负奥地利出局边缘，进攻乏力，士气受挫，搏命心态或带来放手一搏的不可控性。",
+        "injuryImpact": "约旦头号射手亚赞十字韧带赛季报销，锋线攻坚力大减，塔马里更趋孤立；阿根廷仅利桑德罗·马丁内斯缺阵，后防深度充足影响有限，整体战力天平进一步倾向阿根廷。",
+        "h2hAnalysis": "两队历史从未正式交手，无直接数据参照；可类比阿根廷对亚洲密集防守球队的过往，通常能控场并最终破门。",
+        "oddsAnalysis": "三平台高度一致，阿根廷主胜约1.16-1.20、约旦客胜13-13.46。去水后阿根廷真实胜率约80-83%，平局约11-13%，约旦约5-6%。赔率无异常波动，资金一边倒押注阿根廷，市场无爆冷信号。",
+        "externalFactors": "达拉斯6月炎热高湿，AT&T为封顶可控温球场，削弱气候变量；中立场地双方均无主场，到场球迷预计阿根廷占优，氛围倾向蓝白军团。",
+        "psychologyAnalysis": "阿根廷卫冕冠军大赛经验与心理优势压倒性，梅西稳定军心；约旦首次参赛、已近出局，包袱小但缺乏硬仗底气，易在落后后心态崩盘扩大比分。",
+        "consensusView": "全网共识一致看好阿根廷轻取，悬念在净胜球而非胜负。多数分析认为约旦密集防守可拖延失球但难逆转，阿根廷大概率多球获胜，平局与爆冷被视为极小概率事件。",
+        "latestNewsSummary": "MD6阿根廷梅西闪耀大胜延续强势；约旦此前0-1负奥地利、攻击端疲软濒临出局，士气与战力对比进一步拉大双方差距。",
+        "upsetProbability": 8,
         "upsetTeam": "约旦",
         "favoriteTeam": "阿根廷",
         "upsetWinOdds": 13.46,
         "riskLevel": "low",
-        "objectiveConclusion": "这是一场实力差距悬殊的对决。阿根廷在阵容深度、战术成熟度、大赛经验各维度碾压约旦,后者核心射手伤缺更雪上加霜。赔率反映的5%爆冷概率已是极限,实际可能更低。最可能比分区间:阿根廷2-0至4-0,小概率1-0或平局需阿根廷大幅轮换+约旦超常发挥。"
+        "objectiveConclusion": "阿根廷在个人能力、状态、深度与经验全面占优，胜负无悬念，焦点在净胜球。约旦唯一希望是密集防守+定位球偷袭，但失射手后攻坚力锐减。最可能比分2-0至3-0区间，约旦零封难度极大；爆冷概率约8%，不建议高估搏命变量。"
       },
       "insights": {
         "injuries": "约旦头号射手亚赞(预选赛8球)十字韧带报销；阿根廷利桑德罗·马丁内斯小腿伤缺阵",
@@ -3715,7 +4083,14 @@
         ],
         "keyPlayers": "约旦:队长塔马里、替补射手奥尔万；阿根廷:梅西、劳塔罗、阿尔瓦雷斯",
         "xfactor": "达拉斯AT&T球场；末轮约旦或需取胜才能争小组第三"
-      }
+      },
+      "latestNews": [
+        "2026 World Cup results and schedule: Live scores, group stage updates and how to watch - Yahoo Sports",
+        "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, groups, results, how to watch - NBC Sports",
+        "FIFA World Cup 2026 MD6 recap: Messi, Mbappe, Haaland star in big wins, Austria edge Jordan - ESPN",
+        "Listen Live to Every Argentina FIFA World Cup 2026 Match - SiriusXM",
+        "Austria vs Jordan Quick Highlights | 2026 FIFA World Cup™ - FOX Sports"
+      ]
     },
     {
       "matchNo": 42,
@@ -3728,10 +4103,10 @@
       "kickoffET": "2026-06-22T17:00:00-04:00",
       "venue": "林肯金融球场",
       "city": "费城",
-      "upsetProbability": 6,
+      "upsetProbability": 12,
       "upsetTeam": "伊拉克",
       "favoriteTeam": "法国",
-      "upsetWinOdds": 24.53,
+      "upsetWinOdds": 15,
       "marketImplied": "市场极度看好法国，隐含胜率超85%，伊拉克取胜概率不足5%",
       "tacticalReason": "伊拉克大概率摆大巴死守，但法国拥有极强单兵爆破能力和立体进攻，不怕密集防守。",
       "physicalComparison": "法国身体和速度满分，在对抗、爆发力和制空上对伊拉克形成绝对的降维打击。",
@@ -3752,25 +4127,26 @@
       },
       "deepAnalysis": {
         "winProbability": {
-          "法国": 86,
-          "draw": 10,
-          "伊拉克": 4
+          "法国": 82,
+          "draw": 12,
+          "伊拉克": 6
         },
-        "tacticalAnalysis": "法国4-2-3-1控球占优，姆巴佩前置配合奥利塞、登贝莱形成多点冲击，琼阿梅尼后腰平衡攻守。伊拉克阿诺德布置紧凑4-4-2两条防线收缩，靠侯赛因快反偷袭。关键在伊拉克能否守住肋部并限制法国边路提速，但整体被压制概率高。",
-        "physicalAnalysis": "法国速度与个人对抗全面占优，边路爆发力突出；伊拉克身体强度尚可、耐力顽强，擅长跑动消耗，但绝对速度与肌肉对抗逊于法国一档。",
-        "formAnalysis": "法国近期胜哥伦比亚、巴西状态火热，信心十足；伊拉克附加赛淘汰玻利维亚出线、热身逼平西班牙显示韧性，士气可用但面对顶级球队差距明显。",
-        "injuryImpact": "姆巴佩膝伤虽3月已恢复仍需谨慎管理，可能轮换或限时出场，对法国进攻略有影响但深度足以弥补；伊拉克全队健康，无减员困扰。",
-        "h2hAnalysis": "双方历史交锋稀少，缺乏足够样本，参考价值有限，难以据此修正实力判断。",
-        "oddsAnalysis": "Pinnacle法国1.11对应去水位后约87%胜率，平局约8%，伊拉克仅约4%。bet365略保守(1.2)。市场资金高度一致倾向法国，赔率分歧主要在平局与客胜的细微定价，整体反映极不对称的实力差。",
-        "externalFactors": "费城高温考验体能，对依赖跑动的伊拉克消耗更大；法国阵容深度便于轮换管理。中立场地无明显主场优势，旅行因素双方接近。",
-        "psychologyAnalysis": "法国大赛经验丰富、抗压能力强；伊拉克需连战三强处境艰难，无包袱可放手一搏，但出线现实压力下心理易受比分波动影响。",
-        "consensusView": "全网共识高度倾向法国：Yahoo指其阵容深度顶级、伊拉克连战三强艰难；RotoWire认为法国稳拿小组第一，唯一变数是姆巴佩状态。专家普遍视此战为法国练兵，悬念在赢球分差而非胜负归属。",
-        "upsetProbability": 6,
+        "tacticalAnalysis": "法国4-2-3-1控球压制，姆巴佩前置威胁、奥利塞登贝莱边路爆点，琼阿梅尼护卫。伊拉克阿诺德式紧凑4-4-2双线低位防守靠快反，需压缩肋部空间。法国传控质量与个人能力远超对手，破密集防守需耐心，伊拉克防反搏冷靠定位球与转换。",
+        "physicalAnalysis": "法国身体对抗、爆发速度与冲刺质量占优，登贝莱姆巴佩边路提速难防。伊拉克体能充沛、跑动覆盖积极，但单兵对抗与高位强度不及法国。",
+        "formAnalysis": "法国3月胜哥伦比亚、状态火热，世界杯揭幕战已取胜士气高涨。伊拉克附加赛淘汰玻利维亚出线、热身逼平西班牙信心可观，但面对顶级强队仍属下风。",
+        "injuryImpact": "姆巴佩膝伤已3月康复但需谨慎轮换，或限制出场时间影响进攻锐度。伊拉克全队健康为利好，体能完整有利于全场高强度防守与反扑。",
+        "h2hAnalysis": "双方历史交锋稀少，缺乏直接参照价值，实力与排名差距为主要判断依据。",
+        "oddsAnalysis": "bet365主胜1.2、pinnacle低至1.11，平赔6.5-8.17，客胜15-24.53，资金高度押注法国。去水位后法国公平胜率约82-85%、平约11-12%、伊拉克约4-6%，市场共识极度一边倒，无明显冷门资金流入。",
+        "externalFactors": "费城林肯金融球场为中立场，但北美大量法国球迷与媒体关注形成准主场氛围。6月炎热可能消耗体能，对伊拉克防反耐力是考验。",
+        "psychologyAnalysis": "法国大赛经验与冠军底蕴深厚，抗压稳定。伊拉克心理放松无包袱可全力一搏，但面对夺冠热门易受心理压制，先失球后易崩盘。",
+        "consensusView": "全网一致看好法国大概率取胜，The Athletic等预测法国控场。分歧仅在净胜球与是否零封，伊拉克爆冷被视为极小概率事件，多数机构判定法国2球以上优势。",
+        "latestNewsSummary": "Sky Sports确认I组含法国、塞内加尔、伊拉克、挪威；法国揭幕战已胜；多家机构开出法国大热赔率，预测普遍倾向法国轻取。",
+        "upsetProbability": 12,
         "upsetTeam": "伊拉克",
         "favoriteTeam": "法国",
-        "upsetWinOdds": 24.53,
+        "upsetWinOdds": 15,
         "riskLevel": "low",
-        "objectiveConclusion": "法国实力、阵容深度与状态全面占优，胜负悬念极小。伊拉克唯一指望是高温消耗、密集防守加快反偷袭，并寄望法国轮换失衡，但成功概率很低。最可能法国掌控比赛胜出，比分区间2-0至3-0；伊拉克若严密防守或可控制失球至1球内。"
+        "objectiveConclusion": "法国实力、状态、经验全面占优，胜算超八成，预计掌控比赛并多球取胜，比分区间2-0至3-1。支持爆冷论据为伊拉克健康整齐、防反纪律性强且无心理包袱；反对论据为实力鸿沟、法国攻击群火热。伊拉克若想搏分需极致防守加把握快反，最佳结果或为小负或偷得平局，概率偏低。"
       },
       "insights": {
         "injuries": "姆巴佩膝伤仍需谨慎管理，3月已恢复；伊拉克全队健康",
@@ -3783,7 +4159,14 @@
         ],
         "keyPlayers": "法国:姆巴佩、登贝莱、奥利塞、琼阿梅尼；伊拉克:侯赛因、阿勒哈马迪、伊克巴尔",
         "xfactor": "伊拉克防守反击+体能消耗战；费城高温与法国轮换管理"
-      }
+      },
+      "latestNews": [
+        "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+        "World Cup 2026 Group I guide - fixtures, schedule, standings and odds for France, Senegal, Iraq and Norway - Sky Sports",
+        "World Cup predictions: France vs Senegal, Argentina vs Algeria and rest of matchday 6 - The Athletic - The New York Times",
+        "France wins World Cup opener, when do Les Bleus play again? Shop France soccer tickets - USA Today",
+        "Opening odds for France vs. Iraq in the FIFA 2026 World Cup - DraftKings Network"
+      ]
     }
   ],
   "oddsUpdatedAt": "2026-06-16T09:31:23.196Z",
@@ -3795,5 +4178,6 @@
   ],
   "oddsSource": "联网搜索 (Pinnacle/Bet365/William Hill/Polymarket 等公开盘口)",
   "deepModel": "claude-opus-4-8",
-  "deepAnalyzedAt": "2026-06-16T10:22:14.881Z"
+  "deepAnalyzedAt": "2026-06-16T10:22:14.881Z",
+  "lastUpdated": "2026-06-18T06:45:36.052Z"
 }
