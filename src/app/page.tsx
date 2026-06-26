@@ -5,6 +5,7 @@ import { groups } from '@/data/matches'
 import analysisData from '@/data/analysis.json'
 import UpsetCard from '@/components/UpsetCard'
 import GroupView from '@/components/GroupView'
+import BracketView from '@/components/BracketView'
 
 interface UpsetResult {
   matchNo: number
@@ -35,7 +36,7 @@ type SortMode = 'upset' | 'time'
 type RiskFilter = 'all' | 'high' | 'medium' | 'low'
 
 export default function HomePage() {
-  const [activeTab, setActiveTab] = useState<'analysis' | 'groups'>('analysis')
+  const [activeTab, setActiveTab] = useState<'analysis' | 'groups' | 'bracket'>('analysis')
   const [sortMode, setSortMode] = useState<SortMode>('upset')
   const [riskFilter, setRiskFilter] = useState<RiskFilter>('all')
 
@@ -107,6 +108,16 @@ export default function HomePage() {
           }`}
         >
           📋 小组总览
+        </button>
+        <button
+          onClick={() => setActiveTab('bracket')}
+          className={`px-6 py-3 rounded-lg font-medium transition-all ${
+            activeTab === 'bracket'
+              ? 'bg-yellow-500/20 text-yellow-400 border border-yellow-500/50'
+              : 'bg-white/5 text-gray-400 border border-white/10 hover:bg-white/10'
+          }`}
+        >
+          🏆 淘汰赛对阵
         </button>
       </div>
 
@@ -181,6 +192,8 @@ export default function HomePage() {
           ))}
         </div>
       )}
+
+      {activeTab === 'bracket' && <BracketView />}
 
       {/* 底部 */}
       <footer className="text-center mt-16 text-gray-500 text-sm">

@@ -2,7 +2,7 @@ name: Auto Update Analysis
 
 on:
   schedule:
-    - cron: '0 */4 * * *'   # 每4小时(UTC)
+    - cron: '0 4 * * *'    # 美东0点 = UTC 4:00 (EDT)
   workflow_dispatch:
 
 permissions:
