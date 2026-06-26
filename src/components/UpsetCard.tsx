@@ -21,6 +21,7 @@ interface DeepAnalysis {
   historicalUpsetPattern?: string
   valueAssessment?: string
   upsetScenario?: string
+  qualificationAnalysis?: string
 }
 
 interface Insights {
@@ -220,6 +221,7 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
               {da?.injuryImpact && <Dim icon="🏥" label="伤病停赛影响" text={da.injuryImpact} />}
               {da?.h2hAnalysis && <Dim icon="🔁" label="历史交锋" text={da.h2hAnalysis} />}
               {da?.oddsAnalysis && <Dim icon="💹" label="赔率与资金动向" text={da.oddsAnalysis} />}
+              {da?.qualificationAnalysis && <Dim icon="🏁" label="出线形势与本场影响" text={da.qualificationAnalysis} />}
               {da?.externalFactors && <Dim icon="🌍" label="地理/气候/主场" text={da.externalFactors} />}
               {da?.psychologyAnalysis && <Dim icon="🧠" label="心理与大赛经验" text={da.psychologyAnalysis} />}
               {da?.consensusView && <Dim icon="🗣️" label="全网专家共识" text={da.consensusView} />}

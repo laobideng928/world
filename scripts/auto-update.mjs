@@ -57,6 +57,22 @@ function oddsText(realOdds, t1, t2) {
     `${s}: ${t1} ${o[t1] ?? '-'} / 平 ${o.draw ?? '-'} / ${t2} ${o[t2] ?? '-'}`).join('；')
 }
 
+// 小组积分榜数据（每次更新时从analysis.json读取或硬编码最新）
+const standings = {
+  G: [{t:'埃及',p:4,gd:2},{t:'伊朗',p:2,gd:0},{t:'比利时',p:2,gd:0},{t:'新西兰',p:1,gd:-2}],
+  H: [{t:'西班牙',p:4,gd:4},{t:'乌拉圭',p:2,gd:0},{t:'佛得角',p:2,gd:0},{t:'沙特阿拉伯',p:1,gd:-4}],
+  I: [{t:'法国',p:6,gd:5},{t:'挪威',p:6,gd:4},{t:'塞内加尔',p:0,gd:-3},{t:'伊拉克',p:0,gd:-6}],
+  J: [{t:'阿根廷',p:6,gd:5},{t:'奥地利',p:3,gd:0},{t:'阿尔及利亚',p:3,gd:-2},{t:'约旦',p:0,gd:-3}],
+  K: [{t:'哥伦比亚',p:6,gd:3},{t:'葡萄牙',p:4,gd:5},{t:'刚果民主共和国',p:1,gd:-1},{t:'乌兹别克斯坦',p:0,gd:-7}],
+  L: [{t:'英格兰',p:4,gd:2},{t:'加纳',p:4,gd:1},{t:'克罗地亚',p:3,gd:-1},{t:'巴拿马',p:0,gd:-2}],
+}
+
+function standingsText(group) {
+  const s = standings[group]
+  if (!s) return '（暂无积分榜数据）'
+  return `当前${group}组积分榜: ` + s.map((x,i) => `${i+1}.${x.t}(${x.p}分,净胜${x.gd})`).join(' | ') + ' [前2名+最佳第3名出线]'
+}
+
 async function analyze(m, news, retries = 2) {
   const ins = m.insights || {}
   const newsBlock = news.length ? news.map((n, i) => `${i + 1}. ${n}`).join('\n') : '（本次未抓取到新增新闻，请基于已知情报分析）'
@@ -65,6 +81,7 @@ async function analyze(m, news, retries = 2) {
 【比赛】第${m.matchNo}场 ${m.group}组 ${m.team1}(FIFA第${m.team1Rank}) vs ${m.team2}(FIFA第${m.team2Rank})
 【开球】${m.kickoff} 美东ET · ${m.city} ${m.venue}
 【各平台真实赔率(主/平/客)】${oddsText(m.realOdds, m.team1, m.team2)}
+【出线形势】${standingsText(m.group)}
 【既有情报】伤病:${ins.injuries||'-'}；状态:${ins.form||'-'}；战术:${ins.tactics||'-'}；交锋:${ins.h2h||'-'}；关键球员:${ins.keyPlayers||'-'}
 【最新新闻(Google News,${new Date().toISOString().slice(0,10)})】
 ${newsBlock}
@@ -88,6 +105,7 @@ ${newsBlock}
  "historicalUpsetPattern":"历史上类似配置的爆冷案例参考(80字内)",
  "valueAssessment":"当前赔率是否低估了弱队？押注价值如何(80字内)",
  "upsetScenario":"如果爆冷发生，最可能的比赛剧本是什么(100字内)",
+ "qualificationAnalysis":"当前出线形势与本场对出线的影响分析：双方积分、出线条件、若爆冷出线格局如何变化(150字内)",
  "objectiveConclusion":"最客观结论与比分区间(120字内)"
 }
 平衡呈现支持与反对爆冷的论据。只返回JSON。`
