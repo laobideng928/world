@@ -52,6 +52,12 @@ interface UpsetResult {
   deepAnalysis?: DeepAnalysis | null
   insights?: Insights | null
   latestNews?: string[] | null
+  coachAnalysis?: {
+    team1Coach?: { name?: string; style?: string; formation?: string; formationStrengths?: string; formationWeaknesses?: string }
+    team2Coach?: { name?: string; style?: string; formation?: string; formationStrengths?: string; formationWeaknesses?: string }
+    formationMatchup?: string
+    coachTacticalBattle?: string
+  } | null
 }
 
 // 根据 1X2 赔率计算去水位后的隐含概率
@@ -236,6 +242,30 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
           {expanded && (
             <div className="mt-3 space-y-3 text-xs">
               {da?.tacticalAnalysis && <Dim icon="⚙️" label="战术体系与相克" text={da.tacticalAnalysis} />}
+
+              {/* 主教练与阵型PK */}
+              {upset.coachAnalysis && (
+                <div className="p-2 rounded-lg bg-white/5 space-y-1.5">
+                  <div className="text-gray-400 mb-1">👔 主教练 & 阵型 PK</div>
+                  {upset.coachAnalysis.team1Coach && (
+                    <div className="text-gray-300">
+                      <span className="text-blue-300">{upset.team1}</span>：{upset.coachAnalysis.team1Coach.name} · <span className="text-white font-medium">{upset.coachAnalysis.team1Coach.formation}</span> · {upset.coachAnalysis.team1Coach.style}
+                    </div>
+                  )}
+                  {upset.coachAnalysis.team2Coach && (
+                    <div className="text-gray-300">
+                      <span className="text-purple-300">{upset.team2}</span>：{upset.coachAnalysis.team2Coach.name} · <span className="text-white font-medium">{upset.coachAnalysis.team2Coach.formation}</span> · {upset.coachAnalysis.team2Coach.style}
+                    </div>
+                  )}
+                  {upset.coachAnalysis.formationMatchup && (
+                    <div className="text-gray-300 pt-1 border-t border-white/5">⚔️ 阵型PK：{upset.coachAnalysis.formationMatchup}</div>
+                  )}
+                  {upset.coachAnalysis.coachTacticalBattle && (
+                    <div className="text-gray-300">🧩 教练博弈：{upset.coachAnalysis.coachTacticalBattle}</div>
+                  )}
+                </div>
+              )}
+
               {da?.physicalAnalysis && <Dim icon="💪" label="身体素质对比" text={da.physicalAnalysis} />}
               {da?.formAnalysis && <Dim icon="📈" label="近期状态与士气" text={da.formAnalysis} />}
               {da?.injuryImpact && <Dim icon="🏥" label="伤病停赛影响" text={da.injuryImpact} />}

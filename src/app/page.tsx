@@ -31,6 +31,7 @@ interface UpsetResult {
   deepAnalysis?: Record<string, unknown> | null
   insights?: Record<string, unknown> | null
   latestNews?: string[] | null
+  coachAnalysis?: Record<string, unknown> | null
 }
 
 type SortMode = 'upset' | 'time'
