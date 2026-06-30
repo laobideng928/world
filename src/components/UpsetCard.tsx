@@ -132,24 +132,44 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
         </div>
       )}
 
-      {/* 胜平负概率（Opus研判） */}
+      {/* 胜平负/胜负概率（Opus研判） */}
       {wp && (
         <div className="mb-3">
-          <div className="text-[10px] text-gray-500 mb-1">胜平负概率 (Opus 4.8 去水位研判)</div>
-          <div className="flex w-full h-6 rounded-md overflow-hidden text-[10px] font-medium">
-            <div className="bg-blue-500/70 flex items-center justify-center" style={{ width: `${wp[upset.team1] ?? 0}%` }} title={upset.team1}>
-              {(wp[upset.team1] ?? 0) >= 12 ? `${wp[upset.team1]}%` : ''}
-            </div>
-            <div className="bg-gray-500/60 flex items-center justify-center" style={{ width: `${wp.draw ?? 0}%` }} title="平">
-              {(wp.draw ?? 0) >= 12 ? `${wp.draw}%` : ''}
-            </div>
-            <div className="bg-purple-500/70 flex items-center justify-center" style={{ width: `${wp[upset.team2] ?? 0}%` }} title={upset.team2}>
-              {(wp[upset.team2] ?? 0) >= 12 ? `${wp[upset.team2]}%` : ''}
-            </div>
+          <div className="text-[10px] text-gray-500 mb-1">
+            {wp.draw ? '胜平负概率' : '胜负概率'} (Opus 4.8 去水位研判)
           </div>
-          <div className="flex justify-between text-[10px] text-gray-500 mt-0.5">
-            <span>{upset.team1}</span><span>平</span><span>{upset.team2}</span>
-          </div>
+          {wp.draw ? (
+            <>
+              <div className="flex w-full h-6 rounded-md overflow-hidden text-[10px] font-medium">
+                <div className="bg-blue-500/70 flex items-center justify-center" style={{ width: `${wp[upset.team1] ?? 0}%` }}>
+                  {(wp[upset.team1] ?? 0) >= 12 ? `${wp[upset.team1]}%` : ''}
+                </div>
+                <div className="bg-gray-500/60 flex items-center justify-center" style={{ width: `${wp.draw ?? 0}%` }}>
+                  {(wp.draw ?? 0) >= 12 ? `${wp.draw}%` : ''}
+                </div>
+                <div className="bg-purple-500/70 flex items-center justify-center" style={{ width: `${wp[upset.team2] ?? 0}%` }}>
+                  {(wp[upset.team2] ?? 0) >= 12 ? `${wp[upset.team2]}%` : ''}
+                </div>
+              </div>
+              <div className="flex justify-between text-[10px] text-gray-500 mt-0.5">
+                <span>{upset.team1}</span><span>平</span><span>{upset.team2}</span>
+              </div>
+            </>
+          ) : (
+            <>
+              <div className="flex w-full h-6 rounded-md overflow-hidden text-[10px] font-medium">
+                <div className="bg-blue-500/70 flex items-center justify-center" style={{ width: `${wp[upset.team1] ?? 0}%` }}>
+                  {`${wp[upset.team1] ?? 0}%`}
+                </div>
+                <div className="bg-purple-500/70 flex items-center justify-center" style={{ width: `${wp[upset.team2] ?? 0}%` }}>
+                  {`${wp[upset.team2] ?? 0}%`}
+                </div>
+              </div>
+              <div className="flex justify-between text-[10px] text-gray-500 mt-0.5">
+                <span>{upset.team1}</span><span>淘汰赛·无平局</span><span>{upset.team2}</span>
+              </div>
+            </>
+          )}
         </div>
       )}
 
