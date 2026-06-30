@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react'
 import { groups } from '@/data/matches'
 import analysisData from '@/data/analysis.json'
+import knockoutData from '@/data/knockout-analysis.json'
 import UpsetCard from '@/components/UpsetCard'
 import GroupView from '@/components/GroupView'
 import BracketView from '@/components/BracketView'
@@ -41,16 +42,20 @@ export default function HomePage() {
   const [riskFilter, setRiskFilter] = useState<RiskFilter>('all')
 
   const allMatches = analysisData.matches as unknown as UpsetResult[]
-  const lastUpdated = (analysisData as { lastUpdated?: string }).lastUpdated
+  const koMatches = (knockoutData as { matches: unknown[] }).matches as unknown as UpsetResult[]
+  const lastUpdated = (analysisData as { lastUpdated?: string }).lastUpdated || (knockoutData as { generatedAt?: string }).generatedAt
   const lastUpdatedText = lastUpdated
     ? new Date(lastUpdated).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })
     : null
 
-  // 仅展示当前仍未开赛的比赛（基于固定数据再做一次实时时间过滤）
+  // 优先展示小组赛剩余，若为0则展示淘汰赛分析
   const upcoming = useMemo(() => {
     const now = Date.now()
-    return allMatches.filter(m => new Date(m.kickoffET).getTime() > now)
-  }, [allMatches])
+    const groupUpcoming = allMatches.filter(m => m.kickoffET && new Date(m.kickoffET).getTime() > now)
+    if (groupUpcoming.length > 0) return groupUpcoming
+    // 小组赛已全部结束，展示淘汰赛
+    return koMatches
+  }, [allMatches, koMatches])
 
   const displayed = useMemo(() => {
     let list = [...upcoming]
