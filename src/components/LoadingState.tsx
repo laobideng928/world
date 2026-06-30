@@ -1,7 +1,7 @@
 export default function LoadingState() {
   const tips = [
-    '正在加载 Polymarket 预测市场数据...',
-    '正在读取 Bet365 / William Hill 赔率...',
+    '正在加载市场预测数据...',
+    '正在读取多平台赔率...',
     '正在分析72场小组赛对阵与战术风格...',
     '正在评估各队身体素质与历史交锋...',
     'Gemini 3.1 Pro 深度推理计算爆冷概率...',

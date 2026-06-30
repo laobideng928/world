@@ -76,8 +76,8 @@ function impliedProb(o: Record<string, number>, t1: string, t2: string) {
 }
 
 const BOOK_LABELS: Record<string, string> = {
-  polymarket: 'Polymarket', pinnacle: 'Pinnacle', bet365: 'Bet365',
-  williamhill: 'William Hill', draftkings: 'DraftKings', fanduel: 'FanDuel', kalshi: 'Kalshi',
+  polymarket: '平台A', pinnacle: '平台B', bet365: '平台C',
+  williamhill: '平台D', draftkings: '平台E', fanduel: '平台F', kalshi: '平台G',
 }
 
 export default function UpsetCard({ upset }: { upset: UpsetResult }) {
@@ -93,11 +93,11 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
   const da = upset.deepAnalysis
   const ins = upset.insights
   const wp = da?.winProbability
-  // 市场隐含概率（优先 polymarket → pinnacle → bet365 → williamhill）
+  // 市场隐含概率（从赔率数据计算）
   const pmOdds = upset.realOdds?.polymarket
   const refOdds = pmOdds || upset.realOdds?.pinnacle || upset.realOdds?.bet365 || upset.realOdds?.williamhill
   const pmProb = refOdds ? impliedProb(refOdds, upset.team1, upset.team2) : null
-  const pmLabel = pmOdds ? 'Polymarket' : upset.realOdds?.pinnacle ? 'Pinnacle(去水位)' : upset.realOdds?.bet365 ? 'Bet365(去水位)' : 'William Hill(去水位)'
+  const pmLabel = '市场隐含(去水位)'
 
   return (
     <div className={`rounded-xl p-5 border transition-all duration-300 ${colors.bg} ${colors.glow}`}>
@@ -130,7 +130,7 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
         )}
       </div>
 
-      {/* Polymarket/市场隐含概率 */}
+      {/* 市场隐含概率 */}
       {pmProb && (
         <div className="mb-3 p-2 rounded-lg bg-indigo-500/10 border border-indigo-500/20">
           <div className="flex items-center justify-between text-[10px] text-indigo-300/80 mb-1">
@@ -207,7 +207,7 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
       {/* 真实赔率表 */}
       {upset.realOdds && Object.keys(upset.realOdds).length > 0 && (
         <div className="mb-3 p-2 rounded-lg bg-black/20 border border-white/10">
-          <div className="text-xs text-gray-400 mb-1.5">🏦 各平台真实赔率 (主/平/客)</div>
+          <div className="text-xs text-gray-400 mb-1.5">🏦 多平台赔率对比 (主/平/客)</div>
           <div className="space-y-1">
             <div className="grid grid-cols-4 gap-1 text-[10px] text-gray-500">
               <span>平台</span><span className="text-center">{upset.team1}</span><span className="text-center">平</span><span className="text-center">{upset.team2}</span>

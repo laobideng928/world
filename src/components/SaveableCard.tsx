@@ -65,7 +65,7 @@ export default function SaveableCard({ children, fileName }: Props) {
     ctx.font = `${10 * 2}px sans-serif`
     ctx.fillStyle = '#6b7280'
     ctx.fillText('扫码访问完整分析 →', pad, canvas.height + pad + 60)
-    ctx.fillText('Claude Opus 4.8 · Polymarket · Bet365', pad, canvas.height + pad + 85)
+    ctx.fillText('Claude Opus 4.8 · 多平台赔率 · AI分析', pad, canvas.height + pad + 85)
 
     // 下载
     const link = document.createElement('a')

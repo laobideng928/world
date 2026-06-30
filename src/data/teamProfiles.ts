@@ -1,5 +1,5 @@
-// 2026世界杯球队数据：博彩赔率、战术风格、身体素质
-// 数据来源：Polymarket、Bet365、William Hill、Oddspedia（截至2026年6月）
+// 2026世界杯球队数据：赔率、战术风格、身体素质
+// 数据来源：多平台市场数据（截至2026年6月）
 
 export interface TeamProfile {
   name: string
@@ -120,14 +120,14 @@ export const teamProfiles: Record<string, TeamProfile> = {
   },
 }
 
-// 博彩赔率数据（小组出线/比赛胜负赔率，欧赔）
+// 赔率数据（小组出线/比赛胜负赔率，欧赔）
 export interface OddsData {
   team1: string
   team2: string
   group: string
   // 来自不同平台的胜负赔率（欧赔，team1胜/平/team2胜）
-  bet365: { team1Win: number; draw: number; team2Win: number }
-  polymarketImplied: { team1: number; draw: number; team2: number } // 隐含概率%
+  platform1: { team1Win: number; draw: number; team2Win: number }
+  platformImplied: { team1: number; draw: number; team2: number } // 隐含概率%
   // 爆冷赢球赔率（弱队取胜的赔率）
   upsetWinOdds: number
   upsetTeam: string

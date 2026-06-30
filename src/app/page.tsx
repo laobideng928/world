@@ -82,7 +82,7 @@ export default function HomePage() {
           ⚽ 2026世界杯爆冷分析器
         </h1>
         <p className="text-gray-300 text-sm sm:text-lg md:text-xl max-w-2xl mx-auto px-2">
-          Claude Opus 4.8 全维度客观分析 + Polymarket/Bet365/Pinnacle 真实赔率 + 全网优质观点汇总，逐场深度解析
+          Claude Opus 4.8 全维度客观分析 + 多平台真实赔率 + 全网优质观点汇总，逐场深度解析
         </p>
         <div className="mt-2 text-sm text-gray-500">
           🇺🇸🇨🇦🇲🇽 美国·加拿大·墨西哥 | 48支球队 · 12个小组 · 104场比赛
@@ -207,7 +207,7 @@ export default function HomePage() {
 
       {/* 底部 */}
       <footer className="text-center mt-16 text-gray-500 text-sm">
-        <p>数据来源: FIFA官方 · Polymarket · Bet365 · William Hill · Pinnacle · 全网媒体 · Claude Opus 4.8 全维度分析</p>
+        <p>数据来源: FIFA官方 · 多平台赔率 · 全网媒体 · Claude Opus 4.8 全维度分析</p>
         <p className="mt-1">2026世界杯 · 美国·加拿大·墨西哥 联合举办</p>
       </footer>
     </main>
