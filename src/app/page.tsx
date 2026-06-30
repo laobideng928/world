@@ -5,6 +5,7 @@ import { groups } from '@/data/matches'
 import analysisData from '@/data/analysis.json'
 import knockoutData from '@/data/knockout-analysis.json'
 import UpsetCard from '@/components/UpsetCard'
+import SaveableCard from '@/components/SaveableCard'
 import GroupView from '@/components/GroupView'
 import BracketView from '@/components/BracketView'
 
@@ -77,10 +78,10 @@ export default function HomePage() {
     <main className="min-h-screen p-4 md:p-8">
       {/* 头部 */}
       <header className="text-center mb-8">
-        <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-yellow-400 via-yellow-200 to-yellow-400 bg-clip-text text-transparent mb-4">
+        <h1 className="text-2xl sm:text-4xl md:text-6xl font-bold bg-gradient-to-r from-yellow-400 via-yellow-200 to-yellow-400 bg-clip-text text-transparent mb-3">
           ⚽ 2026世界杯爆冷分析器
         </h1>
-        <p className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto">
+        <p className="text-gray-300 text-sm sm:text-lg md:text-xl max-w-2xl mx-auto px-2">
           Claude Opus 4.8 全维度客观分析 + Polymarket/Bet365/Pinnacle 真实赔率 + 全网优质观点汇总，逐场深度解析
         </p>
         <div className="mt-2 text-sm text-gray-500">
@@ -95,10 +96,10 @@ export default function HomePage() {
       </header>
 
       {/* 选项卡 */}
-      <div className="flex justify-center gap-4 mb-8">
+      <div className="flex justify-start sm:justify-center gap-2 sm:gap-4 mb-6 sm:mb-8 overflow-x-auto px-2 pb-2 scrollbar-hide">
         <button
           onClick={() => setActiveTab('analysis')}
-          className={`px-6 py-3 rounded-lg font-medium transition-all ${
+          className={`px-4 py-2 sm:px-6 sm:py-3 rounded-lg text-sm sm:text-base font-medium whitespace-nowrap transition-all ${
             activeTab === 'analysis'
               ? 'bg-yellow-500/20 text-yellow-400 border border-yellow-500/50'
               : 'bg-white/5 text-gray-400 border border-white/10 hover:bg-white/10'
@@ -108,7 +109,7 @@ export default function HomePage() {
         </button>
         <button
           onClick={() => setActiveTab('groups')}
-          className={`px-6 py-3 rounded-lg font-medium transition-all ${
+          className={`px-4 py-2 sm:px-6 sm:py-3 rounded-lg text-sm sm:text-base font-medium whitespace-nowrap transition-all ${
             activeTab === 'groups'
               ? 'bg-yellow-500/20 text-yellow-400 border border-yellow-500/50'
               : 'bg-white/5 text-gray-400 border border-white/10 hover:bg-white/10'
@@ -118,7 +119,7 @@ export default function HomePage() {
         </button>
         <button
           onClick={() => setActiveTab('bracket')}
-          className={`px-6 py-3 rounded-lg font-medium transition-all ${
+          className={`px-4 py-2 sm:px-6 sm:py-3 rounded-lg text-sm sm:text-base font-medium whitespace-nowrap transition-all ${
             activeTab === 'bracket'
               ? 'bg-yellow-500/20 text-yellow-400 border border-yellow-500/50'
               : 'bg-white/5 text-gray-400 border border-white/10 hover:bg-white/10'
@@ -131,7 +132,7 @@ export default function HomePage() {
       {activeTab === 'analysis' && (
         <div className="max-w-6xl mx-auto">
           {/* 统计概览 */}
-          <div className="mb-6 grid grid-cols-2 md:grid-cols-4 gap-3">
+          <div className="mb-4 sm:mb-6 grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
             <div className="text-center p-4 rounded-xl bg-white/5 border border-white/10">
               <div className="text-2xl font-bold text-white">{upcoming.length}</div>
               <div className="text-xs text-gray-400 mt-1">待赛比赛</div>
@@ -185,7 +186,9 @@ export default function HomePage() {
           ) : (
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {displayed.map((m) => (
-                <UpsetCard key={m.matchNo} upset={{ ...m, rank: 0 }} />
+                <SaveableCard key={m.matchNo} fileName={`爆冷分析_第${m.matchNo}场_${m.team1}vs${m.team2}`}>
+                  <UpsetCard upset={{ ...m, rank: 0 }} />
+                </SaveableCard>
               ))}
             </div>
           )}
