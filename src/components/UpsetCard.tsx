@@ -58,6 +58,12 @@ interface UpsetResult {
     formationMatchup?: string
     coachTacticalBattle?: string
   } | null
+  wcRecord?: {
+    team1WCRecord?: string
+    team2WCRecord?: string
+    formComparison?: string
+    matchupInsight?: string
+  } | null
 }
 
 // 根据 1X2 赔率计算去水位后的隐含概率
@@ -242,6 +248,25 @@ export default function UpsetCard({ upset }: { upset: UpsetResult }) {
           {expanded && (
             <div className="mt-3 space-y-3 text-xs">
               {da?.tacticalAnalysis && <Dim icon="⚙️" label="战术体系与相克" text={da.tacticalAnalysis} />}
+
+              {/* 本届世界杯比赛记录复盘 */}
+              {upset.wcRecord && (
+                <div className="p-2 rounded-lg bg-white/5 space-y-1.5">
+                  <div className="text-gray-400 mb-1">📋 本届世界杯比赛记录 & 复盘</div>
+                  {upset.wcRecord.team1WCRecord && (
+                    <div className="text-gray-300"><span className="text-blue-300">{upset.team1}</span>：{upset.wcRecord.team1WCRecord}</div>
+                  )}
+                  {upset.wcRecord.team2WCRecord && (
+                    <div className="text-gray-300"><span className="text-purple-300">{upset.team2}</span>：{upset.wcRecord.team2WCRecord}</div>
+                  )}
+                  {upset.wcRecord.formComparison && (
+                    <div className="text-gray-300 pt-1 border-t border-white/5">📊 状态对比：{upset.wcRecord.formComparison}</div>
+                  )}
+                  {upset.wcRecord.matchupInsight && (
+                    <div className="text-yellow-300/80 pt-1">🔑 对阵洞察：{upset.wcRecord.matchupInsight}</div>
+                  )}
+                </div>
+              )}
 
               {/* 主教练与阵型PK */}
               {upset.coachAnalysis && (
