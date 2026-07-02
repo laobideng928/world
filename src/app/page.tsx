@@ -8,6 +8,7 @@ import UpsetCard from '@/components/UpsetCard'
 import SaveableCard from '@/components/SaveableCard'
 import GroupView from '@/components/GroupView'
 import BracketView from '@/components/BracketView'
+import ChampionView from '@/components/ChampionView'
 
 interface UpsetResult {
   matchNo: number
@@ -40,7 +41,7 @@ type SortMode = 'upset' | 'time'
 type RiskFilter = 'all' | 'high' | 'medium' | 'low'
 
 export default function HomePage() {
-  const [activeTab, setActiveTab] = useState<'analysis' | 'groups' | 'bracket'>('analysis')
+  const [activeTab, setActiveTab] = useState<'analysis' | 'champion' | 'groups' | 'bracket'>('analysis')
   const [sortMode, setSortMode] = useState<SortMode>('upset')
   const [riskFilter, setRiskFilter] = useState<RiskFilter>('all')
 
@@ -106,6 +107,16 @@ export default function HomePage() {
           }`}
         >
           🔥 爆冷分析
+        </button>
+        <button
+          onClick={() => setActiveTab('champion')}
+          className={`px-4 py-2 sm:px-6 sm:py-3 rounded-lg text-sm sm:text-base font-medium whitespace-nowrap transition-all ${
+            activeTab === 'champion'
+              ? 'bg-yellow-500/20 text-yellow-400 border border-yellow-500/50'
+              : 'bg-white/5 text-gray-400 border border-white/10 hover:bg-white/10'
+          }`}
+        >
+          👑 夺冠概率
         </button>
         <button
           onClick={() => setActiveTab('groups')}
@@ -204,6 +215,8 @@ export default function HomePage() {
       )}
 
       {activeTab === 'bracket' && <BracketView />}
+
+      {activeTab === 'champion' && <ChampionView />}
 
       {/* 底部 */}
       <footer className="text-center mt-16 text-gray-500 text-sm">
